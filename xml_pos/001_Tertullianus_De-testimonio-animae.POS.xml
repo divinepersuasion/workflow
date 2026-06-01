@@ -1,0 +1,3748 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De testimonio animae</title>
+              <author ref="http://viaf.org/viaf/100226395">Tertullianus<date>150-230</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1844</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 1</title>
+           <idno>Tertul.DeTeAn</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ <xenoData xmlns:cc="http://mlat.uzh.ch/2.0">
+      <prep xmlns="http://mlat.uzh.ch/2.0">
+        <step1>2024-03-04T01:28:54.689</step1>
+      <step2>2024-03-04T01:28:58.073</step2>
+      <lemmatisation lemmatiser="treetagger">2024-03-04T01:29:02.608</lemmatisation>
+        <step3>2024-03-04T01:29:02.608</step3>
+      </prep>
+    <loaded xmlns="http://mlat.uzh.ch/2.0">
+        <cc_idno>50</cc_idno>
+      </loaded>
+      <statistics xmlns="http://mlat.uzh.ch/2.0" when="2024-03-11T09:11:06.323">
+        <sentences>133</sentences>
+        <tokens>2510</tokens>
+        <words>2335</words>
+        <words_by_language>
+          <lat usage="100">2335</lat>
+        </words_by_language>
+        <words_by_alphabet>
+          <latin usage="100">2335</latin>
+        </words_by_alphabet>
+        <lemmata n="773">
+          <lemma count="115">et</lemma>
+          <lemma count="95">qui</lemma>
+          <lemma count="66">????</lemma>
+          <lemma count="59">sum</lemma>
+          <lemma count="38">in</lemma>
+          <lemma count="38">de</lemma>
+          <lemma count="36">non</lemma>
+          <lemma count="36">Deus</lemma>
+          <lemma count="32">is</lemma>
+          <lemma count="28">tu</lemma>
+          <lemma count="27">si</lemma>
+          <lemma count="26">aut</lemma>
+          <lemma count="25">anima</lemma>
+          <lemma count="22">ut</lemma>
+          <lemma count="20">nos</lemma>
+          <lemma count="19">mors</lemma>
+          <lemma count="18">cum</lemma>
+          <lemma count="18">timeo</lemma>
+          <lemma count="17">tuus</lemma>
+          <lemma count="16">omnis</lemma>
+          <lemma count="15">ad</lemma>
+          <lemma count="15">homo</lemma>
+          <lemma count="15">ipse</lemma>
+          <lemma count="14">post</lemma>
+          <lemma count="14">tantus</lemma>
+          <lemma count="14">a</lemma>
+          <lemma count="13">Christianus</lemma>
+          <lemma count="13">littera</lemma>
+          <lemma count="13">suus</lemma>
+          <lemma count="13">Deus|dea</lemma>
+          <lemma count="11">nihil</lemma>
+          <lemma count="11">hic</lemma>
+          <lemma count="11">possum</lemma>
+          <lemma count="11">credo</lemma>
+          <lemma count="11">cur</lemma>
+          <lemma count="10">ex</lemma>
+          <lemma count="10">ille</lemma>
+          <lemma count="10">vel</lemma>
+          <lemma count="10">sed</lemma>
+          <lemma count="10">seu</lemma>
+          <lemma count="10">aliquis</lemma>
+          <lemma count="10">judicium</lemma>
+          <lemma count="10">nosco</lemma>
+          <lemma count="9">testimonium</lemma>
+          <lemma count="9">quis</lemma>
+          <lemma count="9">jam</lemma>
+          <lemma count="9">totus</lemma>
+          <lemma count="9">unde</lemma>
+          <lemma count="9">dico</lemma>
+          <lemma count="9">nec</lemma>
+          <lemma count="8">christianus</lemma>
+          <lemma count="8">etiam</lemma>
+          <lemma count="8">solus</lemma>
+          <lemma count="8">-</lemma>
+          <lemma count="8">nam</lemma>
+          <lemma count="8">scio</lemma>
+          <lemma count="8">divinus</lemma>
+          <lemma count="8">natura</lemma>
+          <lemma count="8">bonus</lemma>
+          <lemma count="8">daemonion|daemonium</lemma>
+          <lemma count="8">ubique</lemma>
+          <lemma count="7">habeo</lemma>
+          <lemma count="7">nemo</lemma>
+          <lemma count="7">sentio</lemma>
+          <lemma count="7">malus</lemma>
+          <lemma count="7">etsi</lemma>
+          <lemma count="6">video</lemma>
+          <lemma count="6">nisi</lemma>
+          <lemma count="6">facio</lemma>
+          <lemma count="6">ab</lemma>
+          <lemma count="6">praedico</lemma>
+          <lemma count="6">do</lemma>
+          <lemma count="6">voco</lemma>
+          <lemma count="6">vita</lemma>
+          <lemma count="6">prior</lemma>
+          <lemma count="5">tamen</lemma>
+          <lemma count="5">memoria</lemma>
+          <lemma count="5">veritas</lemma>
+          <lemma count="5">communis</lemma>
+          <lemma count="5">ne</lemma>
+          <lemma count="5">igitur</lemma>
+          <lemma count="5">pronuntio</lemma>
+          <lemma count="5">noster</lemma>
+          <lemma count="5">debeo</lemma>
+          <lemma count="5">corpus</lemma>
+          <lemma count="5">enim</lemma>
+          <lemma count="5">nomen</lemma>
+          <lemma count="5">ita</lemma>
+          <lemma count="5">quasi</lemma>
+          <lemma count="5">tam</lemma>
+          <lemma count="5">at</lemma>
+          <lemma count="5">sine</lemma>
+          <lemma count="4">opinio</lemma>
+          <lemma count="4">unus</lemma>
+          <lemma count="4">volo</lemma>
+          <lemma count="4">philosophus</lemma>
+          <lemma count="4">doctrina</lemma>
+          <lemma count="4">error</lemma>
+          <lemma count="4">quidem</lemma>
+          <lemma count="4">litteratura</lemma>
+          <lemma count="4">penes</lemma>
+          <lemma count="4">sententia</lemma>
+          <lemma count="4">alius</lemma>
+          <lemma count="4">imus</lemma>
+          <lemma count="4">fio</lemma>
+          <lemma count="4">neque</lemma>
+          <lemma count="4">magis</lemma>
+          <lemma count="4">mentior</lemma>
+          <lemma count="4">sensus</lemma>
+          <lemma count="4">simplex</lemma>
+          <lemma count="4">nunc</lemma>
+          <lemma count="4">potestas</lemma>
+          <lemma count="4">quia</lemma>
+          <lemma count="4">bonitas</lemma>
+          <lemma count="4">utique</lemma>
+          <lemma count="4">naturalis</lemma>
+          <lemma count="4">conscientia</lemma>
+          <lemma count="4">nullus</lemma>
+          <lemma count="4">quantus</lemma>
+          <lemma count="4">propter</lemma>
+          <lemma count="4">hodie</lemma>
+          <lemma count="4">quanto</lemma>
+          <lemma count="3">argumentum</lemma>
+          <lemma count="3">novus</lemma>
+          <lemma count="3">longe</lemma>
+          <lemma count="3">opus</lemma>
+          <lemma count="3">quisque</lemma>
+          <lemma count="3">poeta</lemma>
+          <lemma count="3">sapientia</lemma>
+          <lemma count="3">humanus</lemma>
+          <lemma count="3">tunc</lemma>
+          <lemma count="3">passio</lemma>
+          <lemma count="3">foris</lemma>
+          <lemma count="3">saeculum</lemma>
+          <lemma count="3">denoto</lemma>
+          <lemma count="3">potius</lemma>
+          <lemma count="3">unicus</lemma>
+          <lemma count="3">exprobro</lemma>
+          <lemma count="3">coelum|coelus</lemma>
+          <lemma count="3">terra</lemma>
+          <lemma count="3">auctor</lemma>
+          <lemma count="3">quoque</lemma>
+          <lemma count="3">ac</lemma>
+          <lemma count="3">vox</lemma>
+          <lemma count="3">confiteor</lemma>
+          <lemma count="3">nego</lemma>
+          <lemma count="3">dum</lemma>
+          <lemma count="3">appello</lemma>
+          <lemma count="3">inter</lemma>
+          <lemma count="3">judex</lemma>
+          <lemma count="3">animadversio</lemma>
+          <lemma count="3">ira</lemma>
+          <lemma count="3">alibi</lemma>
+          <lemma count="3">an</lemma>
+          <lemma count="3">ergo</lemma>
+          <lemma count="3">denique</lemma>
+          <lemma count="3">apud</lemma>
+          <lemma count="3">sustineo</lemma>
+          <lemma count="3">defungor</lemma>
+          <lemma count="3">misellus</lemma>
+          <lemma count="3">incommodus</lemma>
+          <lemma count="3">vivo</lemma>
+          <lemma count="3">certe</lemma>
+          <lemma count="3">dedo|do</lemma>
+          <lemma count="3">magistra</lemma>
+          <lemma count="3">mirus</lemma>
+          <lemma count="3">usus</lemma>
+          <lemma count="3">loquela</lemma>
+          <lemma count="3">instruo</lemma>
+          <lemma count="2">caussa</lemma>
+          <lemma count="2">apologeticus</lemma>
+          <lemma count="2">genus</lemma>
+          <lemma count="2">perverto</lemma>
+          <lemma count="2">res</lemma>
+          <lemma count="2">status</lemma>
+          <lemma count="2">demonstro</lemma>
+          <lemma count="2">curiositas</lemma>
+          <lemma count="2">studeo</lemma>
+          <lemma count="2">saecularis</lemma>
+          <lemma count="2">magister</lemma>
+          <lemma count="2">proprius</lemma>
+          <lemma count="2">se</lemma>
+          <lemma count="2">revinco</lemma>
+          <lemma count="2">pristinus</lemma>
+          <lemma count="2">modus</lemma>
+          <lemma count="2">origo</lemma>
+          <lemma count="2">traditio</lemma>
+          <lemma count="2">per</lemma>
+          <lemma count="2">atque</lemma>
+          <lemma count="2">fides</lemma>
+          <lemma count="2">vanus</lemma>
+          <lemma count="2">pro</lemma>
+          <lemma count="2">omnino</lemma>
+          <lemma count="2">advoco</lemma>
+          <lemma count="2">consisto</lemma>
+          <lemma count="2">secundum</lemma>
+          <lemma count="2">plus</lemma>
+          <lemma count="2">quoniam</lemma>
+          <lemma count="2">excipio</lemma>
+          <lemma count="2">concipio</lemma>
+          <lemma count="2">formo</lemma>
+          <lemma count="2">pario</lemma>
+          <lemma count="2">ego</lemma>
+          <lemma count="2">disco</lemma>
+          <lemma count="2">nascor</lemma>
+          <lemma count="2">adversus</lemma>
+          <lemma count="2">erubesco</lemma>
+          <lemma count="2">odi</lemma>
+          <lemma count="2">irrideo</lemma>
+          <lemma count="2">dominus</lemma>
+          <lemma count="2">sub</lemma>
+          <lemma count="2">licet_est</lemma>
+          <lemma count="2">domus</lemma>
+          <lemma count="2">audio</lemma>
+          <lemma count="2">specto</lemma>
+          <lemma count="2">caeterus</lemma>
+          <lemma count="2">Minerva</lemma>
+          <lemma count="2">nomino</lemma>
+          <lemma count="2">utor</lemma>
+          <lemma count="2">plane</lemma>
+          <lemma count="2">scilicet</lemma>
+          <lemma count="2">ideo</lemma>
+          <lemma count="2">benedictio</lemma>
+          <lemma count="2">disciplina</lemma>
+          <lemma count="2">conversatio</lemma>
+          <lemma count="2">perinde</lemma>
+          <lemma count="2">iste</lemma>
+          <lemma count="2">sic</lemma>
+          <lemma count="2">irascor</lemma>
+          <lemma count="2">porro</lemma>
+          <lemma count="2">patior</lemma>
+          <lemma count="2">interitus</lemma>
+          <lemma count="2">capio</lemma>
+          <lemma count="2">idem</lemma>
+          <lemma count="2">cado</lemma>
+          <lemma count="2">nescio</lemma>
+          <lemma count="2">offendo</lemma>
+          <lemma count="2">reddo</lemma>
+          <lemma count="2">templum</lemma>
+          <lemma count="2">sto</lemma>
+          <lemma count="2">forma</lemma>
+          <lemma count="2">praesens</lemma>
+          <lemma count="2">contestor</lemma>
+          <lemma count="2">efficio</lemma>
+          <lemma count="2">affirmo</lemma>
+          <lemma count="2">exigo</lemma>
+          <lemma count="2">malitia</lemma>
+          <lemma count="2">deputo</lemma>
+          <lemma count="2">excedo</lemma>
+          <lemma count="2">dies</lemma>
+          <lemma count="2">refrigerium</lemma>
+          <lemma count="2">materia</lemma>
+          <lemma count="2">multo</lemma>
+          <lemma count="2">praesumptio</lemma>
+          <lemma count="2">securus</lemma>
+          <lemma count="2">bustum</lemma>
+          <lemma count="2">mortuus</lemma>
+          <lemma count="2">loquor</lemma>
+          <lemma count="2">ciner</lemma>
+          <lemma count="2">pars</lemma>
+          <lemma count="2">inferus</lemma>
+          <lemma count="2">possum|poto</lemma>
+          <lemma count="2">atquin</lemma>
+          <lemma count="2">alter</lemma>
+          <lemma count="2">fama</lemma>
+          <lemma count="2">posterus</lemma>
+          <lemma count="2">requiro</lemma>
+          <lemma count="2">vulgaris</lemma>
+          <lemma count="2">puto</lemma>
+          <lemma count="2">recogito</lemma>
+          <lemma count="2">discipula</lemma>
+          <lemma count="2">edoceo</lemma>
+          <lemma count="2">principalis</lemma>
+          <lemma count="2">praesumo</lemma>
+          <lemma count="2">ejusmodi</lemma>
+          <lemma count="2">sermo</lemma>
+          <lemma count="2">ante</lemma>
+          <lemma count="2">opinor</lemma>
+          <lemma count="2">antequam</lemma>
+          <lemma count="2">contingo</lemma>
+          <lemma count="2">lingua</lemma>
+          <lemma count="2">quum</lemma>
+          <lemma count="2">vester</lemma>
+          <lemma count="2">concedo</lemma>
+          <lemma count="2">convenio</lemma>
+          <lemma count="2">spiritus</lemma>
+          <lemma count="2">verbum</lemma>
+          <lemma count="2">gens</lemma>
+          <lemma count="2">varius</lemma>
+          <lemma count="2">reus</lemma>
+          <lemma count="2">testa|testis|testum</lemma>
+          <lemma count="1">uber</lemma>
+          <lemma count="1">scriptor|scriptum</lemma>
+          <lemma count="1">seges</lemma>
+          <lemma count="1">religio</lemma>
+          <lemma count="1">ago</lemma>
+          <lemma count="1">arena</lemma>
+          <lemma count="1">descendo</lemma>
+          <lemma count="1">Tertullianus</lemma>
+          <lemma count="1">pateo</lemma>
+          <lemma count="1">liber|libra</lemma>
+          <lemma count="1">duo</lemma>
+          <lemma count="1">contra</lemma>
+          <lemma count="1">natio</lemma>
+          <lemma count="1">juvo</lemma>
+          <lemma count="1">libella|libellus</lemma>
+          <lemma count="1">exordior</lemma>
+          <lemma count="1">pugno</lemma>
+          <lemma count="1">hostis</lemma>
+          <lemma count="1">adorio</lemma>
+          <lemma count="1">anima|animus</lemma>
+          <lemma count="1">evello</lemma>
+          <lemma count="1">tutus</lemma>
+          <lemma count="1">colloco</lemma>
+          <lemma count="1">opera|opus</lemma>
+          <lemma count="1">veluti</lemma>
+          <lemma count="1">fundamentum</lemma>
+          <lemma count="1">jacio</lemma>
+          <lemma count="1">cap.</lemma>
+          <lemma count="1">@card@</lemma>
+          <lemma count="1">verum</lemma>
+          <lemma count="1">OMP</lemma>
+          <lemma count="1">Latius|latus</lemma>
+          <lemma count="1">prosequor</lemma>
+          <lemma count="1">obiter</lemma>
+          <lemma count="1">perstringo</lemma>
+          <lemma count="1">praesertim</lemma>
+          <lemma count="1">i.</lemma>
+          <lemma count="1">magnus</lemma>
+          <lemma count="1">major</lemma>
+          <lemma count="1">excerpo</lemma>
+          <lemma count="1">aemulus</lemma>
+          <lemma count="1">instrumentum</lemma>
+          <lemma count="1">iniquitas</lemma>
+          <lemma count="1">res|reus</lemma>
+          <lemma count="1">nonnullus</lemma>
+          <lemma count="1">labor</lemma>
+          <lemma count="1">tenor</lemma>
+          <lemma count="1">persevero</lemma>
+          <lemma count="1">opusculum</lemma>
+          <lemma count="1">condo</lemma>
+          <lemma count="1">commemoro</lemma>
+          <lemma count="1">contestificans</lemma>
+          <lemma count="1">recognosco</lemma>
+          <lemma count="1">suscipio</lemma>
+          <lemma count="1">publicus</lemma>
+          <lemma count="1">suffragium</lemma>
+          <lemma count="1">patrocinor</lemma>
+          <lemma count="1">eicio</lemma>
+          <lemma count="1">aequitas</lemma>
+          <lemma count="1">admitto</lemma>
+          <lemma count="1">magister|magistra</lemma>
+          <lemma count="1">inclino</lemma>
+          <lemma count="1">incredulitas</lemma>
+          <lemma count="1">duritia</lemma>
+          <lemma count="1">sicubi</lemma>
+          <lemma count="1">defensio</lemma>
+          <lemma count="1">impingo</lemma>
+          <lemma count="1">fabula</lemma>
+          <lemma count="1">designo</lemma>
+          <lemma count="1">durus</lemma>
+          <lemma count="1">pulso</lemma>
+          <lemma count="1">hactenus</lemma>
+          <lemma count="1">sapiens</lemma>
+          <lemma count="1">prudens</lemma>
+          <lemma count="1">prope</lemma>
+          <lemma count="1">prudentia</lemma>
+          <lemma count="1">affecto</lemma>
+          <lemma count="1">ceremonia</lemma>
+          <lemma count="1">despuo</lemma>
+          <lemma count="1">felicitas</lemma>
+          <lemma count="1">falsus</lemma>
+          <lemma count="1">Verus|verum</lemma>
+          <lemma count="1">agnosco</lemma>
+          <lemma count="1">consto</lemma>
+          <lemma count="1">confido</lemma>
+          <lemma count="1">absum</lemma>
+          <lemma count="1">annuo</lemma>
+          <lemma count="1">venio|veneo</lemma>
+          <lemma count="1">editio</lemma>
+          <lemma count="1">medium|medius</lemma>
+          <lemma count="1">aeternus</lemma>
+          <lemma count="1">parum</lemma>
+          <lemma count="1">mortalis</lemma>
+          <lemma count="1">numerus</lemma>
+          <lemma count="1">atomus</lemma>
+          <lemma count="1">concinno</lemma>
+          <lemma count="1">induco</lemma>
+          <lemma count="1">animal</lemma>
+          <lemma count="1">rationalis</lemma>
+          <lemma count="1">scientia</lemma>
+          <lemma count="1">schola</lemma>
+          <lemma count="1">bibliotheca|bibliothece</lemma>
+          <lemma count="1">exercito</lemma>
+          <lemma count="1">Academia</lemma>
+          <lemma count="1">porticus</lemma>
+          <lemma count="1">Atticus</lemma>
+          <lemma count="1">ructo</lemma>
+          <lemma count="1">rudis</lemma>
+          <lemma count="1">impolitus</lemma>
+          <lemma count="1">compello</lemma>
+          <lemma count="1">qualis</lemma>
+          <lemma count="1">compitum|compitus</lemma>
+          <lemma count="1">trivium</lemma>
+          <lemma count="1">textrinus</lemma>
+          <lemma count="1">imperitia</lemma>
+          <lemma count="1">aliquantulus</lemma>
+          <lemma count="1">peritia</lemma>
+          <lemma count="1">expostulo</lemma>
+          <lemma count="1">infero</lemma>
+          <lemma count="1">quocumque</lemma>
+          <lemma count="1">soleo</lemma>
+          <lemma count="1">flagito</lemma>
+          <lemma count="1">extranea</lemma>
+          <lemma count="1">ob</lemma>
+          <lemma count="1">conscius</lemma>
+          <lemma count="1">detineo</lemma>
+          <lemma count="1">II</lemma>
+          <lemma count="1">placeo|placo</lemma>
+          <lemma count="1">universus</lemma>
+          <lemma count="1">palam</lemma>
+          <lemma count="1">libertas</lemma>
+          <lemma count="1">volo|volvo</lemma>
+          <lemma count="1">significo</lemma>
+          <lemma count="1">voluntas</lemma>
+          <lemma count="1">simul</lemma>
+          <lemma count="1">vocabulum</lemma>
+          <lemma count="1">nuncupo</lemma>
+          <lemma count="1">Jovis|Jupiter</lemma>
+          <lemma count="1">Mars</lemma>
+          <lemma count="1">solum</lemma>
+          <lemma count="1">confirmo</lemma>
+          <lemma count="1">interdum</lemma>
+          <lemma count="1">alienus</lemma>
+          <lemma count="1">mutuus</lemma>
+          <lemma count="1">lateo</lemma>
+          <lemma count="1">benefacio</lemma>
+          <lemma count="1">contrarius</lemma>
+          <lemma count="1">propositio</lemma>
+          <lemma count="1">obliquus</lemma>
+          <lemma count="1">figuraliter</lemma>
+          <lemma count="1">abscedo</lemma>
+          <lemma count="1">benignitas</lemma>
+          <lemma count="1">summa|summum</lemma>
+          <lemma count="1">sacramentum</lemma>
+          <lemma count="1">benedico</lemma>
+          <lemma count="1">facile</lemma>
+          <lemma count="1">necesse</lemma>
+          <lemma count="1">maledictum</lemma>
+          <lemma count="1">converto</lemma>
+          <lemma count="1">super</lemma>
+          <lemma count="1">dispector</lemma>
+          <lemma count="1">arbiter|arbitra</lemma>
+          <lemma count="1">puteo|puto</lemma>
+          <lemma count="1">magnus|maximus</lemma>
+          <lemma count="1">rejicio</lemma>
+          <lemma count="1">metus</lemma>
+          <lemma count="1">transvolo</lemma>
+          <lemma count="1">honoro</lemma>
+          <lemma count="1">cura|cures|curis</lemma>
+          <lemma count="1">observatio</lemma>
+          <lemma count="1">molestia</lemma>
+          <lemma count="1">absolvo</lemma>
+          <lemma count="1">adscribo</lemma>
+          <lemma count="1">inquiam</lemma>
+          <lemma count="1">corruptibilis</lemma>
+          <lemma count="1">corrumpo</lemma>
+          <lemma count="1">confero</lemma>
+          <lemma count="1">retorqueo</lemma>
+          <lemma count="1">superus</lemma>
+          <lemma count="1">dubius</lemma>
+          <lemma count="1">dator</lemma>
+          <lemma count="1">postremo</lemma>
+          <lemma count="1">propitius</lemma>
+          <lemma count="1">timor</lemma>
+          <lemma count="1">quomodo</lemma>
+          <lemma count="1">summus</lemma>
+          <lemma count="1">hinc</lemma>
+          <lemma count="1">suppeto</lemma>
+          <lemma count="1">prohibeo</lemma>
+          <lemma count="1">commendo</lemma>
+          <lemma count="1">plerumque</lemma>
+          <lemma count="1">vitta</lemma>
+          <lemma count="1">Ceres</lemma>
+          <lemma count="1">redimio</lemma>
+          <lemma count="1">pallium</lemma>
+          <lemma count="1">coccinatus</lemma>
+          <lemma count="1">dea</lemma>
+          <lemma count="1">linteatus</lemma>
+          <lemma count="1">imploro</lemma>
+          <lemma count="1">Juno</lemma>
+          <lemma count="1">aer|aes</lemma>
+          <lemma count="1">exoro</lemma>
+          <lemma count="1">calceo</lemma>
+          <lemma count="1">furvus</lemma>
+          <lemma count="1">galea</lemma>
+          <lemma count="1">forum|forus</lemma>
+          <lemma count="1">aliunde</lemma>
+          <lemma count="1">pateo|patior</lemma>
+          <lemma count="1">o</lemma>
+          <lemma count="1">testis</lemma>
+          <lemma count="1">III</lemma>
+          <lemma count="1">enimvero</lemma>
+          <lemma count="1">sane</lemma>
+          <lemma count="1">probo</lemma>
+          <lemma count="1">adsentator</lemma>
+          <lemma count="1">illudo</lemma>
+          <lemma count="1">abominatio</lemma>
+          <lemma count="1">execratio</lemma>
+          <lemma count="1">respondeo</lemma>
+          <lemma count="1">immunditia</lemma>
+          <lemma count="1">insolentia</lemma>
+          <lemma count="1">quacunque</lemma>
+          <lemma count="1">macula</lemma>
+          <lemma count="1">necessitas</lemma>
+          <lemma count="1">odium</lemma>
+          <lemma count="1">Satanas</lemma>
+          <lemma count="1">aversatio</lemma>
+          <lemma count="1">aspernatio</lemma>
+          <lemma count="1">detestatio</lemma>
+          <lemma count="1">angelus</lemma>
+          <lemma count="1">artifex</lemma>
+          <lemma count="1">primordium</lemma>
+          <lemma count="1">circum</lemma>
+          <lemma count="1">ventus</lemma>
+          <lemma count="1">praeceptum</lemma>
+          <lemma count="1">propterea</lemma>
+          <lemma count="1">exinde</lemma>
+          <lemma count="1">semen</lemma>
+          <lemma count="1">damnatio</lemma>
+          <lemma count="1">tradux</lemma>
+          <lemma count="1">perditor</lemma>
+          <lemma count="1">seco</lemma>
+          <lemma count="1">IV</lemma>
+          <lemma count="1">tendo</lemma>
+          <lemma count="1">maneo|mano</lemma>
+          <lemma count="1">exspecto</lemma>
+          <lemma count="1">meritum</lemma>
+          <lemma count="1">cruciatus</lemma>
+          <lemma count="1">destino</lemma>
+          <lemma count="1">utroque</lemma>
+          <lemma count="1">sempiterno</lemma>
+          <lemma count="1">necessario</lemma>
+          <lemma count="1">substantia</lemma>
+          <lemma count="1">revertor</lemma>
+          <lemma count="1">caro</lemma>
+          <lemma count="1">facultas</lemma>
+          <lemma count="1">ratio</lemma>
+          <lemma count="1">exhibitio</lemma>
+          <lemma count="1">mereo</lemma>
+          <lemma count="1">Pythagoricus</lemma>
+          <lemma count="1">bestia</lemma>
+          <lemma count="1">transfero</lemma>
+          <lemma count="1">dos</lemma>
+          <lemma count="1">Epicureus</lemma>
+          <lemma count="1">gratus</lemma>
+          <lemma count="1">defendo</lemma>
+          <lemma count="1">vanitas</lemma>
+          <lemma count="1">stupor</lemma>
+          <lemma count="1">primo</lemma>
+          <lemma count="1">recordor</lemma>
+          <lemma count="1">poena</lemma>
+          <lemma count="1">profiteor</lemma>
+          <lemma count="1">beneficium</lemma>
+          <lemma count="1">quando</lemma>
+          <lemma count="1">extra</lemma>
+          <lemma count="1">porta</lemma>
+          <lemma count="1">obsonium</lemma>
+          <lemma count="1">mattea</lemma>
+          <lemma count="1">parento</lemma>
+          <lemma count="1">recedo</lemma>
+          <lemma count="1">redeo</lemma>
+          <lemma count="1">sobrius</lemma>
+          <lemma count="1">convivium</lemma>
+          <lemma count="1">sors</lemma>
+          <lemma count="1">adulo</lemma>
+          <lemma count="1">laetus</lemma>
+          <lemma count="1">maledicus</lemma>
+          <lemma count="1">morsus</lemma>
+          <lemma count="1">gravis</lemma>
+          <lemma count="1">imprecor</lemma>
+          <lemma count="1">infer|inferus</lemma>
+          <lemma count="1">tormentum</lemma>
+          <lemma count="1">aeque</lemma>
+          <lemma count="1">gratia</lemma>
+          <lemma count="1">os</lemma>
+          <lemma count="1">comprecor</lemma>
+          <lemma count="1">bene</lemma>
+          <lemma count="1">requiesco</lemma>
+          <lemma count="1">cupio</lemma>
+          <lemma count="1">perseverans</lemma>
+          <lemma count="1">ubi</lemma>
+          <lemma count="1">relinquo</lemma>
+          <lemma count="1">ultra</lemma>
+          <lemma count="1">experior</lemma>
+          <lemma count="1">mino</lemma>
+          <lemma count="1">commodus</lemma>
+          <lemma count="1">amputo</lemma>
+          <lemma count="1">pariter</lemma>
+          <lemma count="1">pars|partum</lemma>
+          <lemma count="1">meta|metus</lemma>
+          <lemma count="1">diluo</lemma>
+          <lemma count="1">amissio</lemma>
+          <lemma count="1">pax</lemma>
+          <lemma count="1">penso</lemma>
+          <lemma count="1">libero</lemma>
+          <lemma count="1">decedo</lemma>
+          <lemma count="1">autem</lemma>
+          <lemma count="1">omitto</lemma>
+          <lemma count="1">evado</lemma>
+          <lemma count="1">congredior</lemma>
+          <lemma count="1">Spes</lemma>
+          <lemma count="1">fere</lemma>
+          <lemma count="1">cupidus</lemma>
+          <lemma count="1">longus</lemma>
+          <lemma count="1">retego|retexo</lemma>
+          <lemma count="1">Regulus</lemma>
+          <lemma count="1">Graecus</lemma>
+          <lemma count="1">vir</lemma>
+          <lemma count="1">innumerus</lemma>
+          <lemma count="1">elogium</lemma>
+          <lemma count="1">contemptus</lemma>
+          <lemma count="1">posthumus</lemma>
+          <lemma count="1">frequento</lemma>
+          <lemma count="1">laus</lemma>
+          <lemma count="1">mora|morum|morus|mos</lemma>
+          <lemma count="1">sepulcrum</lemma>
+          <lemma count="1">ambitio</lemma>
+          <lemma count="1">servo</lemma>
+          <lemma count="1">affecto|affector</lemma>
+          <lemma count="1">tantopere</lemma>
+          <lemma count="1">praeparo</lemma>
+          <lemma count="1">obitus</lemma>
+          <lemma count="1">forsitan</lemma>
+          <lemma count="1">excessus</lemma>
+          <lemma count="1">certus</lemma>
+          <lemma count="1">resurrectio</lemma>
+          <lemma count="1">quandoque</lemma>
+          <lemma count="1">pridem</lemma>
+          <lemma count="1">tanquam</lemma>
+          <lemma count="1">vivus</lemma>
+          <lemma count="1">prae</lemma>
+          <lemma count="1">manus</lemma>
+          <lemma count="1">occurro</lemma>
+          <lemma count="1">abeo</lemma>
+          <lemma count="1">reverto|revertor</lemma>
+          <lemma count="1">v.</lemma>
+          <lemma count="1">quanto|quantus</lemma>
+          <lemma count="1">verus</lemma>
+          <lemma count="1">quisquam</lemma>
+          <lemma count="1">frivolus</lemma>
+          <lemma count="1">frigidus</lemma>
+          <lemma count="1">majestas</lemma>
+          <lemma count="1">censeo</lemma>
+          <lemma count="1">auctoritas</lemma>
+          <lemma count="1">tantum</lemma>
+          <lemma count="1">adjudico</lemma>
+          <lemma count="1">quisquis</lemma>
+          <lemma count="1">perdisco</lemma>
+          <lemma count="1">aestimo</lemma>
+          <lemma count="1">praesagium</lemma>
+          <lemma count="1">vates|vatis</lemma>
+          <lemma count="1">omen</lemma>
+          <lemma count="1">augur</lemma>
+          <lemma count="1">eventus</lemma>
+          <lemma count="1">divino</lemma>
+          <lemma count="1">circumvenio</lemma>
+          <lemma count="1">adversarium|adversarius</lemma>
+          <lemma count="1">memini</lemma>
+          <lemma count="1">decerno</lemma>
+          <lemma count="1">exitus</lemma>
+          <lemma count="1">adversarius</lemma>
+          <lemma count="1">cano</lemma>
+          <lemma count="1">eruptio</lemma>
+          <lemma count="1">congenitus</lemma>
+          <lemma count="1">taceo</lemma>
+          <lemma count="1">commissum</lemma>
+          <lemma count="1">vulgus</lemma>
+          <lemma count="1">publico</lemma>
+          <lemma count="1">vitium</lemma>
+          <lemma count="1">taliter</lemma>
+          <lemma count="1">sermocinor</lemma>
+          <lemma count="1">liber</lemma>
+          <lemma count="1">stylus</lemma>
+          <lemma count="1">numquid</lemma>
+          <lemma count="1">divulgatio</lemma>
+          <lemma count="1">mutus</lemma>
+          <lemma count="1">absque</lemma>
+          <lemma count="1">hujusmodi</lemma>
+          <lemma count="1">pronuntiatio</lemma>
+          <lemma count="1">mendico</lemma>
+          <lemma count="1">ullus</lemma>
+          <lemma count="1">cesso</lemma>
+          <lemma count="1">beo</lemma>
+          <lemma count="1">facilis</lemma>
+          <lemma count="1">assiduus</lemma>
+          <lemma count="1">proximus</lemma>
+          <lemma count="1">quodammodo</lemma>
+          <lemma count="1">labia|labium</lemma>
+          <lemma count="1">retro</lemma>
+          <lemma count="1">Mercurius</lemma>
+          <lemma count="1">ordo</lemma>
+          <lemma count="1">dissemino</lemma>
+          <lemma count="1">unquam</lemma>
+          <lemma count="1">mens</lemma>
+          <lemma count="1">profero</lemma>
+          <lemma count="1">aura|auris|aurum</lemma>
+          <lemma count="1">scriptura</lemma>
+          <lemma count="1">Judaeus</lemma>
+          <lemma count="1">oleaster</lemma>
+          <lemma count="1">insitus</lemma>
+          <lemma count="1">modicus</lemma>
+          <lemma count="1">aetas</lemma>
+          <lemma count="1">antecedo</lemma>
+          <lemma count="1">locum|locus</lemma>
+          <lemma count="1">eloquium</lemma>
+          <lemma count="1">usurpo</lemma>
+          <lemma count="1">potior</lemma>
+          <lemma count="1">pertineo</lemma>
+          <lemma count="1">sumo</lemma>
+          <lemma count="1">trado</lemma>
+          <lemma count="1">vos</lemma>
+          <lemma count="1">multum</lemma>
+          <lemma count="1">refero</lemma>
+          <lemma count="1">vis</lemma>
+          <lemma count="1">exeo</lemma>
+          <lemma count="1">callositas</lemma>
+          <lemma count="1">caput</lemma>
+          <lemma count="1">VI</lemma>
+          <lemma count="1">itaque</lemma>
+          <lemma count="1">commentarium|commentarius</lemma>
+          <lemma count="1">arbitrium</lemma>
+          <lemma count="1">eligo</lemma>
+          <lemma count="1">quam</lemma>
+          <lemma count="1">fidelis</lemma>
+          <lemma count="1">soror</lemma>
+          <lemma count="1">observo</lemma>
+          <lemma count="1">dubito</lemma>
+          <lemma count="1">morior</lemma>
+          <lemma count="1">negligo</lemma>
+          <lemma count="1">colo</lemma>
+          <lemma count="1">maledico</lemma>
+          <lemma count="1">detesto</lemma>
+          <lemma count="1">sero|servio</lemma>
+          <lemma count="1">vindex</lemma>
+          <lemma count="1">judico</lemma>
+          <lemma count="1">accipio</lemma>
+          <lemma count="1">doceo</lemma>
+          <lemma count="1">suspectus</lemma>
+          <lemma count="1">convenientia</lemma>
+          <lemma count="1">praedicatio</lemma>
+          <lemma count="1">disconvenio</lemma>
+          <lemma count="1">graecus</lemma>
+          <lemma count="1">propinquus</lemma>
+          <lemma count="1">reputo</lemma>
+          <lemma count="1">universitas</lemma>
+          <lemma count="1">Latinus</lemma>
+          <lemma count="1">Argivus</lemma>
+          <lemma count="1">sol|solum</lemma>
+          <lemma count="1">sonus</lemma>
+          <lemma count="1">maledictio</lemma>
+          <lemma count="1">invocatio</lemma>
+          <lemma count="1">jure</lemma>
+          <lemma count="1">proclamo</lemma>
+          <lemma count="1">merito</lemma>
+          <lemma count="1">aula</lemma>
+          <lemma count="1">abomino</lemma>
+          <lemma count="1">adoro</lemma>
+          <lemma count="1">infernus</lemma>
+          <lemma count="1">supplex</lemma>
+          <lemma count="1">praecaveo</lemma>
+          <lemma count="1">sapio</lemma>
+          <lemma count="1">persequor</lemma>
+        </lemmata>
+      </statistics>
+    </xenoData>
+  </teiHeader>
+<text xmlns:cc="http://mlat.uzh.ch/2.0" cc:pid="50">
+ <body cc:pid="50">	
+<div cc:pid="50:1">
+        <head cc:pid="50:1;1">
+          <cc:s n="1" parent_pid="50:1;1">
+            <cc:w lemma="argumentum" pos="N:acc">ARGUMENTUM</cc:w>
+          </cc:s>ARGUMENTUM<cc:s/>
+        </head>
+
+<p cc:pid="50:1;2">
+          <cc:s n="1" parent_pid="50:1;2">
+            <cc:w lemma="????" pos="????">ARGUMENTUM.</cc:w>
+            <cc:w lemma="post" pos="PREP">Post</cc:w>
+            <cc:w lemma="uber" pos="ADJ">uberrimam</cc:w>
+            <cc:w lemma="scriptor|scriptum" pos="N:gen">Scriptorum</cc:w>
+            <cc:w lemma="seges" pos="N:acc">segetem</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="religio" pos="N:gen">religionis</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">Christianae</cc:w>
+            <cc:w lemma="caussa" pos="N:acc">caussam</cc:w>
+            <cc:w lemma="ago" pos="V:IND">egerant</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="arena" pos="N:acc">arenam</cc:w>
+            <cc:w lemma="descendo" pos="V:IND">descenderat</cc:w>
+            <cc:w lemma="Tertullianus" pos="N:nom">Tertullianus</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="pateo" pos="V:IND">patet</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="apologeticus" pos="ADJ:abl">Apologetico</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="liber|libra" pos="N:abl">libris</cc:w>
+            <cc:w lemma="duo" pos="ADJ:NUM">duobus</cc:w>
+            <cc:w lemma="contra" pos="PREP">contra</cc:w>
+            <cc:w lemma="natio" pos="N:acc">Nationes</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="tamen" pos="ADV">tamen</cc:w>
+            <cc:w lemma="caussa" pos="N:acc">caussam</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illam</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="juvo" pos="V:INF">juvisse</cc:w>
+            <cc:w lemma="video" pos="V:SUB">videretur</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">hunc</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="testimonium" pos="N:abl">Testimonio</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="libella|libellus" pos="N:acc">libellum</cc:w>
+            <cc:w lemma="exordior" pos="V:PTC:nom">exorsus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="novus" pos="ADJ:abl">novo</cc:w>
+            <cc:w lemma="pugno" pos="V:GED">pugnandi</cc:w>
+            <cc:w lemma="genus" pos="N:abl">genere</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">christiani</cc:w>
+            <cc:w lemma="hostis" pos="N:nom">hostes</cc:w>
+            <cc:w lemma="adorio" pos="V:SUB">adoriretur</cc:w>
+            <cc:w lemma="????" pos="????">conceptamque</cc:w>
+            <cc:w lemma="perverto" pos="V:PTC">perverse</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="????" pos="????">eorumdem</cc:w>
+            <cc:w lemma="anima|animus" pos="N:abl">animis</cc:w>
+            <cc:w lemma="opinio" pos="N:acc">opinionem</cc:w>
+            <cc:w lemma="evello" pos="V:SUB">evelleret</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="res" pos="N:acc">rem</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">Christianam</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tutus" pos="ADJ:abl">tuto</cc:w>
+            <cc:w lemma="colloco" pos="V:SUB">collocaret</cc:w>
+          </cc:s>ARGUMENTUM.-- <hi>Post uberrimam Scriptorum segetem,
+<pb n="0607D"/>
+qui religionis Christianae caussam egerant, in arenam
+descenderat Tertullianus, ut patet ex Apologetico et
+libris duobus contra Nationes; cum tamen caussam illam
+nihil juvisse videretur, hunc de Testimonio animae
+libellum exorsus est, ut novo pugnandi genere christiani
+hostes adoriretur, conceptamque perverse
+<pb n="0608C"/>
+ex eorumdem animis opinionem evelleret, et rem
+<pb n="0608D"/>
+Christianam in tuto collocaret.<cc:s n="2" parent_pid="50:1;2">
+              <cc:w lemma="????" pos="????">Hujusce</cc:w>
+              <cc:w lemma="opera|opus" pos="N:gen">operis</cc:w>
+              <cc:w lemma="veluti" pos="ADV">veluti</cc:w>
+              <cc:w lemma="fundamentum" pos="N:nom">fundamenta</cc:w>
+              <cc:w lemma="jacio" pos="V:IND">jecerat</cc:w>
+              <cc:w lemma="apologeticus" pos="ADJ">Apologetici</cc:w>
+              <cc:w lemma="cap." pos="ABBR">cap.</cc:w>
+              <cc:w lemma="@card@" pos="ADJ:NUM">17</cc:w>
+              <cc:w lemma="verum" pos="ADV">verum</cc:w>
+              <cc:w lemma="hic" pos="DIMOS">hic</cc:w>
+              <cc:w lemma="is" pos="DET">ea</cc:w>
+              <cc:w lemma="OMP Latius|latus" pos="ADJ:COM">latius</cc:w>
+              <cc:w lemma="prosequor" pos="V:IND">prosequitur</cc:w>
+              <cc:w lemma="qui" pos="REL">quae</cc:w>
+              <cc:w lemma="obiter" pos="ADV">obiter</cc:w>
+              <cc:w lemma="tantus" pos="ADJ">tantum</cc:w>
+              <cc:w lemma="perstringo" pos="V:IND">perstrinxerat</cc:w>
+              <cc:w lemma="????" pos="????">Deumque</cc:w>
+              <cc:w lemma="praesertim" pos="ADV">praesertim</cc:w>
+              <cc:w lemma="unus" pos="ADJ:NUM">unum</cc:w>
+              <cc:w lemma="hic" pos="DIMOS">hic</cc:w>
+              <cc:w lemma="et" pos="CC">et</cc:w>
+              <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+              <cc:w lemma="status" pos="N:acc">statum</cc:w>
+              <cc:w lemma="post" pos="PREP">post</cc:w>
+              <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+              <cc:w lemma="demonstro" pos="V:IND">demonstrat</cc:w>
+            </cc:s> Hujusce operis veluti
+fundamenta jecerat Apologetici, cap. 17, verum hic
+ea latius prosequitur, quae obiter tantum perstrinxerat:
+Deumque praesertim unum hic, et animae statum
+post mortem demonstrat.</hi> <cc:s/>
+        </p>
+</div>
+<div cc:pid="50:2">
+        <head cc:pid="50:2;1">
+          <cc:s n="1" parent_pid="50:2;1">
+            <cc:w lemma="????" pos="????">CAP</cc:w>
+            <cc:w lemma="i." pos="ABBR">I.</cc:w>
+          </cc:s>CAP. I. <cc:s/>
+        </head>
+        <p cc:pid="50:2;2">
+          <cc:s n="1" parent_pid="50:2;2">
+            <cc:w lemma="magnus" pos="ADJ:abl">Magna</cc:w>
+            <cc:w lemma="curiositas" pos="N:abl">curiositate</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="major" pos="N:abl">majore</cc:w>
+            <cc:w lemma="longe" pos="ADV">longe</cc:w>
+            <cc:w lemma="memoria" pos="N:abl">memoria</cc:w>
+            <cc:w lemma="opus" pos="N:nom">opus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="studeo" pos="V:GER">studendum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="quis" pos="PRON">quis</cc:w>
+            <cc:w lemma="volo" pos="V:SUB">velit</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="????" pos="????">receptissimis</cc:w>
+            <cc:w lemma="quisque" pos="INDEF">quibusque</cc:w>
+            <cc:w lemma="philosophus" pos="N:gen">philosophorum</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="poeta" pos="N:gen">poetarum</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="????" pos="????">quorumlibet</cc:w>
+            <cc:w lemma="doctrina" pos="N:abl">doctrina</cc:w>
+            <cc:w lemma="sapientia" pos="N:gen">sapientiae</cc:w>
+            <cc:w lemma="saecularis" pos="ADJ">saecularis</cc:w>
+            <cc:w lemma="magister" pos="N:gen">magistrorum</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonia</cc:w>
+            <cc:w lemma="excerpo" pos="V:INF">excerpere</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">christianae</cc:w>
+            <cc:w lemma="veritas" pos="N:gen">veritatis</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="aemulus" pos="N:nom">aemuli</cc:w>
+            <cc:w lemma="????" pos="????">persecutoresque</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="suus" pos="POSS">suo</cc:w>
+            <cc:w lemma="proprius" pos="ADJ:abl">proprio</cc:w>
+            <cc:w lemma="instrumentum" pos="N:abl">instrumento</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="error" pos="N:gen">erroris</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="se" pos="PRON">se</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="iniquitas" pos="N:gen">iniquitatis</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="res|reus" pos="N:gen">rei</cc:w>
+            <cc:w lemma="revinco" pos="V:SUB">revincantur</cc:w>
+          </cc:s>
+Magna curiositate et majore longe memoria
+<pb n="0609A"/>
+opus est ad studendum, si quis velit ex
+litteris receptissimis quibusque philosophorum
+vel poetarum vel quorumlibet doctrina sapientiae
+saecularis magistrorum testimonia excerpere christianae
+veritatis; ut aemuli persecutoresque ejus de suo
+proprio instrumento, et erroris in se, et iniquitatis in
+nos rei revincantur.<cc:s n="2" parent_pid="50:2;2">
+            <cc:w lemma="nonnullus" pos="N:nom">Nonnulli</cc:w>
+            <cc:w lemma="quidem" pos="ADV">quidem</cc:w>
+            <cc:w lemma="qui" pos="REL">quibus</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="pristinus" pos="ADJ:abl">pristina</cc:w>
+            <cc:w lemma="litteratura" pos="N:abl">litteratura</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="curiositas" pos="N:gen">curiositatis</cc:w>
+            <cc:w lemma="labor" pos="N:nom">labor</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="memoria" pos="N:gen">memoriae</cc:w>
+            <cc:w lemma="tenor" pos="N:nom">tenor</cc:w>
+            <cc:w lemma="persevero" pos="V:IND">perseveravit</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="is" pos="DET">eum</cc:w>
+            <cc:w lemma="modus" pos="N:acc">modum</cc:w>
+            <cc:w lemma="opusculum" pos="N:acc">opuscula</cc:w>
+            <cc:w lemma="penes" pos="PREP">penes</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="condo" pos="V:IND">condiderunt</cc:w>
+            <cc:w lemma="commemoro" pos="V:PTC:nom">commemorantes</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="contestificans" pos="ADJ">contestificantes</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="????" pos="????">suggillationem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="origo" pos="N:acc">originem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="traditio" pos="N:acc">traditionem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="sententia" pos="N:gen">sententiarum</cc:w>
+            <cc:w lemma="argumentum" pos="N:acc">argumenta</cc:w>
+            <cc:w lemma="per" pos="PREP">per</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="recognosco" pos="V:INF">recognosci</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possit</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="novus" pos="ADJ">novum</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="????" pos="????">portentosum</cc:w>
+            <cc:w lemma="suscipio" pos="V:INF">suscepisse</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="communis" pos="ADJ">communes</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="publicus" pos="ADJ">publicae</cc:w>
+            <cc:w lemma="littera" pos="N:gen">litterae</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="suffragium" pos="N:acc">suffragium</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+            <cc:w lemma="patrocinor" pos="V:SUB">patrocinentur</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="quis" pos="PRON">quid</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="error" pos="N:gen">erroris</cc:w>
+            <cc:w lemma="eicio" pos="V:IND">ejecimus</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="aequitas" pos="N:gen">aequitatis</cc:w>
+            <cc:w lemma="admitto" pos="V:IND">admisimus</cc:w>
+          </cc:s> Nonnulli quidem, quibus
+de pristina litteratura et curiositatis labor et memoriae
+tenor perseveravit, ad eum modum opuscula
+penes nos condiderunt, commemorantes et contestificantes
+in suggillationem et originem et traditionem
+et sententiarum argumenta , per quae recognosci
+possit, nihil nos aut novum aut portentosum suscepisse,
+de quo non etiam communes et publicae
+litterae ad suffragium nobis patrocinentur, si quid aut
+<pb n="0609B"/>
+erroris ejecimus, aut aequitatis admisimus.<cc:s n="3" parent_pid="50:2;2">
+            <cc:w lemma="sed" pos="CC">Sed</cc:w>
+            <cc:w lemma="ne" pos="ADV">ne</cc:w>
+            <cc:w lemma="suus" pos="POSS">suis</cc:w>
+            <cc:w lemma="quidem" pos="ADV">quidem</cc:w>
+            <cc:w lemma="magister|magistra" pos="N:abl">magistris</cc:w>
+            <cc:w lemma="alius" pos="PRON">alias</cc:w>
+            <cc:w lemma="????" pos="????">probatissimis</cc:w>
+            <cc:w lemma="atque" pos="CC">atque</cc:w>
+            <cc:w lemma="????" pos="????">lectissimis</cc:w>
+            <cc:w lemma="fides" pos="N:acc">fidem</cc:w>
+            <cc:w lemma="inclino" pos="V:IND">inclinavit</cc:w>
+            <cc:w lemma="humanus" pos="ADJ">humana</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="incredulitas" pos="N:abl">incredulitate</cc:w>
+            <cc:w lemma="duritia" pos="N:nom">duritia</cc:w>
+            <cc:w lemma="sicubi" pos="ADV">sicubi</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="argumentum" pos="N:acc">argumenta</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">christianae</cc:w>
+            <cc:w lemma="defensio" pos="N:gen">defensionis</cc:w>
+            <cc:w lemma="impingo" pos="V:IND">impingunt</cc:w>
+            <cc:w lemma="tunc" pos="ADV">tunc</cc:w>
+            <cc:w lemma="vanus" pos="ADJ">vani</cc:w>
+            <cc:w lemma="poeta" pos="N:gen">poetae</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="Deus" pos="N:acc">deos</cc:w>
+            <cc:w lemma="humanus" pos="ADJ:abl">humanis</cc:w>
+            <cc:w lemma="passio" pos="N:abl">passionibus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="fabula" pos="N:abl">fabulis</cc:w>
+            <cc:w lemma="designo" pos="V:IND">designant</cc:w>
+            <cc:w lemma="tunc" pos="ADV">tunc</cc:w>
+            <cc:w lemma="philosophus" pos="N:nom">philosophi</cc:w>
+            <cc:w lemma="durus" pos="ADJ">duri</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="veritas" pos="N:gen">veritatis</cc:w>
+            <cc:w lemma="foris" pos="N:acc">fores</cc:w>
+            <cc:w lemma="pulso" pos="V:IND">pulsant</cc:w>
+          </cc:s> Sed ne
+suis quidem magistris, alias probatissimis atque lectissimis,
+fidem inclinavit humana de incredulitate duritia,
+sicubi in argumenta christianae defensionis impingunt;
+tunc vani poetae, cum deos humanis passionibus
+et fabulis designant: tunc philosophi duri,
+cum veritatis fores pulsant.<cc:s n="4" parent_pid="50:2;2">
+            <cc:w lemma="hactenus" pos="ADV">Hactenus</cc:w>
+            <cc:w lemma="sapiens" pos="ADJ">sapiens</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="prudens" pos="ADJ">prudens</cc:w>
+            <cc:w lemma="habeo" pos="V:IND">habebitur</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="prope" pos="ADV">prope</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">christianum</cc:w>
+            <cc:w lemma="????" pos="????">pronuntiarit</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="quis" pos="PRON">quid</cc:w>
+            <cc:w lemma="prudentia" pos="N:gen">prudentiae</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="sapientia" pos="N:gen">sapientiae</cc:w>
+            <cc:w lemma="affecto" pos="V:SUB">affectaverit</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="ceremonia" pos="N:acc">ceremonias</cc:w>
+            <cc:w lemma="despuo" pos="V:PTC:acc">despuens</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="saeculum" pos="N:nom">saeculum</cc:w>
+            <cc:w lemma="revinco" pos="V:PTC:nom">revincens</cc:w>
+            <cc:w lemma="pro" pos="PREP">pro</cc:w>
+            <cc:w lemma="Christianus" pos="N:abl">christiano</cc:w>
+            <cc:w lemma="denoto" pos="V:SUB">denotetur</cc:w>
+          </cc:s> Hactenus sapiens et
+prudens habebitur, qui prope christianum pronuntiarit,
+cum si quid prudentiae aut sapientiae affectaverit,
+seu ceremonias despuens, seu saeculum revincens,
+pro christiano denotetur.<cc:s n="5" parent_pid="50:2;2">
+            <cc:w lemma="jam" pos="ADV">Jam</cc:w>
+            <cc:w lemma="igitur" pos="CS">igitur</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">erit</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="doctrina" pos="N:abl">doctrina</cc:w>
+            <cc:w lemma="perverto" pos="V:PTC">perversae</cc:w>
+            <cc:w lemma="felicitas" pos="N:gen">felicitatis</cc:w>
+            <cc:w lemma="qui" pos="REL">cui</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="falsus" pos="ADJ:abl">falso</cc:w>
+            <cc:w lemma="potius" pos="ADV">potius</cc:w>
+            <cc:w lemma="credo" pos="V:IND">creditur</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="Verus|verum" pos="N:abl">vero</cc:w>
+          </cc:s> Jam igitur nihil nobis
+erit cum litteris et doctrina perversae felicitatis, cui
+in falso potius creditur, quam in vero.<cc:s n="6" parent_pid="50:2;2">
+            <cc:w lemma="video" pos="V:IND">Viderint</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="unicus" pos="ADJ:abl">unico</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="solus" pos="ADJ:abl">solo</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">deo</cc:w>
+            <cc:w lemma="pronuntio" pos="V:IND">pronuntiaverunt</cc:w>
+          </cc:s> Viderint
+si qui de unico et solo deo pronuntiaverunt.<cc:s n="7" parent_pid="50:2;2">
+            <cc:w lemma="imus" pos="ADJ:abl">Imo</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="omnino" pos="ADV">omnino</cc:w>
+            <cc:w lemma="-" pos="V:PTC:nom">relatum</cc:w>
+            <cc:w lemma="fio" pos="V:IND">fit</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="agnosco" pos="V:SUB">agnoscat</cc:w>
+            <cc:w lemma="Christianus" pos="N:nom">christianus</cc:w>
+            <cc:w lemma="ne" pos="ADV">ne</cc:w>
+            <cc:w lemma="exprobro" pos="V:INF">exprobrare</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possit</cc:w>
+          </cc:s> Imo
+nihil omnino relatum fit, quod agnoscat christianus,
+<pb n="0610A"/>
+ne exprobrare possit.<cc:s n="8" parent_pid="50:2;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="-" pos="V:PTC:nom">relatum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="neque" pos="CC">neque</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnes</cc:w>
+            <cc:w lemma="scio" pos="V:IND">sciunt</cc:w>
+            <cc:w lemma="neque" pos="CC">neque</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="scio" pos="V:IND">sciunt</cc:w>
+            <cc:w lemma="consto" pos="V:INF">constare</cc:w>
+            <cc:w lemma="confido" pos="V:IND">confidunt</cc:w>
+          </cc:s> Nam et quod relatum est,
+neque omnes sciunt; neque qui sciunt, constare confidunt.<cc:s n="9" parent_pid="50:2;2">
+            <cc:w lemma="tantus" pos="PRON">Tanto</cc:w>
+            <cc:w lemma="absum" pos="V:IND">abest</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="noster" pos="POSS">nostris</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="annuo" pos="V:SUB">annuant</cc:w>
+            <cc:w lemma="homo" pos="N:acc">homines</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="qui" pos="REL">quas</cc:w>
+            <cc:w lemma="nemo" pos="PRON">nemo</cc:w>
+            <cc:w lemma="venio|veneo" pos="V:IND">venit</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="Christianus" pos="N:nom">christianus</cc:w>
+          </cc:s>
+Tanto abest ut nostris litteris annuant
+homines, ad quas nemo venit nisi jam christianus.<cc:s n="10" parent_pid="50:2;2">
+            <cc:w lemma="novus" pos="ADJ">Novum</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="advoco" pos="V:IND">advoco</cc:w>
+            <cc:w lemma="imus" pos="ADJ:abl">imo</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omni</cc:w>
+            <cc:w lemma="litteratura" pos="N:nom">litteratura</cc:w>
+            <cc:w lemma="????" pos="????">notius</cc:w>
+            <cc:w lemma="omnis" pos="ADJ:abl">omni</cc:w>
+            <cc:w lemma="doctrina" pos="N:abl">doctrina</cc:w>
+            <cc:w lemma="????" pos="????">agitatius</cc:w>
+            <cc:w lemma="omnis" pos="ADJ:abl">omni</cc:w>
+            <cc:w lemma="editio" pos="N:abl">editione</cc:w>
+            <cc:w lemma="????" pos="????">vulgatius</cc:w>
+            <cc:w lemma="totus" pos="ADJ:abl">toto</cc:w>
+            <cc:w lemma="homo" pos="N:abl">homine</cc:w>
+            <cc:w lemma="????" pos="????">majus</cc:w>
+            <cc:w lemma="is" pos="DET">id</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totum</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="homo" pos="N:gen">hominis</cc:w>
+          </cc:s>
+Novum testimonium advoco, imo omni litteratura notius,
+omni doctrina agitatius, omni editione vulgatius,
+toto homine majus, id est totum quod est
+hominis.<cc:s n="11" parent_pid="50:2;2">
+            <cc:w lemma="consisto" pos="V:IMP">Consiste</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="medium|medius" pos="N:abl">medio</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divina</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="aeternus" pos="ADJ">aeterna</cc:w>
+            <cc:w lemma="res" pos="N:nom">res</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+            <cc:w lemma="secundum" pos="PREP">secundum</cc:w>
+            <cc:w lemma="plus" pos="ADJ">plures</cc:w>
+            <cc:w lemma="philosophus" pos="N:acc">philosophos</cc:w>
+            <cc:w lemma="is" pos="DET">eo</cc:w>
+            <cc:w lemma="magis" pos="ADV">magis</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="mentior" pos="V:PTC:nom">mentiens</cc:w>
+          </cc:s> Consiste in medio, anima, seu divina et
+aeterna res es secundum plures philosophos, eo magis
+non mentiens.<cc:s n="12" parent_pid="50:2;2">
+            <cc:w lemma="seu" pos="CC">Seu</cc:w>
+            <cc:w lemma="parum" pos="ADV">minime</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divina</cc:w>
+            <cc:w lemma="quoniam" pos="CS">quoniam</cc:w>
+            <cc:w lemma="quidem" pos="ADV">quidem</cc:w>
+            <cc:w lemma="mortalis" pos="ADJ">mortalis</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="????" pos="????">Epicuro</cc:w>
+            <cc:w lemma="solus" pos="ADJ">soli</cc:w>
+            <cc:w lemma="video" pos="V:IND">videtur</cc:w>
+            <cc:w lemma="is" pos="DET">eo</cc:w>
+            <cc:w lemma="magis" pos="ADV">magis</cc:w>
+            <cc:w lemma="mentior" pos="V:INF">mentiri</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="debeo" pos="V:IND">debebis</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="coelum|coelus" pos="N:abl">coelo</cc:w>
+            <cc:w lemma="excipio" pos="V:IND">exciperis</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="terra" pos="N:abl">terra</cc:w>
+            <cc:w lemma="concipio" pos="V:IND">conciperis</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="numerus" pos="N:dat">numeris</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="atomus" pos="ADJ:abl">atomis</cc:w>
+            <cc:w lemma="concinno" pos="V:IND">concinnaris</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="corpus" pos="N:abl">corpore</cc:w>
+            <cc:w lemma="????" pos="????">incoeperis</cc:w>
+            <cc:w lemma="seu" pos="CC">seu</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="corpus" pos="N:acc">corpus</cc:w>
+            <cc:w lemma="induco" pos="V:IND">induceris</cc:w>
+            <cc:w lemma="unde" pos="ADV">unde</cc:w>
+            <cc:w lemma="unde" pos="ADV">unde</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">quoquo</cc:w>
+            <cc:w lemma="modus" pos="N:abl">modo</cc:w>
+            <cc:w lemma="homo" pos="N:acc">hominem</cc:w>
+            <cc:w lemma="facio" pos="V:IND">facis</cc:w>
+            <cc:w lemma="animal" pos="N:nom">animal</cc:w>
+            <cc:w lemma="rationalis" pos="ADJ">rationale</cc:w>
+            <cc:w lemma="sensus" pos="N:nom">sensus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="scientia" pos="N:nom">scientiae</cc:w>
+            <cc:w lemma="????" pos="????">capacissimum</cc:w>
+          </cc:s> Seu minime divina, quoniam
+quidem mortalis, ut Epicuro soli videtur, eo magis
+ mentiri non debebis, seu de coelo exciperis,
+seu de terra conciperis, seu numeris, seu atomis concinnaris,
+seu cum corpore incoeperis, seu post
+corpus induceris, unde unde et quoquo modo
+<pb n="0610B"/>
+hominem facis animal rationale, sensus et scientiae
+capacissimum.<cc:s n="13" parent_pid="50:2;2">
+            <cc:w lemma="sed" pos="CC">Sed</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="is" pos="DET">eam</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="advoco" pos="V:IND">advoco</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="schola" pos="N:abl">scholis</cc:w>
+            <cc:w lemma="formo" pos="V:PTC:nom">formata</cc:w>
+            <cc:w lemma="bibliotheca|bibliothece" pos="N:abl">bibliothecis</cc:w>
+            <cc:w lemma="exercito" pos="V:PTC:nom">exercitata</cc:w>
+            <cc:w lemma="Academia" pos="N:abl">academiis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="porticus" pos="N:abl">porticibus</cc:w>
+            <cc:w lemma="Atticus" pos="ADJ">Attici</cc:w>
+            <cc:w lemma="pario" pos="V:PTC:acc">partam</cc:w>
+            <cc:w lemma="sapientia" pos="N:acc">sapientiam</cc:w>
+            <cc:w lemma="ructo" pos="V:IND">ructas</cc:w>
+          </cc:s> Sed non eam te advoco, quae scholis
+formata, bibliothecis exercitata, academiis et
+porticibus Attici partam sapientiam ructas.<cc:s n="14" parent_pid="50:2;2">
+            <cc:w lemma="tu" pos="PRON">Te</cc:w>
+            <cc:w lemma="simplex" pos="ADJ">simplicem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="rudis" pos="ADJ">rudem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="impolitus" pos="ADJ">impolitam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">idioticam</cc:w>
+            <cc:w lemma="compello" pos="V:IND">compello</cc:w>
+            <cc:w lemma="qualis" pos="ADJ">qualem</cc:w>
+            <cc:w lemma="habeo" pos="V:IND">habent</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="solus" pos="ADJ">solam</cc:w>
+            <cc:w lemma="habeo" pos="V:IND">habent</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illam</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsam</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="compitum|compitus" pos="N:abl">compito</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="trivium" pos="N:abl">trivio</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="textrinus" pos="ADJ:abl">textrino</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totam</cc:w>
+          </cc:s>
+Te simplicem et rudem et impolitam et idioticam
+compello, qualem habent qui te solam habent,
+illam ipsam de compito, de trivio, de textrino totam.<cc:s n="15" parent_pid="50:2;2">
+            <cc:w lemma="imperitia" pos="N:nom">Imperitia</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tua</cc:w>
+            <cc:w lemma="ego" pos="PRON">mihi</cc:w>
+            <cc:w lemma="opus" pos="N:nom">opus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="quoniam" pos="CS">quoniam</cc:w>
+            <cc:w lemma="aliquantulus" pos="ADJ">aliquantulae</cc:w>
+            <cc:w lemma="peritia" pos="N:dat">peritiae</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuae</cc:w>
+            <cc:w lemma="nemo" pos="PRON">nemo</cc:w>
+            <cc:w lemma="credo" pos="V:IND">credit</cc:w>
+          </cc:s>
+Imperitia tua mihi opus est, quoniam aliquantulae
+peritiae tuae nemo credit.<cc:s n="16" parent_pid="50:2;2">
+            <cc:w lemma="is" pos="DET">Ea</cc:w>
+            <cc:w lemma="expostulo" pos="V:IND">expostulo</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">tecum</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="homo" pos="N:acc">hominem</cc:w>
+            <cc:w lemma="infero" pos="V:IND">infers</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="????" pos="????">temetipsa</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="quocumque" pos="ADV">quocumque</cc:w>
+            <cc:w lemma="auctor" pos="N:abl">auctore</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuo</cc:w>
+            <cc:w lemma="sentio" pos="V:INF">sentire</cc:w>
+            <cc:w lemma="disco" pos="V:IND">didicisti</cc:w>
+          </cc:s> Ea expostulo, quae
+tecum in hominem infers, quae aut ex temetipsa,
+aut ex quocumque auctore tuo sentire didicisti.<cc:s n="17" parent_pid="50:2;2">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="scio" pos="V:SUB">sciam</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">christiana</cc:w>
+            <cc:w lemma="fio" pos="V:INF">fieri</cc:w>
+            <cc:w lemma="enim" pos="ADV">enim</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="nascor" pos="V:INF">nasci</cc:w>
+            <cc:w lemma="soleo" pos="V:IND">solet</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">christiana</cc:w>
+          </cc:s> Non
+es, quod sciam, christiana, fieri enim, non nasci solet
+ christiana.<cc:s n="18" parent_pid="50:2;2">
+            <cc:w lemma="tamen" pos="ADV">Tamen</cc:w>
+            <cc:w lemma="nunc" pos="ADV">nunc</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="flagito" pos="V:IND">flagitant</cc:w>
+            <cc:w lemma="Christianus" pos="N:nom">christiani</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="extranea" pos="N:abl">extranea</cc:w>
+            <cc:w lemma="adversus" pos="PREP">adversus</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuos</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="erubesco" pos="V:SUB">erubescant</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="ob" pos="PREP">ob</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="odi" pos="V:SUB">oderint</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="irrideo" pos="V:SUB">irrideant</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="nunc" pos="ADV">nunc</cc:w>
+            <cc:w lemma="conscius" pos="ADJ">consciam</cc:w>
+            <cc:w lemma="detineo" pos="V:SUB">detineant</cc:w>
+          </cc:s> Tamen nunc a te testimonium
+flagitant christiani, ab extranea adversus tuos, ut vel
+<pb n="0611A"/>
+tibi erubescant, quod nos ob ea oderint et irrideant,
+quae te nunc consciam detineant.
+<cc:s/>
+        </p>
+      </div>
+<div cc:pid="50:3">
+        <head cc:pid="50:3;1">
+          <cc:s n="1" parent_pid="50:3;1">
+            <cc:w lemma="????" pos="????">CAP</cc:w>
+            <cc:w lemma="II" pos="ADJ:NUM">II</cc:w>
+          </cc:s>CAP. II. <cc:s/>
+        </head>
+        <p cc:pid="50:3;2">
+          <cc:s n="1" parent_pid="50:3;2">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="placeo|placo" pos="V:IND">placemus</cc:w>
+            <cc:w lemma="dominus" pos="N:acc">Dominum</cc:w>
+            <cc:w lemma="praedico" pos="V:PTC:nom">praedicantes</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">hoc</cc:w>
+            <cc:w lemma="nomen" pos="N:abl">nomine</cc:w>
+            <cc:w lemma="unicus" pos="ADJ:abl">unico</cc:w>
+            <cc:w lemma="unicus" pos="ADJ">unicum</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnia</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="sub" pos="PREP">sub</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="universus" pos="ADJ">universa</cc:w>
+          </cc:s>
+Non placemus, Dominum praedicantes
+hoc nomine unico unicum, a quo omnia, et sub quo
+universa.<cc:s n="2" parent_pid="50:3;2">
+            <cc:w lemma="dico" pos="V:IMP">Dic</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="ita" pos="ADV">ita</cc:w>
+            <cc:w lemma="scio" pos="V:IND">scis</cc:w>
+          </cc:s> Dic testimonium si ita scis.<cc:s n="3" parent_pid="50:3;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="quoque" pos="ADV">quoque</cc:w>
+            <cc:w lemma="palam" pos="ADV">palam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="totus" pos="ADJ">tota</cc:w>
+            <cc:w lemma="libertas" pos="N:abl">libertate</cc:w>
+            <cc:w lemma="qui" pos="REL">qua</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="licet_est" pos="V:IND">licet</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+            <cc:w lemma="domus" pos="N:loc">domi</cc:w>
+            <cc:w lemma="ac" pos="CC">ac</cc:w>
+            <cc:w lemma="foris" pos="ADV">foris</cc:w>
+            <cc:w lemma="audio" pos="V:IND">audimus</cc:w>
+            <cc:w lemma="ita" pos="ADV">ita</cc:w>
+            <cc:w lemma="pronuntio" pos="V:INF">pronuntiare</cc:w>
+            <cc:w lemma="qui" pos="REL">Quod</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="do" pos="V:IND">dederit</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="si" pos="CS">Si</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="volo|volvo" pos="V:IND">voluerit</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="vox" pos="N:abl">voce</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquem</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="significo" pos="V:IND">significas</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnem</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illi</cc:w>
+            <cc:w lemma="confiteor" pos="V:IND">confiteris</cc:w>
+            <cc:w lemma="potestas" pos="N:acc">potestatem</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="qui" pos="REL">cujus</cc:w>
+            <cc:w lemma="specto" pos="V:IND">spectas</cc:w>
+            <cc:w lemma="voluntas" pos="N:acc">voluntatem</cc:w>
+            <cc:w lemma="simul" pos="ADV">simul</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="caeterus" pos="ADJ">caeteros</cc:w>
+            <cc:w lemma="nego" pos="V:IND">negas</cc:w>
+            <cc:w lemma="Deus" pos="N:acc">deos</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="dum" pos="CS">dum</cc:w>
+            <cc:w lemma="suus" pos="POSS">suis</cc:w>
+            <cc:w lemma="vocabulum" pos="N:abl">vocabulis</cc:w>
+            <cc:w lemma="nuncupo" pos="V:IND">nuncupas</cc:w>
+            <cc:w lemma="????" pos="????">Saturnum</cc:w>
+            <cc:w lemma="Jovis|Jupiter" pos="N:acc">Jovem</cc:w>
+            <cc:w lemma="Mars" pos="N:acc">Martem</cc:w>
+            <cc:w lemma="Minerva" pos="N:acc">Minervam</cc:w>
+          </cc:s> Nam te quoque
+palam et tota libertate, qua non licet nobis,
+domi ac foris audimus ita pronuntiare, Quod Deus
+dederit, et, Si Deus voluerit, ea voce et aliquem esse
+significas, et omnem illi confiteris potestatem, ad
+cujus spectas voluntatem, simul et caeteros negas deos
+esse, dum suis vocabulis nuncupas, Saturnum, Jovem,
+Martem, Minervam.<cc:s n="4" parent_pid="50:3;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="solum" pos="ADV">solum</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="confirmo" pos="V:IND">confirmas</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="tantus" pos="ADJ">tantum</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="nomino" pos="V:IND">nominas</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illos</cc:w>
+            <cc:w lemma="interdum" pos="ADV">interdum</cc:w>
+            <cc:w lemma="Deus" pos="N:acc">deos</cc:w>
+            <cc:w lemma="appello" pos="V:SUB">appellas</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="alienus" pos="ADJ:abl">alieno</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="quasi" pos="CS">quasi</cc:w>
+            <cc:w lemma="pro" pos="PREP">pro</cc:w>
+            <cc:w lemma="mutuus" pos="ADJ:abl">mutuo</cc:w>
+            <cc:w lemma="utor" pos="V:PTC:nom">usa</cc:w>
+            <cc:w lemma="video" pos="V:SUB">videaris</cc:w>
+          </cc:s> Nam solum Deum confirmas,
+quem tantum Deum nominas, ut et cum illos
+interdum deos appellas, de alieno et quasi pro mutuo
+usa videaris.<cc:s n="5" parent_pid="50:3;2">
+            <cc:w lemma="de" pos="PREP">De</cc:w>
+            <cc:w lemma="natura" pos="N:abl">natura</cc:w>
+            <cc:w lemma="quoque" pos="ADV">quoque</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="praedico" pos="V:IND">praedicamus</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="lateo" pos="V:IND">latet</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="bonus" pos="ADJ">bonus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="benefacio" pos="V:IND">benefacit</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tua</cc:w>
+            <cc:w lemma="vox" pos="N:nom">vox</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+          </cc:s> De natura quoque Dei quem praedicamus,
+<pb n="0611B"/>
+nec te latet: Deus bonus est, Deus benefacit,
+tua vox est.<cc:s n="6" parent_pid="50:3;2">
+            <cc:w lemma="plane" pos="ADV">Plane</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="dico" pos="V:IND">dicis</cc:w>
+            <cc:w lemma="sed" pos="CC">sed</cc:w>
+            <cc:w lemma="homo" pos="N:nom">homo</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malus</cc:w>
+            <cc:w lemma="scilicet" pos="ADV">scilicet</cc:w>
+            <cc:w lemma="contrarius" pos="ADJ">contraria</cc:w>
+            <cc:w lemma="propositio" pos="N:abl">propositione</cc:w>
+            <cc:w lemma="obliquus" pos="ADJ">oblique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="figuraliter" pos="ADV">figuraliter</cc:w>
+            <cc:w lemma="exprobro" pos="V:PTC:nom">exprobrans</cc:w>
+            <cc:w lemma="ideo" pos="ADV">ideo</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malum</cc:w>
+            <cc:w lemma="homo" pos="N:acc">hominem</cc:w>
+            <cc:w lemma="quia" pos="CS">quia</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="bonus" pos="ADJ:abl">bono</cc:w>
+            <cc:w lemma="abscedo" pos="V:SUB">abscesserit</cc:w>
+          </cc:s> Plane ea dicis, sed homo malus
+scilicet, contraria propositione oblique et figuraliter
+exprobrans, ideo malum hominem, quia a Deo
+bono abscesserit.<cc:s n="7" parent_pid="50:3;2">
+            <cc:w lemma="etiam" pos="CC">Etiam</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="penes" pos="PREP">penes</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="bonitas" pos="N:gen">bonitatis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="benignitas" pos="N:gen">benignitatis</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnis</cc:w>
+            <cc:w lemma="benedictio" pos="N:nom">benedictio</cc:w>
+            <cc:w lemma="inter" pos="PREP">inter</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="summa|summum" pos="N:nom">summum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="disciplina" pos="N:gen">disciplinae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="conversatio" pos="N:gen">conversationis</cc:w>
+            <cc:w lemma="sacramentum" pos="N:nom">sacramentum</cc:w>
+            <cc:w lemma="benedico" pos="V:SUB">Benedicat</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="tam" pos="ADV">tam</cc:w>
+            <cc:w lemma="facile" pos="ADV">facile</cc:w>
+            <cc:w lemma="pronuntio" pos="V:IND">pronuntias</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="Christianus" pos="N:abl">christiano</cc:w>
+            <cc:w lemma="necesse" pos="ADJ">necesse</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+          </cc:s> Etiam quod penes Deum bonitatis et
+benignitatis omnis benedictio inter nos summum sit
+disciplinae et conversationis sacramentum, Benedicat
+te Deus, tam facile pronuntias, quam christiano
+necesse est.<cc:s n="8" parent_pid="50:3;2">
+            <cc:w lemma="at" pos="CC">At</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="maledictum" pos="N:acc">maledictum</cc:w>
+            <cc:w lemma="converto" pos="V:IND">convertis</cc:w>
+            <cc:w lemma="benedictio" pos="N:acc">benedictionem</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="perinde" pos="ADV">perinde</cc:w>
+            <cc:w lemma="dico" pos="V:PTC:abl">dicto</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnem</cc:w>
+            <cc:w lemma="super" pos="PREP">super</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="potestas" pos="N:acc">potestatem</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="consisto" pos="V:INF">consistere</cc:w>
+            <cc:w lemma="secundum" pos="PREP">secundum</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="confiteor" pos="V:IND">confiteris</cc:w>
+          </cc:s> At cum in maledictum
+convertis benedictionem Dei, perinde dicto omnem
+super nos potestatem ejus consistere secundum nos
+confiteris.<cc:s n="9" parent_pid="50:3;2">
+            <cc:w lemma="sum" pos="ESSE:IND">Sunt</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="nego" pos="V:SUB">negent</cc:w>
+            <cc:w lemma="dispector" pos="N:acc">dispectorem</cc:w>
+            <cc:w lemma="plane" pos="ADV">plane</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="arbiter|arbitra" pos="N:acc">arbitrum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="judex" pos="N:acc">judicem</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="puteo|puto" pos="V:SUB">putent</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="utique" pos="ADV">utique</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="magnus|maximus" pos="ADJ:SUP">maxime</cc:w>
+            <cc:w lemma="rejicio" pos="V:IND">rejiciunt</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="iste" pos="DIMOS">istam</cc:w>
+            <cc:w lemma="disciplina" pos="N:acc">disciplinam</cc:w>
+            <cc:w lemma="metus" pos="N:abl">metu</cc:w>
+            <cc:w lemma="praedico" pos="V:PTC">praedicati</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="transvolo" pos="V:IND">transvolamus</cc:w>
+            <cc:w lemma="sic" pos="ADV">sic</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="honoro" pos="V:PTC:acc">honorantes</cc:w>
+            <cc:w lemma="dum" pos="CS">dum</cc:w>
+            <cc:w lemma="cura|cures|curis" pos="N:abl">curis</cc:w>
+            <cc:w lemma="observatio" pos="N:gen">observationis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="molestia" pos="N:abl">molestiis</cc:w>
+            <cc:w lemma="animadversio" pos="N:gen">animadversionis</cc:w>
+            <cc:w lemma="absolvo" pos="V:IND">absolvunt</cc:w>
+            <cc:w lemma="qui" pos="REL">cui</cc:w>
+            <cc:w lemma="ne" pos="ADV">ne</cc:w>
+            <cc:w lemma="ira" pos="N:acc">iram</cc:w>
+            <cc:w lemma="quidem" pos="ADV">quidem</cc:w>
+            <cc:w lemma="adscribo" pos="V:IND">adscribunt</cc:w>
+          </cc:s> Sunt, qui etsi Deum non negent, dispectorem
+plane et arbitrum, et judicem non putent:
+in quo utique nos maxime rejiciunt, qui ad istam
+disciplinam metu praedicati judicii transvolamus; sic
+<pb n="0611C"/>
+Deum honorantes, dum curis observationis, et
+molestiis animadversionis absolvunt, cui ne iram quidem
+<pb n="0612A"/>
+ adscribunt.<cc:s n="10" parent_pid="50:3;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="inquiam" pos="V:IND">inquiunt</cc:w>
+            <cc:w lemma="irascor" pos="V:IND">irascitur</cc:w>
+            <cc:w lemma="corruptibilis" pos="ADJ">corruptibilis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">passionalis</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+          </cc:s> Nam si Deus (inquiunt) irascitur,
+corruptibilis et passionalis est.<cc:s n="11" parent_pid="50:3;2">
+            <cc:w lemma="porro" pos="ADV">Porro</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="patior" pos="V:IND">patitur</cc:w>
+            <cc:w lemma="quisque" pos="INDEF">quodque</cc:w>
+            <cc:w lemma="corrumpo" pos="V:IND">corrumpitur</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="interitus" pos="N:acc">interitum</cc:w>
+            <cc:w lemma="possum" pos="V:IND">potest</cc:w>
+            <cc:w lemma="capio" pos="V:INF">capere</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="capio" pos="V:IND">capit</cc:w>
+          </cc:s> Porro quod patitur,
+quodque corrumpitur, etiam interitum potest capere,
+quem Deus non capit.<cc:s n="12" parent_pid="50:3;2">
+            <cc:w lemma="at" pos="CC">At</cc:w>
+            <cc:w lemma="idem" pos="DET">iidem</cc:w>
+            <cc:w lemma="alibi" pos="ADV">alibi</cc:w>
+            <cc:w lemma="anima" pos="N:acc">animam</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divinam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="confero" pos="V:PTC:acc">conlatam</cc:w>
+            <cc:w lemma="confiteor" pos="V:PTC:nom">confitentes</cc:w>
+            <cc:w lemma="cado" pos="V:IND">cadunt</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsius</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="retorqueo" pos="V:GER">retorquendum</cc:w>
+            <cc:w lemma="adversus" pos="PREP">adversus</cc:w>
+            <cc:w lemma="opinio" pos="N:acc">opinionem</cc:w>
+            <cc:w lemma="superus" pos="ADJ:COM">superiorem</cc:w>
+          </cc:s> At iidem alibi animam divinam
+et a Deo conlatam confitentes, cadunt in testimonium
+ipsius animae, retorquendum adversus opinionem superiorem.<cc:s n="13" parent_pid="50:3;2">
+            <cc:w lemma="si" pos="CS">Si</cc:w>
+            <cc:w lemma="enim" pos="ADV">enim</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divina</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="do" pos="V:PTC:nom">data</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="sine" pos="PREP">sine</cc:w>
+            <cc:w lemma="dubius" pos="ADJ:abl">dubio</cc:w>
+            <cc:w lemma="dator" pos="N:acc">datorem</cc:w>
+            <cc:w lemma="suus" pos="POSS">suum</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">novit</cc:w>
+          </cc:s>
+Si enim anima aut divina aut a Deo data
+est, sine dubio datorem suum novit.<cc:s n="14" parent_pid="50:3;2">
+            <cc:w lemma="et" pos="CC">Et</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">novit</cc:w>
+            <cc:w lemma="utique" pos="ADV">utique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">timet</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="tantus" pos="ADJ">tantum</cc:w>
+            <cc:w lemma="postremo" pos="ADV">postremo</cc:w>
+            <cc:w lemma="auctor" pos="N:acc">auctorem</cc:w>
+          </cc:s> Et si novit, utique
+et timet, ut tantum postremo auctorem.<cc:s n="15" parent_pid="50:3;2">
+            <cc:w lemma="an" pos="CC">An</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">timet</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="magis" pos="ADV">magis</cc:w>
+            <cc:w lemma="propitius" pos="ADJ">propitium</cc:w>
+            <cc:w lemma="volo" pos="V:SUB">velit</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="-" pos="V:PTC:acc">iratum</cc:w>
+          </cc:s> An
+non timet, quem magis propitium velit, quam iratum?<cc:s n="16" parent_pid="50:3;2">
+            <cc:w lemma="unde" pos="ADV">Unde</cc:w>
+            <cc:w lemma="igitur" pos="CS">igitur</cc:w>
+            <cc:w lemma="naturalis" pos="ADJ">naturalis</cc:w>
+            <cc:w lemma="timor" pos="N:nom">timor</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">novit</cc:w>
+            <cc:w lemma="irascor" pos="V:INF">irasci</cc:w>
+          </cc:s>
+Unde igitur naturalis timor animae in Deum, si Deus
+non novit irasci?<cc:s n="17" parent_pid="50:3;2">
+            <cc:w lemma="quomodo" pos="ADV">Quomodo</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">timetur</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="nescio" pos="V:IND">nescit</cc:w>
+            <cc:w lemma="offendo" pos="V:INF">offendi</cc:w>
+          </cc:s> Quomodo timetur, qui nescit
+offendi?<cc:s n="18" parent_pid="50:3;2">
+            <cc:w lemma="quis" pos="PRON">Quid</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">timetur</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="ira" pos="N:nom">ira</cc:w>
+          </cc:s> Quid timetur, nisi ira?<cc:s n="19" parent_pid="50:3;2">
+            <cc:w lemma="unde" pos="ADV">unde</cc:w>
+            <cc:w lemma="ira" pos="N:nom">ira</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="animadversio" pos="N:abl">animadversione</cc:w>
+          </cc:s> unde ira, nisi ex
+animadversione?<cc:s n="20" parent_pid="50:3;2">
+            <cc:w lemma="unde" pos="ADV">Unde</cc:w>
+            <cc:w lemma="animadversio" pos="N:nom">animadversio</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="judicium" pos="N:abl">judicio</cc:w>
+          </cc:s> Unde animadversio, nisi de Dei
+judicio?<cc:s n="21" parent_pid="50:3;2">
+            <cc:w lemma="unde" pos="ADV">Unde</cc:w>
+            <cc:w lemma="judicium" pos="N:nom">judicium</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="potestas" pos="N:abl">potestate</cc:w>
+          </cc:s> Unde judicium, nisi de potestate?<cc:s n="22" parent_pid="50:3;2">
+            <cc:w lemma="qui" pos="REL">Cujus</cc:w>
+            <cc:w lemma="potestas" pos="N:nom">potestas</cc:w>
+            <cc:w lemma="summus" pos="ADJ:abl">summa</cc:w>
+            <cc:w lemma="nisi" pos="CS">nisi</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="solus" pos="ADJ">solius</cc:w>
+          </cc:s> Cujus
+<pb n="0612B"/>
+potestas summa, nisi Dei solius?<cc:s n="23" parent_pid="50:3;2">
+            <cc:w lemma="hinc" pos="ADV">Hinc</cc:w>
+            <cc:w lemma="ergo" pos="ADV">ergo</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="conscientia" pos="N:abl">conscientia</cc:w>
+            <cc:w lemma="suppeto" pos="V:IND">suppetit</cc:w>
+            <cc:w lemma="domus" pos="N:loc">domi</cc:w>
+            <cc:w lemma="ac" pos="CC">ac</cc:w>
+            <cc:w lemma="foris" pos="ADV">foris</cc:w>
+            <cc:w lemma="nullus" pos="ADJ:abl">nullo</cc:w>
+            <cc:w lemma="irrideo" pos="V:PTC:abl">irridente</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="prohibeo" pos="V:PTC:abl">prohibente</cc:w>
+            <cc:w lemma="praedico" pos="V:INF">praedicare</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="video" pos="V:IND">videt</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnia</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Deus" pos="N:dat">Deo</cc:w>
+            <cc:w lemma="commendo" pos="V:IND">commendo</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="reddo" pos="V:IND">reddet</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="inter" pos="PREP">inter</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="????" pos="????">jubicabit</cc:w>
+          </cc:s> Hinc ergo tibi
+anima de conscientia suppetit domi ac foris,
+nullo irridente vel prohibente praedicare, <hi>Deus
+videt omnia,</hi> et <hi>Deo commendo,</hi> et <hi>Deus reddet,</hi> et <hi>Deus
+inter nos jubicabit.<cc:s n="24" parent_pid="50:3;2">
+              <cc:w lemma="unde" pos="ADV">Unde</cc:w>
+              <cc:w lemma="hic" pos="DIMOS">hoc</cc:w>
+              <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+              <cc:w lemma="non" pos="ADV">non</cc:w>
+              <cc:w lemma="christianus" pos="ADJ">Christianae</cc:w>
+            </cc:s>
+          </hi> Unde hoc tibi non Christianae?<cc:s n="25" parent_pid="50:3;2">
+            <cc:w lemma="atque" pos="CC">Atque</cc:w>
+            <cc:w lemma="is" pos="DET">id</cc:w>
+            <cc:w lemma="plerumque" pos="ADV">plerumque</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="vitta" pos="N:nom">vitta</cc:w>
+            <cc:w lemma="Ceres" pos="N:gen">Cereris</cc:w>
+            <cc:w lemma="redimio" pos="V:PTC:nom">redimita</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="pallium" pos="N:abl">pallio</cc:w>
+            <cc:w lemma="????" pos="????">Saturni</cc:w>
+            <cc:w lemma="coccinatus" pos="ADJ">coccinata</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="dea" pos="N:gen">deae</cc:w>
+            <cc:w lemma="????" pos="????">Isidis</cc:w>
+            <cc:w lemma="linteatus" pos="ADJ">linteata</cc:w>
+          </cc:s>
+Atque id plerumque et vitta Cereris redimita,
+et pallio Saturni coccinata et deae Isidis linteata?<cc:s n="26" parent_pid="50:3;2">
+            <cc:w lemma="in" pos="PREP">In</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsis</cc:w>
+            <cc:w lemma="denique" pos="ADV">denique</cc:w>
+            <cc:w lemma="templum" pos="N:abl">templis</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="judex" pos="N:acc">judicem</cc:w>
+            <cc:w lemma="imploro" pos="V:IND">imploras</cc:w>
+            <cc:w lemma="sub" pos="PREP">sub</cc:w>
+            <cc:w lemma="????" pos="????">Esculapio</cc:w>
+            <cc:w lemma="sto" pos="V:PTC:nom">stans</cc:w>
+            <cc:w lemma="Juno" pos="N:acc">Junonem</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="aer|aes" pos="N:abl">aere</cc:w>
+            <cc:w lemma="exoro" pos="V:PTC:nom">exorans</cc:w>
+            <cc:w lemma="Minerva" pos="N:nom">Minervae</cc:w>
+            <cc:w lemma="calceo" pos="V:PTC:nom">calceans</cc:w>
+            <cc:w lemma="furvus" pos="ADJ">furvis</cc:w>
+            <cc:w lemma="galea" pos="N:acc">galeam</cc:w>
+            <cc:w lemma="forma" pos="N:abl">formis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="nemo" pos="PRON">neminem</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="praesens" pos="ADJ:abl">praesentibus</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:abl">deis</cc:w>
+            <cc:w lemma="contestor" pos="V:IND">contestaris</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuo</cc:w>
+            <cc:w lemma="forum|forus" pos="N:abl">foro</cc:w>
+            <cc:w lemma="aliunde" pos="ADV">aliunde</cc:w>
+            <cc:w lemma="judex" pos="N:acc">judicem</cc:w>
+            <cc:w lemma="appello" pos="V:SUB">appellas</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuis</cc:w>
+            <cc:w lemma="templum" pos="N:abl">templis</cc:w>
+            <cc:w lemma="alius" pos="ADJ">alium</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">deum</cc:w>
+            <cc:w lemma="pateo|patior" pos="V:IND">pateris</cc:w>
+          </cc:s>
+In ipsis denique templis Deum judicem imploras,
+sub Esculapio stans, Junonem in aere exorans,
+Minervae calceans furvis galeam formis,
+et neminem de praesentibus deis contestaris; in
+tuo foro aliunde judicem appellas, in tuis templis alium
+deum pateris.<cc:s n="27" parent_pid="50:3;2">
+            <cc:w lemma="o" pos="INT">O</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="veritas" pos="N:gen">veritatis</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="apud" pos="PREP">apud</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsa</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:acc">daemonia</cc:w>
+            <cc:w lemma="testis" pos="N:acc">testem</cc:w>
+            <cc:w lemma="efficio" pos="V:IND">efficit</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">christianorum</cc:w>
+          </cc:s> O testimonium veritatis, quae apud
+ipsa daemonia testem efficit christianorum.
+<cc:s/>
+        </p>
+      </div>
+<div cc:pid="50:4">
+        <head cc:pid="50:4;1">
+          <cc:s n="1" parent_pid="50:4;1">
+            <cc:w lemma="????" pos="????">CAP</cc:w>
+            <cc:w lemma="III" pos="ADJ:NUM">III</cc:w>
+          </cc:s>CAP. III. <cc:s/>
+        </head>
+        <p cc:pid="50:4;2">
+          <cc:s n="1" parent_pid="50:4;2">
+            <cc:w lemma="enimvero" pos="CC">Enimvero</cc:w>
+            <cc:w lemma="cur" pos="ADV">cur</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:acc">daemonia</cc:w>
+            <cc:w lemma="affirmo" pos="V:IND">affirmamus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+          </cc:s>
+Enimvero cur daemonia affirmamus
+<pb n="0612C"/>
+esse?<cc:s n="2" parent_pid="50:4;2">
+            <cc:w lemma="sane" pos="ADV">sane</cc:w>
+            <cc:w lemma="quasi" pos="CS">quasi</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="probo" pos="V:SUB">probemus</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="solus" pos="ADJ">soli</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="corpus" pos="N:abl">corporibus</cc:w>
+            <cc:w lemma="exigo" pos="V:IND">exigimus</cc:w>
+          </cc:s> sane quasi non et probemus, qui ea soli de
+corporibus exigimus.<cc:s n="3" parent_pid="50:4;2">
+            <cc:w lemma="aliquis" pos="PRON">Aliqui</cc:w>
+            <cc:w lemma="????" pos="????">Chrysippi</cc:w>
+            <cc:w lemma="adsentator" pos="N:nom">adsentator</cc:w>
+            <cc:w lemma="illudo" pos="V:IND">illudit</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="abominatio" pos="N:acc">abominationem</cc:w>
+            <cc:w lemma="sustineo" pos="V:INF">sustinere</cc:w>
+            <cc:w lemma="execratio" pos="N:acc">execrationes</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuae</cc:w>
+            <cc:w lemma="respondeo" pos="V:IND">respondent</cc:w>
+          </cc:s> Aliqui Chrysippi adsentator
+<pb n="0613A"/>
+ illudit ea, et esse, et abominationem
+sustinere, execrationes tuae respondent.<cc:s n="4" parent_pid="50:4;2">
+            <cc:w lemma="daemonion|daemonium" pos="N:acc">Daemonium</cc:w>
+            <cc:w lemma="voco" pos="V:IND">vocas</cc:w>
+            <cc:w lemma="homo" pos="N:acc">hominem</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="immunditia" pos="N:nom">immunditia</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="malitia" pos="N:nom">malitia</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="insolentia" pos="N:abl">insolentia</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="quacunque" pos="ADV">quacunque</cc:w>
+            <cc:w lemma="macula" pos="N:abl">macula</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:abl">daemoniis</cc:w>
+            <cc:w lemma="deputo" pos="V:IND">deputamus</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="necessitas" pos="N:acc">necessitatem</cc:w>
+            <cc:w lemma="odium" pos="N:gen">odii</cc:w>
+            <cc:w lemma="????" pos="????">opportunam</cc:w>
+          </cc:s> Daemonium
+vocas, hominem aut immunditia, aut malitia, aut
+insolentia, aut quacunque macula, quam nos daemoniis
+deputamus, aut ad necessitatem odii opportunam.<cc:s n="5" parent_pid="50:4;2">
+            <cc:w lemma="Satanas" pos="N:acc">Satanam</cc:w>
+            <cc:w lemma="denique" pos="ADV">denique</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omni</cc:w>
+            <cc:w lemma="aversatio" pos="N:abl">aversatione</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="aspernatio" pos="N:abl">aspernatione</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="detestatio" pos="N:abl">detestatione</cc:w>
+            <cc:w lemma="pronuntio" pos="V:IND">pronuntias</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="dico" pos="V:IND">dicimus</cc:w>
+            <cc:w lemma="malitia" pos="N:gen">malitiae</cc:w>
+            <cc:w lemma="angelus" pos="N:acc">angelum</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totius</cc:w>
+            <cc:w lemma="error" pos="N:gen">erroris</cc:w>
+            <cc:w lemma="artifex" pos="N:acc">artificem</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totius</cc:w>
+            <cc:w lemma="saeculum" pos="N:gen">saeculi</cc:w>
+            <cc:w lemma="????" pos="????">interpolatorem</cc:w>
+            <cc:w lemma="per" pos="PREP">per</cc:w>
+            <cc:w lemma="qui" pos="REL">quem</cc:w>
+            <cc:w lemma="homo" pos="N:nom">homo</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="primordium" pos="N:abl">primordio</cc:w>
+            <cc:w lemma="circum" pos="ADV">circum</cc:w>
+            <cc:w lemma="ventus" pos="N:nom">ventus</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="praeceptum" pos="N:nom">praeceptum</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="excedo" pos="V:SUB">excederet</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="propterea" pos="ADV">propterea</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="do" pos="V:PTC:nom">datus</cc:w>
+            <cc:w lemma="exinde" pos="ADV">exinde</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totum</cc:w>
+            <cc:w lemma="genus" pos="N:nom">genus</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="suus" pos="POSS">suo</cc:w>
+            <cc:w lemma="semen" pos="N:abl">semine</cc:w>
+            <cc:w lemma="-" pos="V:PTC:acc">infectum</cc:w>
+            <cc:w lemma="suus" pos="POSS">suae</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="damnatio" pos="N:gen">damnationis</cc:w>
+            <cc:w lemma="tradux" pos="N:acc">traducem</cc:w>
+            <cc:w lemma="facio" pos="V:IND">fecit</cc:w>
+          </cc:s>
+Satanam denique in omni aversatione et
+aspernatione et detestatione pronuntias, quem nos dicimus
+malitiae angelum, totius erroris artificem, totius
+saeculi interpolatorem, per quem homo a primordio circum ventus,
+ut praeceptum Dei excederet, et propterea
+in mortem datus, exinde totum genus de suo semine
+infectum, suae etiam damnationis traducem fecit.<cc:s n="6" parent_pid="50:4;2">
+            <cc:w lemma="sentio" pos="V:IND">Sentis</cc:w>
+            <cc:w lemma="igitur" pos="CS">igitur</cc:w>
+            <cc:w lemma="perditor" pos="N:acc">perditorem</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuum</cc:w>
+          </cc:s>
+Sentis igitur perditorem tuum.<cc:s n="7" parent_pid="50:4;2">
+            <cc:w lemma="et" pos="CC">Et</cc:w>
+            <cc:w lemma="licet_est" pos="V:IND">licet</cc:w>
+            <cc:w lemma="solus" pos="ADJ">soli</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illum</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">noverint</cc:w>
+            <cc:w lemma="Christianus" pos="N:nom">christiani</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="????" pos="????">quaecunque</cc:w>
+            <cc:w lemma="apud" pos="PREP">apud</cc:w>
+            <cc:w lemma="dominus" pos="N:acc">Dominum</cc:w>
+            <cc:w lemma="seco" pos="V:PTC:nom">secta</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="tu" pos="PRON">tu</cc:w>
+            <cc:w lemma="tamen" pos="ADV">tamen</cc:w>
+            <cc:w lemma="is" pos="DET">eum</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">nosti</cc:w>
+            <cc:w lemma="dum" pos="CS">dum</cc:w>
+            <cc:w lemma="odi" pos="V:IND">odisti</cc:w>
+          </cc:s> Et licet soli illum
+noverint christiani, vel quaecunque apud Dominum
+secta, et tu tamen eum nosti, dum odisti.
+<cc:s/>
+        </p>
+      </div>
+<div cc:pid="50:5">
+        <head cc:pid="50:5;1">
+          <cc:s n="1" parent_pid="50:5;1">
+            <cc:w lemma="????" pos="????">CAP</cc:w>
+            <cc:w lemma="IV" pos="ADJ:NUM">IV</cc:w>
+          </cc:s>CAP. IV. <cc:s/>
+        </head>
+        <p cc:pid="50:5;2">
+          <cc:s n="1" parent_pid="50:5;2">
+            <cc:w lemma="jam" pos="ADV">Jam</cc:w>
+            <cc:w lemma="nunc" pos="ADV">nunc</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="????" pos="????">necessariorem</cc:w>
+            <cc:w lemma="sententia" pos="N:acc">sententiam</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuam</cc:w>
+            <cc:w lemma="specto" pos="V:SUB">spectet</cc:w>
+            <cc:w lemma="quantus" pos="PRON">quantum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsum</cc:w>
+            <cc:w lemma="status" pos="N:acc">statum</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuum</cc:w>
+            <cc:w lemma="tendo" pos="V:IND">tendit</cc:w>
+            <cc:w lemma="affirmo" pos="V:IND">affirmamus</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="maneo|mano" pos="V:INF">manere</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="vita" pos="N:gen">vitae</cc:w>
+            <cc:w lemma="????" pos="????">dispunctionem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="exspecto" pos="V:INF">exspectare</cc:w>
+            <cc:w lemma="dies" pos="N:acc">diem</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="????" pos="????">proque</cc:w>
+            <cc:w lemma="meritum" pos="N:abl">meritis</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="cruciatus" pos="N:dat">cruciatui</cc:w>
+            <cc:w lemma="destino" pos="V:INF">destinari</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="refrigerium" pos="N:abl">refrigerio</cc:w>
+            <cc:w lemma="utroque" pos="ADV">utroque</cc:w>
+            <cc:w lemma="sempiterno" pos="ADV">sempiterno</cc:w>
+          </cc:s>
+Jam nunc quod ad necessariorem sententiam
+<pb n="0613B"/>
+tuam spectet, quantum et ad ipsum statum
+tuum tendit, affirmamus, te manere post vitae dispunctionem,
+et exspectare diem judicii, proque
+meritis aut cruciatui destinari, aut refrigerio,
+utroque sempiterno.<cc:s n="2" parent_pid="50:5;2">
+            <cc:w lemma="qui" pos="REL">Quibus</cc:w>
+            <cc:w lemma="sustineo" pos="V:GED">sustinendis</cc:w>
+            <cc:w lemma="necessario" pos="ADV">necessario</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="substantia" pos="N:acc">substantiam</cc:w>
+            <cc:w lemma="pristinus" pos="ADJ">pristinam</cc:w>
+            <cc:w lemma="????" pos="????">ejusdemque</cc:w>
+            <cc:w lemma="homo" pos="N:gen">hominis</cc:w>
+            <cc:w lemma="materia" pos="N:acc">materiam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="memoria" pos="N:acc">memoriam</cc:w>
+            <cc:w lemma="revertor" pos="V:GED">reversuram</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="malus" pos="ADJ">mali</cc:w>
+            <cc:w lemma="ac" pos="CC">ac</cc:w>
+            <cc:w lemma="bonus" pos="ADJ">boni</cc:w>
+            <cc:w lemma="sentio" pos="V:INF">sentire</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possis</cc:w>
+            <cc:w lemma="sine" pos="PREP">sine</cc:w>
+            <cc:w lemma="caro" pos="N:gen">carnis</cc:w>
+            <cc:w lemma="????" pos="????">passionalis</cc:w>
+            <cc:w lemma="facultas" pos="N:abl">facultate</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="nullus" pos="ADJ">nulla</cc:w>
+            <cc:w lemma="ratio" pos="N:nom">ratio</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="sine" pos="PREP">sine</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsius</cc:w>
+            <cc:w lemma="exhibitio" pos="N:abl">exhibitione</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="mereo" pos="V:IND">meruit</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="passio" pos="N:acc">passionem</cc:w>
+          </cc:s> Quibus sustinendis necessario
+tibi substantiam pristinam, ejusdemque hominis materiam,
+et memoriam reversuram, quod et nihil
+mali ac boni sentire possis, sine carnis passionalis
+facultate, et nulla ratio sit judicii sine ipsius exhibitione,
+qui meruit judicii passionem.<cc:s n="3" parent_pid="50:5;2">
+            <cc:w lemma="is" pos="DET">Ea</cc:w>
+            <cc:w lemma="opinio" pos="N:nom">opinio</cc:w>
+            <cc:w lemma="christianus" pos="ADJ">Christiana</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="????" pos="????">honestior</cc:w>
+            <cc:w lemma="multo" pos="ADV">multo</cc:w>
+            <cc:w lemma="Pythagoricus" pos="ADJ">pythagorica</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="bestia" pos="N:acc">bestias</cc:w>
+            <cc:w lemma="transfero" pos="V:IND">transfert</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="????" pos="????">plenior</cc:w>
+            <cc:w lemma="????" pos="????">platonica</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="dos" pos="N:acc">dotem</cc:w>
+            <cc:w lemma="corpus" pos="N:gen">corporis</cc:w>
+            <cc:w lemma="reddo" pos="V:IND">reddit</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="Epicureus" pos="ADJ:abl">epicurea</cc:w>
+            <cc:w lemma="gratus" pos="ADJ:COM">gratior</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="interitus" pos="N:abl">interitu</cc:w>
+            <cc:w lemma="defendo" pos="V:IND">defendit</cc:w>
+            <cc:w lemma="tamen" pos="ADV">tamen</cc:w>
+            <cc:w lemma="propter" pos="PREP">propter</cc:w>
+            <cc:w lemma="suus" pos="POSS">suum</cc:w>
+            <cc:w lemma="nomen" pos="N:acc">nomen</cc:w>
+            <cc:w lemma="solus" pos="ADJ">soli</cc:w>
+            <cc:w lemma="vanitas" pos="N:dat">vanitati</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="stupor" pos="N:dat">stupori</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="dico" pos="V:IND">dicitur</cc:w>
+            <cc:w lemma="praesumptio" pos="N:dat">praesumptioni</cc:w>
+            <cc:w lemma="deputo" pos="V:IND">deputatur</cc:w>
+          </cc:s> Ea opinio Christiana
+etsi honestior multo pythagorica, quae te non
+in bestias transfert; etsi plenior platonica, quae tibi
+etiam dotem corporis reddit; etsi epicurea gratior,
+<pb n="0614A"/>
+quae te ab interitu defendit: tamen propter suum
+nomen soli vanitati et stupori, et ut dicitur, praesumptioni
+deputatur.<cc:s n="4" parent_pid="50:5;2">
+            <cc:w lemma="sed" pos="CC">Sed</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="erubesco" pos="V:IND">erubescimus</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="tu" pos="PRON">tecum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">erit</cc:w>
+            <cc:w lemma="noster" pos="POSS">nostra</cc:w>
+            <cc:w lemma="praesumptio" pos="N:nom">praesumptio</cc:w>
+          </cc:s> Sed non erubescimus, si
+tecum erit nostra praesumptio.<cc:s n="5" parent_pid="50:5;2">
+            <cc:w lemma="primo" pos="ADV">Primo</cc:w>
+            <cc:w lemma="enim" pos="ADV">enim</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">alicujus</cc:w>
+            <cc:w lemma="defungor" pos="V:PTC:nom">defuncti</cc:w>
+            <cc:w lemma="recordor" pos="V:IND">recordaris</cc:w>
+            <cc:w lemma="misellus" pos="ADJ">misellum</cc:w>
+            <cc:w lemma="voco" pos="V:IND">vocas</cc:w>
+            <cc:w lemma="is" pos="DET">eum</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="utique" pos="ADV">utique</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="bonus" pos="ADJ:abl">bono</cc:w>
+            <cc:w lemma="vita" pos="N:gen">vitae</cc:w>
+            <cc:w lemma="-" pos="V:PTC:acc">ereptum</cc:w>
+            <cc:w lemma="sed" pos="CC">sed</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="poena" pos="N:dat">poenae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="judicium" pos="N:abl">judicio</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="-" pos="V:PTC:nom">adscriptum</cc:w>
+          </cc:s> Primo enim cum alicujus
+defuncti recordaris, misellum vocas eum:
+non utique quod de bono vitae ereptum, sed ut
+poenae et judicio jam adscriptum.<cc:s n="6" parent_pid="50:5;2">
+            <cc:w lemma="caeterus" pos="ADJ">Caeterum</cc:w>
+            <cc:w lemma="alius" pos="PRON">alias</cc:w>
+            <cc:w lemma="securus" pos="ADJ">securos</cc:w>
+            <cc:w lemma="voco" pos="V:IND">vocas</cc:w>
+            <cc:w lemma="defungor" pos="V:PTC:acc">defunctos</cc:w>
+          </cc:s> Caeterum alias
+securos vocas defunctos.<cc:s n="7" parent_pid="50:5;2">
+            <cc:w lemma="profiteor" pos="V:IND">Profiteris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="vita" pos="N:gen">vitae</cc:w>
+            <cc:w lemma="incommodus" pos="ADJ">incommodum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="mors" pos="N:gen">mortis</cc:w>
+            <cc:w lemma="beneficium" pos="N:acc">beneficium</cc:w>
+          </cc:s> Profiteris et vitae incommodum,
+et mortis beneficium.<cc:s n="8" parent_pid="50:5;2">
+            <cc:w lemma="voco" pos="V:IND">Vocas</cc:w>
+            <cc:w lemma="porro" pos="ADV">porro</cc:w>
+            <cc:w lemma="securus" pos="ADJ">securos</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="quando" pos="ADV">quando</cc:w>
+            <cc:w lemma="extra" pos="PREP">extra</cc:w>
+            <cc:w lemma="porta" pos="N:acc">portam</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="obsonium" pos="N:abl">obsoniis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="mattea" pos="N:abl">matteis</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="potius" pos="ADV">potius</cc:w>
+            <cc:w lemma="parento" pos="V:PTC:nom">parentans</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="bustum" pos="N:acc">busta</cc:w>
+            <cc:w lemma="recedo" pos="V:IND">recedis</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="bustum" pos="N:abl">bustis</cc:w>
+            <cc:w lemma="????" pos="????">dilutior</cc:w>
+            <cc:w lemma="redeo" pos="V:IND">redis</cc:w>
+          </cc:s> Vocas porro securos,
+si quando extra portam cum obsoniis et
+matteis tibi potius parentans ad busta recedis,
+aut a bustis dilutior redis.<cc:s n="9" parent_pid="50:5;2">
+            <cc:w lemma="at" pos="CC">At</cc:w>
+            <cc:w lemma="ego" pos="PRON">ego</cc:w>
+            <cc:w lemma="sobrius" pos="ADJ">sobriam</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuam</cc:w>
+            <cc:w lemma="sententia" pos="N:acc">sententiam</cc:w>
+            <cc:w lemma="exigo" pos="V:IND">exigo</cc:w>
+            <cc:w lemma="misellus" pos="ADJ">misellos</cc:w>
+            <cc:w lemma="voco" pos="V:IND">vocas</cc:w>
+            <cc:w lemma="mortuus" pos="N:acc">mortuos</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuo</cc:w>
+            <cc:w lemma="loquor" pos="V:IND">loqueris</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="is" pos="DET">eis</cc:w>
+            <cc:w lemma="longe" pos="ADV">longe</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+          </cc:s> At ego sobriam tuam sententiam
+exigo: misellos vocas mortuos, cum de tuo
+loqueris, cum ab eis longe es.<cc:s n="10" parent_pid="50:5;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="convivium" pos="N:abl">convivio</cc:w>
+            <cc:w lemma="is" pos="DET">eorum</cc:w>
+            <cc:w lemma="quasi" pos="CS">quasi</cc:w>
+            <cc:w lemma="praesens" pos="ADJ">praesentibus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">conrecumpentibus</cc:w>
+            <cc:w lemma="sors" pos="N:acc">sortem</cc:w>
+            <cc:w lemma="suus" pos="POSS">suam</cc:w>
+            <cc:w lemma="exprobro" pos="V:INF">exprobrare</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possis</cc:w>
+            <cc:w lemma="debeo" pos="V:IND">debes</cc:w>
+            <cc:w lemma="adulo" pos="V:INF">adulari</cc:w>
+            <cc:w lemma="propter" pos="PREP">propter</cc:w>
+            <cc:w lemma="qui" pos="REL">quos</cc:w>
+            <cc:w lemma="laetus" pos="ADV">laetius</cc:w>
+            <cc:w lemma="vivo" pos="V:IND">vivis</cc:w>
+          </cc:s> Nam in convivio
+eorum quasi praesentibus et conrecumpentibus sortem
+suam exprobrare non possis, debes adulari propter
+<pb n="0614B"/>
+quos laetius vivis.<cc:s n="11" parent_pid="50:5;2">
+            <cc:w lemma="misellus" pos="ADJ">Misellum</cc:w>
+            <cc:w lemma="ergo" pos="ADV">ergo</cc:w>
+            <cc:w lemma="voco" pos="V:IND">vocas</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="sentio" pos="V:IND">sentit</cc:w>
+          </cc:s> Misellum ergo vocas, qui nihil
+sentit?<cc:s n="12" parent_pid="50:5;2">
+            <cc:w lemma="quis" pos="PRON">quid</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="sentio" pos="V:PTC:abl">sentienti</cc:w>
+            <cc:w lemma="maledicus" pos="ADJ:abl">maledicis</cc:w>
+            <cc:w lemma="qui" pos="REL">cujus</cc:w>
+            <cc:w lemma="memoria" pos="N:acc">memoriam</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">alicujus</cc:w>
+            <cc:w lemma="offendo" pos="V:PTC:nom">offensae</cc:w>
+            <cc:w lemma="morsus" pos="N:abl">morsu</cc:w>
+            <cc:w lemma="facio" pos="V:IND">facis</cc:w>
+          </cc:s> quid quod ut sentienti maledicis, cujus
+memoriam cum alicujus offensae morsu facis.<cc:s n="13" parent_pid="50:5;2">
+            <cc:w lemma="terra" pos="N:acc">Terram</cc:w>
+            <cc:w lemma="gravis" pos="ADJ">gravem</cc:w>
+            <cc:w lemma="imprecor" pos="V:IND">imprecaris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ciner" pos="N:dat">cineri</cc:w>
+            <cc:w lemma="penes" pos="PREP">penes</cc:w>
+            <cc:w lemma="infer|inferus" pos="ADJ">inferos</cc:w>
+            <cc:w lemma="tormentum" pos="N:acc">tormentum</cc:w>
+          </cc:s> Terram
+gravem imprecaris, et cineri penes inferos tormentum.<cc:s n="14" parent_pid="50:5;2">
+            <cc:w lemma="aeque" pos="ADV">Aeque</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="bonus" pos="ADJ">bona</cc:w>
+            <cc:w lemma="pars" pos="N:abl">parte</cc:w>
+            <cc:w lemma="qui" pos="REL">cui</cc:w>
+            <cc:w lemma="gratia" pos="N:acc">gratiam</cc:w>
+            <cc:w lemma="debeo" pos="V:IND">debes</cc:w>
+            <cc:w lemma="os" pos="N:abl">ossibus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ciner" pos="N:abl">cineribus</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="refrigerium" pos="N:nom">refrigerium</cc:w>
+            <cc:w lemma="comprecor" pos="V:IND">comprecaris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="bene" pos="ADV">bene</cc:w>
+            <cc:w lemma="requiesco" pos="V:SUB">requiescat</cc:w>
+            <cc:w lemma="apud" pos="PREP">apud</cc:w>
+            <cc:w lemma="inferus" pos="N:acc">inferos</cc:w>
+            <cc:w lemma="cupio" pos="V:IND">cupis</cc:w>
+          </cc:s>
+Aeque ex bona parte, cui gratiam debes,
+ossibus et cineribus ejus refrigerium comprecaris,
+et ut bene requiescat apud inferos cupis.<cc:s n="15" parent_pid="50:5;2">
+            <cc:w lemma="si" pos="CS">Si</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="passio" pos="N:gen">passionis</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="nullus" pos="ADJ">nulla</cc:w>
+            <cc:w lemma="sensus" pos="N:nom">sensus</cc:w>
+            <cc:w lemma="perseverans" pos="ADJ">perseverantia</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="denique" pos="ADV">denique</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsa</cc:w>
+            <cc:w lemma="ubi" pos="CS">ubi</cc:w>
+            <cc:w lemma="corpus" pos="N:nom">corpus</cc:w>
+            <cc:w lemma="relinquo" pos="V:IND">reliquisti</cc:w>
+            <cc:w lemma="cur" pos="ADV">cur</cc:w>
+            <cc:w lemma="mentior" pos="V:IND">mentiris</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="quasi" pos="CS">quasi</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquid</cc:w>
+            <cc:w lemma="ultra" pos="ADV">ultra</cc:w>
+            <cc:w lemma="patior" pos="V:INF">pati</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possis</cc:w>
+          </cc:s> Si nihil passionis
+est tibi post mortem, si nulla sensus perseverantia,
+si denique nihil es ipsa ubi corpus reliquisti:
+cur mentiris in te, quasi aliquid ultra pati possis?<cc:s n="16" parent_pid="50:5;2">
+            <cc:w lemma="imus" pos="ADJ:abl">Imo</cc:w>
+            <cc:w lemma="cur" pos="ADV">cur</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totum</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">times</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="timeo" pos="V:GED">timendum</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="qui" pos="REL">qua</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="experior" pos="V:GER">experiundum</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+          </cc:s>
+Imo cur in totum times mortem, si nihil est
+tibi timendum post mortem, qua nec experiundum
+post mortem?<cc:s n="17" parent_pid="50:5;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="dico" pos="V:INF">dicere</cc:w>
+            <cc:w lemma="possum|poto" pos="V:IND">potes</cc:w>
+            <cc:w lemma="ideo" pos="ADV">ideo</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="timeo" pos="V:INF">timeri</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquid</cc:w>
+            <cc:w lemma="mino" pos="V:PTC:acc">minantem</cc:w>
+            <cc:w lemma="sed" pos="CC">sed</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="commodus" pos="ADJ">commodum</cc:w>
+            <cc:w lemma="vita" pos="N:gen">vitae</cc:w>
+            <cc:w lemma="amputo" pos="V:PTC:acc">amputantem</cc:w>
+            <cc:w lemma="atquin" pos="CC">atquin</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="incommodus" pos="ADJ">incommoda</cc:w>
+            <cc:w lemma="longe" pos="ADV">longe</cc:w>
+            <cc:w lemma="plus" pos="N:acc">plura</cc:w>
+            <cc:w lemma="vita" pos="N:gen">vitae</cc:w>
+            <cc:w lemma="pariter" pos="ADV">pariter</cc:w>
+            <cc:w lemma="excedo" pos="V:SUB">excedas</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">lucratione</cc:w>
+            <cc:w lemma="????" pos="????">gravioris</cc:w>
+            <cc:w lemma="pars|partum" pos="N:gen">partis</cc:w>
+            <cc:w lemma="meta|metus" pos="N:acc">metum</cc:w>
+            <cc:w lemma="diluo" pos="V:IND">diluis</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="timeo" pos="V:GED">timenda</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="amissio" pos="N:nom">amissio</cc:w>
+            <cc:w lemma="bonus" pos="ADJ">bonorum</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="alter" pos="ADJ:abl">altero</cc:w>
+            <cc:w lemma="bonus" pos="ADJ:abl">bono</cc:w>
+            <cc:w lemma="is" pos="DET">id</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="incommodus" pos="ADJ">incommodorum</cc:w>
+            <cc:w lemma="pax" pos="N:abl">pace</cc:w>
+            <cc:w lemma="penso" pos="V:IND">pensatur</cc:w>
+          </cc:s> Nam etsi dicere potes, ideo
+<pb n="0615A"/>
+mortem timeri, non ut aliquid minantem, sed
+ut commodum vitae amputantem: atquin cum et
+incommoda longe plura vitae pariter excedas,
+ et lucratione gravioris partis metum diluis,
+nec jam timenda est amissio bonorum, quae altero
+bono, id est incommodorum pace, pensatur.<cc:s n="18" parent_pid="50:5;2">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="timeo" pos="V:GED">timendum</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="libero" pos="V:IND">liberat</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omni</cc:w>
+            <cc:w lemma="timeo" pos="V:GED">timendo</cc:w>
+          </cc:s> Non
+est timendum, quod nos liberat ab omni timendo.<cc:s n="19" parent_pid="50:5;2">
+            <cc:w lemma="si" pos="CS">Si</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">times</cc:w>
+            <cc:w lemma="vita" pos="N:nom">vita</cc:w>
+            <cc:w lemma="decedo" pos="V:INF">decedere</cc:w>
+            <cc:w lemma="quia" pos="CS">quia</cc:w>
+            <cc:w lemma="bonus" pos="ADJ:SUP">optimam</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">nosti</cc:w>
+            <cc:w lemma="certe" pos="ADV">certe</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="timeo" pos="V:INF">timere</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="debeo" pos="V:IND">debes</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malam</cc:w>
+            <cc:w lemma="nescio" pos="V:IND">nescis</cc:w>
+          </cc:s>
+Si times vita decedere, quia optimam nosti: certe
+mortem timere non debes, quam malam nescis.<cc:s n="20" parent_pid="50:5;2">
+            <cc:w lemma="at" pos="CC">At</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">times</cc:w>
+            <cc:w lemma="scio" pos="V:IND">scis</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malam</cc:w>
+          </cc:s> At
+cum times, scis malam.<cc:s n="21" parent_pid="50:5;2">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="scio" pos="V:SUB">scires</cc:w>
+            <cc:w lemma="autem" pos="ADV">autem</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malam</cc:w>
+            <cc:w lemma="quia" pos="CS">quia</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="timeo" pos="V:SUB">timeres</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="scio" pos="V:SUB">scires</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquid</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="is" pos="DET">eam</cc:w>
+            <cc:w lemma="malus" pos="ADJ">malam</cc:w>
+            <cc:w lemma="facio" pos="V:SUB">faciat</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="timeo" pos="V:SUB">timeas</cc:w>
+          </cc:s> Non scires autem malam
+quia nec timeres, si non scires aliquid esse post
+mortem, quod eam malam faciat, ut timeas.<cc:s n="22" parent_pid="50:5;2">
+            <cc:w lemma="omitto" pos="V:SUB">Omittamus</cc:w>
+            <cc:w lemma="nunc" pos="ADV">nunc</cc:w>
+            <cc:w lemma="naturalis" pos="ADJ">naturalem</cc:w>
+            <cc:w lemma="forma" pos="N:acc">formam</cc:w>
+            <cc:w lemma="timeo" pos="V:GED">timendi</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+          </cc:s> Omittamus
+nunc naturalem formam timendi mortem.<cc:s n="23" parent_pid="50:5;2">
+            <cc:w lemma="nemo" pos="PRON">Nemo</cc:w>
+            <cc:w lemma="timeo" pos="V:SUB">timeat</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="evado" pos="V:INF">evadere</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="possum" pos="V:IND">potest</cc:w>
+          </cc:s> Nemo
+timeat, quod evadere non potest.<cc:s n="24" parent_pid="50:5;2">
+            <cc:w lemma="ex" pos="PREP">Ex</cc:w>
+            <cc:w lemma="alter" pos="ADJ:abl">altera</cc:w>
+            <cc:w lemma="pars" pos="N:abl">parte</cc:w>
+            <cc:w lemma="congredior" pos="V:IND">congredior</cc:w>
+            <cc:w lemma="????" pos="????">laetioris</cc:w>
+            <cc:w lemma="Spes" pos="N:gen">spei</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+          </cc:s> Ex altera parte
+congredior, laetioris spei post mortem.<cc:s n="25" parent_pid="50:5;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnibus</cc:w>
+            <cc:w lemma="fere" pos="ADV">fere</cc:w>
+            <cc:w lemma="????" pos="????">ingenita</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="fama" pos="N:dat">famae</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="cupidus" pos="ADJ">cupido</cc:w>
+          </cc:s> Nam omnibus
+<pb n="0615B"/>
+fere ingenita est famae post mortem cupido.<cc:s n="26" parent_pid="50:5;2">
+            <cc:w lemma="longus" pos="ADJ">Longum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="retego|retexo" pos="V:INF">retexere</cc:w>
+            <cc:w lemma="????" pos="????">Curtios</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Regulus" pos="N:acc">Regulos</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="Graecus" pos="N:acc">Graecos</cc:w>
+            <cc:w lemma="vir" pos="N:acc">viros</cc:w>
+            <cc:w lemma="qui" pos="REL">quorum</cc:w>
+            <cc:w lemma="innumerus" pos="ADJ">innumera</cc:w>
+            <cc:w lemma="elogium" pos="N:nom">elogia</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">sunt</cc:w>
+            <cc:w lemma="contemptus" pos="ADJ">contemptae</cc:w>
+            <cc:w lemma="mors" pos="N:gen">mortis</cc:w>
+            <cc:w lemma="propter" pos="PREP">propter</cc:w>
+            <cc:w lemma="posthumus" pos="ADJ:SUP">posthumam</cc:w>
+            <cc:w lemma="fama" pos="N:acc">famam</cc:w>
+          </cc:s> Longum
+est retexere Curtios et Regulos, vel
+Graecos viros, quorum innumera elogia sunt contemptae
+mortis propter posthumam famam.<cc:s n="27" parent_pid="50:5;2">
+            <cc:w lemma="quis" pos="PRON">Quis</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="hodie" pos="ADV">hodie</cc:w>
+            <cc:w lemma="memoria" pos="N:gen">memoriae</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="frequento" pos="V:GED">frequentandae</cc:w>
+            <cc:w lemma="ita" pos="ADV">ita</cc:w>
+            <cc:w lemma="studeo" pos="V:IND">studet</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="litteratura" pos="N:nom">litteraturae</cc:w>
+            <cc:w lemma="opus" pos="N:abl">operibus</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="simplex" pos="ADJ:abl">simplici</cc:w>
+            <cc:w lemma="laus" pos="N:abl">laude</cc:w>
+            <cc:w lemma="mora|morum|morus|mos" pos="N:acc">morum</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsorum</cc:w>
+            <cc:w lemma="sepulcrum" pos="N:gen">sepulcrorum</cc:w>
+            <cc:w lemma="ambitio" pos="N:abl">ambitione</cc:w>
+            <cc:w lemma="nomen" pos="N:nom">nomen</cc:w>
+            <cc:w lemma="????" pos="????">fuum</cc:w>
+            <cc:w lemma="servo" pos="V:SUB">servet</cc:w>
+          </cc:s> Quis non
+hodie memoriae post mortem frequentandae ita studet,
+ut vel litteraturae operibus, vel simplici laude morum,
+vel ipsorum sepulcrorum ambitione, nomen
+fuum servet?<cc:s n="28" parent_pid="50:5;2">
+            <cc:w lemma="unde" pos="ADV">Unde</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="hodie" pos="ADV">hodie</cc:w>
+            <cc:w lemma="affecto|affector" pos="V:INF">affectare</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquid</cc:w>
+            <cc:w lemma="qui" pos="REL">quod</cc:w>
+            <cc:w lemma="volo" pos="V:SUB">velit</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="tantopere" pos="ADV">tantopere</cc:w>
+            <cc:w lemma="praeparo" pos="V:INF">praeparare</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="utor" pos="V:GED">usura</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="obitus" pos="N:acc">obitum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="posterus" pos="N:abl">postero</cc:w>
+            <cc:w lemma="scio" pos="V:SUB">sciret</cc:w>
+          </cc:s> Unde anima hodie affectare aliquid,
+quod velit post mortem, et tantopere praeparare,
+ quo sit usura post obitum: si nihil de postero
+sciret?<cc:s n="29" parent_pid="50:5;2">
+            <cc:w lemma="sed" pos="CC">Sed</cc:w>
+            <cc:w lemma="forsitan" pos="ADV">forsitan</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="sensus" pos="N:abl">sensu</cc:w>
+            <cc:w lemma="post" pos="PREP">post</cc:w>
+            <cc:w lemma="excessus" pos="N:acc">excessum</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tui</cc:w>
+            <cc:w lemma="certus" pos="ADJ:COM">certiores</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="resurrectio" pos="N:abl">resurrectione</cc:w>
+            <cc:w lemma="quandoque" pos="ADV">quandoque</cc:w>
+            <cc:w lemma="qui" pos="REL">cujus</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="????" pos="????">praesumptores</cc:w>
+            <cc:w lemma="denoto" pos="V:IND">denotamur</cc:w>
+          </cc:s> Sed forsitan de sensu post excessum tui
+certiores, quam de resurrectione quandoque, cujus
+nos praesumptores denotamur.<cc:s n="30" parent_pid="50:5;2">
+            <cc:w lemma="atquin" pos="CC">Atquin</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">hoc</cc:w>
+            <cc:w lemma="quoque" pos="ADV">quoque</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="anima" pos="N:abl">anima</cc:w>
+            <cc:w lemma="praedico" pos="V:IND">praedicatur</cc:w>
+          </cc:s> Atquin hoc quoque ab
+anima praedicatur.<cc:s n="31" parent_pid="50:5;2">
+            <cc:w lemma="nam" pos="CC">Nam</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliquo</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="pridem" pos="ADV">pridem</cc:w>
+            <cc:w lemma="defungor" pos="V:PTC:abl">defuncto</cc:w>
+            <cc:w lemma="tanquam" pos="CS">tanquam</cc:w>
+            <cc:w lemma="vivus" pos="ADJ">vivo</cc:w>
+            <cc:w lemma="quis" pos="PRON">quis</cc:w>
+            <cc:w lemma="requiro" pos="V:SUB">requirat</cc:w>
+            <cc:w lemma="prae" pos="PREP">prae</cc:w>
+            <cc:w lemma="manus" pos="N:abl">manu</cc:w>
+            <cc:w lemma="occurro" pos="V:IND">occurrit</cc:w>
+            <cc:w lemma="dico" pos="V:INF">dicere</cc:w>
+            <cc:w lemma="abeo" pos="V:IND">Abiit</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="reverto|revertor" pos="V:INF">reverti</cc:w>
+            <cc:w lemma="debeo" pos="V:IND">debet</cc:w>
+          </cc:s> Nam si de aliquo jam pridem
+defuncto tanquam vivo quis requirat, prae
+<pb n="0615C"/>
+manu occurrit dicere: Abiit jam, et reverti
+debet.
+<cc:s/>
+        </p>
+      </div>
+<div cc:pid="50:6">
+        <head cc:pid="50:6;1">
+          <cc:s n="1" parent_pid="50:6;1">
+            <cc:w lemma="????" pos="????">CAP</cc:w>
+            <cc:w lemma="v." pos="ABBR">V.</cc:w>
+          </cc:s>CAP. V. <cc:s/>
+        </head>
+        <p cc:pid="50:6;2">
+          <cc:s n="1" parent_pid="50:6;2">
+            <cc:w lemma="hic" pos="DIMOS">Haec</cc:w>
+            <cc:w lemma="testimonium" pos="N:nom">testimonia</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="quanto|quantus" pos="PRON">quanto</cc:w>
+            <cc:w lemma="verus" pos="ADJ">vera</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="simplex" pos="ADJ">simplicia</cc:w>
+            <cc:w lemma="quanto" pos="ADV">quanto</cc:w>
+            <cc:w lemma="simplex" pos="ADJ">simplicia</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="vulgaris" pos="ADJ">vulgaria</cc:w>
+            <cc:w lemma="quanto" pos="ADV">quanto</cc:w>
+            <cc:w lemma="vulgaris" pos="ADJ">vulgaria</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="communis" pos="ADJ">communia</cc:w>
+            <cc:w lemma="quanto" pos="ADV">quanto</cc:w>
+            <cc:w lemma="communis" pos="ADJ">communia</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="naturalis" pos="ADJ">naturalia</cc:w>
+            <cc:w lemma="quanto" pos="ADV">quanto</cc:w>
+            <cc:w lemma="naturalis" pos="ADJ">naturalia</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divina</cc:w>
+          </cc:s>
+Haec testimonia animae quanto vera, tanto
+simplicia; quanto simplicia, tanto vulgaria; quanto
+vulgaria, tanto communia: quanto communia, tanto
+naturalia: quanto naturalia, tanto divina.<cc:s n="2" parent_pid="50:6;2">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="puto" pos="V:SUB">putem</cc:w>
+            <cc:w lemma="quisquam" pos="PRON">cuiquam</cc:w>
+            <cc:w lemma="frivolus" pos="ADJ">frivolum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="frigidus" pos="ADJ">frigidum</cc:w>
+            <cc:w lemma="video" pos="V:INF">videri</cc:w>
+            <cc:w lemma="possum" pos="V:INF">posse</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="recogito" pos="V:SUB">recogitet</cc:w>
+            <cc:w lemma="natura" pos="N:gen">naturae</cc:w>
+            <cc:w lemma="majestas" pos="N:acc">majestatem</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="qui" pos="REL">qua</cc:w>
+            <cc:w lemma="censeo" pos="V:IND">censetur</cc:w>
+            <cc:w lemma="auctoritas" pos="N:nom">auctoritas</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+          </cc:s> Non
+<pb n="0616A"/>
+putem cuiquam frivolum et frigidum videri posse, si
+recogitet naturae majestatem, ex qua censetur auctoritas
+animae.<cc:s n="3" parent_pid="50:6;2">
+            <cc:w lemma="quantus" pos="PRON">Quantum</cc:w>
+            <cc:w lemma="dedo|do" pos="V:IND">dederis</cc:w>
+            <cc:w lemma="magistra" pos="N:nom">magistrae</cc:w>
+            <cc:w lemma="tantum" pos="ADV">tantum</cc:w>
+            <cc:w lemma="adjudico" pos="V:IND">adjudicabis</cc:w>
+            <cc:w lemma="discipula" pos="N:dat">discipulae</cc:w>
+          </cc:s> Quantum dederis magistrae, tantum
+adjudicabis discipulae.<cc:s n="4" parent_pid="50:6;2">
+            <cc:w lemma="magistra" pos="N:nom">Magistra</cc:w>
+            <cc:w lemma="natura" pos="N:nom">natura</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="discipula" pos="N:abl">discipula</cc:w>
+          </cc:s> Magistra natura, anima discipula.<cc:s n="5" parent_pid="50:6;2">
+            <cc:w lemma="quisquis" pos="PRON">Quicquid</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illa</cc:w>
+            <cc:w lemma="edoceo" pos="V:IND">edocuit</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="iste" pos="DIMOS">ista</cc:w>
+            <cc:w lemma="perdisco" pos="V:IND">perdidicit</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="-" pos="V:PTC:nom">traditum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="magister" pos="N:abl">magistro</cc:w>
+            <cc:w lemma="scilicet" pos="ADV">scilicet</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsius</cc:w>
+            <cc:w lemma="magistra" pos="N:gen">magistrae</cc:w>
+          </cc:s>
+Quicquid aut illa edocuit, aut ista perdidicit: a
+Deo traditum est, magistro scilicet ipsius magistrae.<cc:s n="6" parent_pid="50:6;2">
+            <cc:w lemma="quis" pos="PRON">Quid</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="possum" pos="V:SUB">possit</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="principalis" pos="ADJ:abl">principali</cc:w>
+            <cc:w lemma="????" pos="????">institutore</cc:w>
+            <cc:w lemma="praesumo" pos="V:INF">praesumere</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="aestimo" pos="V:INF">aestimare</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+          </cc:s>
+Quid anima possit de principali institutore praesumere,
+in te est aestimare de ea quae in te est.<cc:s n="7" parent_pid="50:6;2">
+            <cc:w lemma="sentio" pos="V:IMP">Senti</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illam</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="sentio" pos="V:SUB">sentias</cc:w>
+            <cc:w lemma="efficio" pos="V:IND">efficit</cc:w>
+          </cc:s>
+Senti illam, quae ut sentias efficit!<cc:s n="8" parent_pid="50:6;2">
+            <cc:w lemma="recogito" pos="V:IMP">recogita</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="praesagium" pos="N:abl">praesagiis</cc:w>
+            <cc:w lemma="vates|vatis" pos="N:acc">vatem</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="omen" pos="N:abl">ominibus</cc:w>
+            <cc:w lemma="augur" pos="N:acc">augurem</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="eventus" pos="N:abl">eventibus</cc:w>
+            <cc:w lemma="????" pos="????">prospicem</cc:w>
+          </cc:s> recogita in praesagiis
+vatem, in ominibus augurem, in eventibus
+prospicem.<cc:s n="9" parent_pid="50:6;2">
+            <cc:w lemma="mirus" pos="ADJ">Mirum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="do" pos="V:PTC:nom">data</cc:w>
+            <cc:w lemma="homo" pos="N:dat">homini</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">novit</cc:w>
+            <cc:w lemma="divino" pos="V:INF">divinare</cc:w>
+          </cc:s> Mirum si a Deo data homini, novit divinare.<cc:s n="10" parent_pid="50:6;2">
+            <cc:w lemma="tam" pos="ADV">Tam</cc:w>
+            <cc:w lemma="mirus" pos="ADJ">mirum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="is" pos="DET">eum</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="qui" pos="REL">quo</cc:w>
+            <cc:w lemma="do" pos="V:PTC:nom">data</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="nosco" pos="V:IND">novit</cc:w>
+          </cc:s>
+Tam mirum, si eum a quo data est, novit.<cc:s n="11" parent_pid="50:6;2">
+            <cc:w lemma="etiam" pos="CC">Etiam</cc:w>
+            <cc:w lemma="circumvenio" pos="V:PTC:nom">circumventa</cc:w>
+            <cc:w lemma="ab" pos="PREP">ab</cc:w>
+            <cc:w lemma="adversarium|adversarius" pos="N:abl">adversario</cc:w>
+            <cc:w lemma="memini" pos="V:IND">meminit</cc:w>
+            <cc:w lemma="suus" pos="POSS">sui</cc:w>
+            <cc:w lemma="auctor" pos="N:gen">auctoris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="bonitas" pos="N:gen">bonitatis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="decerno" pos="V:PTC">decreti</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="exitus" pos="N:acc">exitus</cc:w>
+            <cc:w lemma="suus" pos="POSS">sui</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="adversarius" pos="ADJ">adversarii</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsius</cc:w>
+          </cc:s>
+Etiam circumventa ab adversario, meminit sui auctoris,
+et bonitatis, et decreti ejus, et exitus sui et
+ adversarii ipsius.<cc:s n="12" parent_pid="50:6;2">
+            <cc:w lemma="sic" pos="ADV">Sic</cc:w>
+            <cc:w lemma="mirus" pos="ADJ">mirum</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="do" pos="V:PTC:nom">data</cc:w>
+            <cc:w lemma="idem" pos="DET">eadem</cc:w>
+            <cc:w lemma="cano" pos="V:IND">canit</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="suus" pos="POSS">suis</cc:w>
+            <cc:w lemma="dedo|do" pos="V:IND">dedit</cc:w>
+            <cc:w lemma="nosco" pos="V:INF">nosse</cc:w>
+          </cc:s> Sic mirum, si a Deo data,
+<pb n="0616B"/>
+eadem canit, quae Deus suis dedit nosse.<cc:s n="13" parent_pid="50:6;2">
+            <cc:w lemma="sed" pos="CC">Sed</cc:w>
+            <cc:w lemma="qui" pos="REL">qui</cc:w>
+            <cc:w lemma="ejusmodi" pos="ADV">ejusmodi</cc:w>
+            <cc:w lemma="eruptio" pos="N:nom">eruptiones</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="puto" pos="V:IND">putavit</cc:w>
+            <cc:w lemma="doctrina" pos="N:acc">doctrinam</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="natura" pos="N:gen">naturae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="congenitus" pos="ADJ">congenitae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">ingenitae</cc:w>
+            <cc:w lemma="conscientia" pos="N:nom">conscientiae</cc:w>
+            <cc:w lemma="taceo" pos="V:PTC:nom">tacita</cc:w>
+            <cc:w lemma="commissum" pos="N:nom">commissa</cc:w>
+            <cc:w lemma="dico" pos="V:IND">dicet</cc:w>
+            <cc:w lemma="potius" pos="ADV">potius</cc:w>
+            <cc:w lemma="????" pos="????">diventilatis</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="vulgus" pos="N:acc">vulgus</cc:w>
+            <cc:w lemma="opinio" pos="N:abl">opinionibus</cc:w>
+            <cc:w lemma="publico" pos="V:PTC">publicatarum</cc:w>
+            <cc:w lemma="littera" pos="N:gen">litterarum</cc:w>
+            <cc:w lemma="usus" pos="N:acc">usum</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="quasi" pos="CS">quasi</cc:w>
+            <cc:w lemma="vitium" pos="N:nom">vitium</cc:w>
+            <cc:w lemma="-" pos="V:PTC:nom">corroboratum</cc:w>
+            <cc:w lemma="taliter" pos="ADV">taliter</cc:w>
+            <cc:w lemma="sermocinor" pos="V:GER">sermocinandi</cc:w>
+          </cc:s> Sed qui
+ejusmodi eruptiones animae non putavit doctrinam
+esse naturae et congenitae et ingenitae conscientiae
+ tacita commissa, dicet potius diventilatis in vulgus
+opinionibus, publicatarum litterarum usum,
+jam et quasi vitium corroboratum taliter sermocinandi.<cc:s n="14" parent_pid="50:6;2">
+            <cc:w lemma="certe" pos="ADV">Certe</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">prior</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="littera" pos="N:abl">littera</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">prior</cc:w>
+            <cc:w lemma="sermo" pos="N:nom">sermo</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="liber" pos="N:nom">liber</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">prior</cc:w>
+            <cc:w lemma="sensus" pos="N:nom">sensus</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="stylus" pos="N:nom">stylus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">prior</cc:w>
+            <cc:w lemma="homo" pos="N:nom">homo</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipse</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="philosophus" pos="N:nom">philosophus</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="poeta" pos="N:nom">poeta</cc:w>
+          </cc:s>
+Certe prior anima, quam littera; et prior
+sermo, quam liber, et prior sensus, quam stylus;
+et prior homo ipse, quam philosophus et poeta.<cc:s n="15" parent_pid="50:6;2">
+            <cc:w lemma="numquid" pos="ADV">Numquid</cc:w>
+            <cc:w lemma="ergo" pos="ADV">ergo</cc:w>
+            <cc:w lemma="credo" pos="V:GER">credendum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="ante" pos="PREP">ante</cc:w>
+            <cc:w lemma="litteratura" pos="N:acc">litteraturam</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="divulgatio" pos="N:acc">divulgationem</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="mutus" pos="ADJ">mutos</cc:w>
+            <cc:w lemma="absque" pos="PREP">absque</cc:w>
+            <cc:w lemma="hujusmodi" pos="ADV">hujusmodi</cc:w>
+            <cc:w lemma="pronuntiatio" pos="N:abl">pronuntiationibus</cc:w>
+            <cc:w lemma="homo" pos="N:acc">homines</cc:w>
+            <cc:w lemma="vivo" pos="V:INF">vixisse</cc:w>
+          </cc:s> Numquid
+ergo credendum est, ante litteraturam et divulgationem
+ejus mutos absque hujusmodi pronuntiationibus
+homines vixisse?<cc:s n="16" parent_pid="50:6;2">
+            <cc:w lemma="nemo" pos="PRON">Nemo</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">deum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="bonitas" pos="N:acc">bonitatem</cc:w>
+            <cc:w lemma="is" pos="PRON">ejus</cc:w>
+            <cc:w lemma="nemo" pos="PRON">nemo</cc:w>
+            <cc:w lemma="mors" pos="N:acc">mortem</cc:w>
+            <cc:w lemma="nemo" pos="PRON">nemo</cc:w>
+            <cc:w lemma="inferus" pos="N:acc">inferos</cc:w>
+            <cc:w lemma="loquor" pos="V:IND">loquebatur</cc:w>
+            <cc:w lemma="mendico" pos="V:IND">mendicabat</cc:w>
+            <cc:w lemma="sermo" pos="N:nom">sermo</cc:w>
+            <cc:w lemma="opinor" pos="V:IND">opinor</cc:w>
+            <cc:w lemma="imus" pos="ADJ:abl">imo</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="ullus" pos="ADJ">ullus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="possum" pos="V:IND">poterat</cc:w>
+            <cc:w lemma="cesso" pos="V:PTC:abl">cessantibus</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="tunc" pos="ADV">tunc</cc:w>
+            <cc:w lemma="sine" pos="PREP">sine</cc:w>
+            <cc:w lemma="qui" pos="REL">quibus</cc:w>
+            <cc:w lemma="etiam" pos="CC">etiam</cc:w>
+            <cc:w lemma="hodie" pos="ADV">hodie</cc:w>
+            <cc:w lemma="jam" pos="ADV">jam</cc:w>
+            <cc:w lemma="beo" pos="ADJ:COM">beatior</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">locupletior</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="????" pos="????">prudentior</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="possum" pos="V:IND">potest</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tam" pos="ADV">tam</cc:w>
+            <cc:w lemma="facilis" pos="ADJ">facilia</cc:w>
+            <cc:w lemma="tam" pos="ADV">tam</cc:w>
+            <cc:w lemma="assiduus" pos="ADJ">assidua</cc:w>
+            <cc:w lemma="tam" pos="ADV">tam</cc:w>
+            <cc:w lemma="proximus" pos="ADJ:abl">proxima</cc:w>
+            <cc:w lemma="hodie" pos="ADV">hodie</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">sunt</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsis</cc:w>
+            <cc:w lemma="quodammodo" pos="ADV">quodammodo</cc:w>
+            <cc:w lemma="labia|labium" pos="N:abl">labiis</cc:w>
+            <cc:w lemma="pario" pos="V:PTC:acc">parta</cc:w>
+            <cc:w lemma="retro" pos="ADV">retro</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">fuerunt</cc:w>
+            <cc:w lemma="antequam" pos="CS">antequam</cc:w>
+            <cc:w lemma="littera" pos="N:nom">litterae</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="saeculum" pos="N:abl">saeculo</cc:w>
+            <cc:w lemma="????" pos="????">germinassent</cc:w>
+            <cc:w lemma="antequam" pos="CS">antequam</cc:w>
+            <cc:w lemma="Mercurius" pos="N:nom">Mercurius</cc:w>
+            <cc:w lemma="opinor" pos="V:IND">opinor</cc:w>
+            <cc:w lemma="nascor" pos="V:PTC:nom">natus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">fuisset</cc:w>
+          </cc:s> Nemo deum et bonitatem
+ejus, nemo mortem, nemo inferos loquebatur: mendicabat
+sermo, opinor, imo nec ullus esse poterat,
+cessantibus etiam tunc, sine quibus etiam hodie jam
+<pb n="0616C"/>
+beatior, et locupletior, et prudentior esse non potest,
+si ea quae tam facilia, tam assidua, tam proxima
+hodie sunt, in ipsis quodammodo labiis parta,
+retro non fuerunt, antequam litterae in saeculo germinassent,
+antequam Mercurius (opinor) natus fuisset.<cc:s n="17" parent_pid="50:6;2">
+            <cc:w lemma="et" pos="CC">Et</cc:w>
+            <cc:w lemma="unde" pos="ADV">unde</cc:w>
+            <cc:w lemma="ordo" pos="N:nom">ordo</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsis</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="contingo" pos="V:IND">contingit</cc:w>
+            <cc:w lemma="nosco" pos="V:INF">nosse</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="usus" pos="N:acc">usum</cc:w>
+            <cc:w lemma="loquela" pos="N:gen">loquelae</cc:w>
+            <cc:w lemma="dissemino" pos="V:INF">disseminare</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="nullus" pos="ADJ">nulla</cc:w>
+            <cc:w lemma="unquam" pos="ADV">unquam</cc:w>
+            <cc:w lemma="mens" pos="N:nom">mens</cc:w>
+            <cc:w lemma="concipio" pos="V:IND">conceperat</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="lingua" pos="N:nom">lingua</cc:w>
+            <cc:w lemma="profero" pos="V:IND">protulerat</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="aura|auris|aurum" pos="N:acc">auris</cc:w>
+            <cc:w lemma="excipio" pos="V:IND">exceperat</cc:w>
+          </cc:s>
+Et unde ordo ipsis litteris contingit, nosse,
+<pb n="0617A"/>
+et in usum loquelae disseminare, quae nulla unquam
+mens conceperat, aut lingua protulerat, aut auris
+exceperat?<cc:s n="18" parent_pid="50:6;2">
+            <cc:w lemma="at" pos="CC">At</cc:w>
+            <cc:w lemma="enim" pos="ADV">enim</cc:w>
+            <cc:w lemma="quum" pos="PREP">quum</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divinae</cc:w>
+            <cc:w lemma="scriptura" pos="N:gen">Scripturae</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="penes" pos="PREP">penes</cc:w>
+            <cc:w lemma="nos" pos="PRON">nos</cc:w>
+            <cc:w lemma="vel" pos="CC">vel</cc:w>
+            <cc:w lemma="Judaeus" pos="ADJ">Judaeos</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">sunt</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="qui" pos="REL">quorum</cc:w>
+            <cc:w lemma="oleaster" pos="N:abl">oleastro</cc:w>
+            <cc:w lemma="insitus" pos="ADJ">insiti</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">sumus</cc:w>
+            <cc:w lemma="multo" pos="ADV">multo</cc:w>
+            <cc:w lemma="saecularis" pos="ADJ:abl">saecularibus</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="modicus" pos="ADJ">modica</cc:w>
+            <cc:w lemma="tantus" pos="ADJ">tantum</cc:w>
+            <cc:w lemma="aetas" pos="N:abl">aetate</cc:w>
+            <cc:w lemma="aliquis" pos="PRON">aliqua</cc:w>
+            <cc:w lemma="antecedo" pos="V:SUB">antecedant</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="locum|locus" pos="N:abl">loco</cc:w>
+            <cc:w lemma="suus" pos="POSS">suo</cc:w>
+            <cc:w lemma="edoceo" pos="V:IND">edocuimus</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="fides" pos="N:acc">fidem</cc:w>
+            <cc:w lemma="is" pos="DET">earum</cc:w>
+            <cc:w lemma="demonstro" pos="V:GED">demonstrandam</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">haec</cc:w>
+            <cc:w lemma="eloquium" pos="N:nom">eloquia</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="usurpo" pos="V:IND">usurpavit</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="utique" pos="ADV">utique</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="noster" pos="POSS">nostris</cc:w>
+            <cc:w lemma="credo" pos="V:GED">credendum</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">erit</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="vester" pos="POSS">vestris</cc:w>
+            <cc:w lemma="quia" pos="CS">quia</cc:w>
+            <cc:w lemma="potior" pos="ADJ:COM">potiora</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">sunt</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="instruo" pos="V:GED">instruendam</cc:w>
+            <cc:w lemma="anima" pos="N:acc">animam</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">priora</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="posterus" pos="ADJ">postera</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsa</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="prior" pos="ADJ:COM">prioribus</cc:w>
+            <cc:w lemma="instruo" pos="V:INF">instrui</cc:w>
+            <cc:w lemma="sustineo" pos="V:IND">sustinebant</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="etsi" pos="CS">etsi</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="vester" pos="POSS">vestris</cc:w>
+            <cc:w lemma="instruo" pos="V:PTC:acc">instructam</cc:w>
+            <cc:w lemma="concedo" pos="V:SUB">concedamus</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="origo" pos="N:acc">originem</cc:w>
+            <cc:w lemma="tamen" pos="ADV">tamen</cc:w>
+            <cc:w lemma="principalis" pos="ADJ">principalem</cc:w>
+            <cc:w lemma="traditio" pos="N:nom">traditio</cc:w>
+            <cc:w lemma="pertineo" pos="V:SUB">pertineat</cc:w>
+            <cc:w lemma="????" pos="????">nostrumque</cc:w>
+            <cc:w lemma="omnino" pos="ADV">omnino</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="????" pos="????">quodcunque</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="noster" pos="POSS">nostris</cc:w>
+            <cc:w lemma="sumo" pos="V:INF">sumpsisse</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="trado" pos="V:INF">tradidisse</cc:w>
+            <cc:w lemma="contingo" pos="V:IND">contigit</cc:w>
+            <cc:w lemma="vos" pos="PRON">vobis</cc:w>
+          </cc:s> At enim quum divinae Scripturae, quae penes
+nos vel Judaeos sunt, in quorum oleastro insiti
+sumus, multo saecularibus litteris non modica tantum
+aetate aliqua antecedant, ut loco suo edocuimus ad
+fidem earum demonstrandam; etsi haec eloquia de
+litteris usurpavit anima, utique de nostris credendum
+erit, non de vestris: quia potiora sunt ad instruendam
+animam priora, quam postera, quae et ipsa a prioribus
+instrui sustinebant; cum, etsi de vestris instructam
+concedamus, ad originem tamen principalem
+traditio pertineat, nostrumque omnino sit, quodcunque
+de nostris sumpsisse et tradidisse contigit
+vobis.<cc:s n="19" parent_pid="50:6;2">
+            <cc:w lemma="qui" pos="REL">Quod</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="ita" pos="ADV">ita</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="multum" pos="ADV">multum</cc:w>
+            <cc:w lemma="refero" pos="V:IND">refert</cc:w>
+            <cc:w lemma="an" pos="CC">an</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="Deus" pos="N:abl">Deo</cc:w>
+            <cc:w lemma="formo" pos="V:PTC:nom">formata</cc:w>
+            <cc:w lemma="sum" pos="ESSE:SUB">sit</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="conscientia" pos="N:abl">conscientia</cc:w>
+            <cc:w lemma="an" pos="CC">an</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+          </cc:s> Quod cum ita sit, non multum refert, an a
+<pb n="0617B"/>
+Deo formata sit animae conscientia, an litteris Dei.<cc:s n="20" parent_pid="50:6;2">
+            <cc:w lemma="quis" pos="PRON">Quid</cc:w>
+            <cc:w lemma="igitur" pos="CS">igitur</cc:w>
+            <cc:w lemma="vis" pos="V:IND">vis</cc:w>
+            <cc:w lemma="homo" pos="N:voc">homo</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="humanus" pos="ADJ:abl">humanis</cc:w>
+            <cc:w lemma="sententia" pos="N:abl">sententiis</cc:w>
+            <cc:w lemma="littera" pos="N:gen">litterarum</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuarum</cc:w>
+            <cc:w lemma="exeo" pos="V:INF">exisse</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">haec</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="usus" pos="N:acc">usus</cc:w>
+            <cc:w lemma="communis" pos="ADJ">communis</cc:w>
+            <cc:w lemma="callositas" pos="N:acc">callositatem</cc:w>
+          </cc:s>
+Quid igitur vis, homo, de humanis sententiis litterarum
+tuarum exisse haec in usus communis callositatem?
+<cc:s/>
+        </p>
+        <p cc:pid="50:6;3">
+          <cc:s n="1" parent_pid="50:6;3">
+            <cc:w lemma="caput" pos="N:acc">CAPUT</cc:w>
+            <cc:w lemma="VI" pos="ADJ:NUM">VI</cc:w>
+          </cc:s>CAPUT VI.<cc:s n="2" parent_pid="50:6;3">
+            <cc:w lemma="credo" pos="V:IMP">Crede</cc:w>
+            <cc:w lemma="itaque" pos="ADV">itaque</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="commentarium|commentarius" pos="N:abl">commentariis</cc:w>
+            <cc:w lemma="noster" pos="POSS">nostris</cc:w>
+            <cc:w lemma="tantus" pos="PRON">tanto</cc:w>
+            <cc:w lemma="magis" pos="ADV">magis</cc:w>
+            <cc:w lemma="credo" pos="V:IMP">crede</cc:w>
+            <cc:w lemma="divinus" pos="ADJ:abl">divinis</cc:w>
+            <cc:w lemma="sed" pos="CC">sed</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="ipse" pos="DET">ipsius</cc:w>
+            <cc:w lemma="arbitrium" pos="N:abl">arbitrio</cc:w>
+            <cc:w lemma="perinde" pos="ADV">perinde</cc:w>
+            <cc:w lemma="credo" pos="V:IMP">crede</cc:w>
+            <cc:w lemma="natura" pos="N:gen">naturae</cc:w>
+          </cc:s>
+Crede itaque tuis, et de commentariis nostris
+tanto magis crede divinis, sed de animae ipsius
+arbitrio perinde crede naturae.<cc:s n="3" parent_pid="50:6;3">
+            <cc:w lemma="eligo" pos="V:IMP">Elige</cc:w>
+            <cc:w lemma="quam" pos="ADV">quam</cc:w>
+            <cc:w lemma="ex" pos="PREP">ex</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">his</cc:w>
+            <cc:w lemma="fidelis" pos="ADJ:COM">fidelius</cc:w>
+            <cc:w lemma="soror" pos="N:acc">sororem</cc:w>
+            <cc:w lemma="observo" pos="V:SUB">observes</cc:w>
+            <cc:w lemma="veritas" pos="N:gen">veritatis</cc:w>
+          </cc:s> Elige quam ex his
+fidelius sororem observes veritatis.<cc:s n="4" parent_pid="50:6;3">
+            <cc:w lemma="si" pos="CS">Si</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="tuus" pos="POSS">tuis</cc:w>
+            <cc:w lemma="littera" pos="N:abl">litteris</cc:w>
+            <cc:w lemma="dubito" pos="V:IND">dubitas</cc:w>
+            <cc:w lemma="neque" pos="CC">neque</cc:w>
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="neque" pos="CC">neque</cc:w>
+            <cc:w lemma="natura" pos="N:nom">natura</cc:w>
+            <cc:w lemma="mentior" pos="V:IND">mentitur</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="natura" pos="N:dat">naturae</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Deus" pos="N:dat">Deo</cc:w>
+            <cc:w lemma="credo" pos="V:SUB">credas</cc:w>
+            <cc:w lemma="credo" pos="V:IMP">crede</cc:w>
+            <cc:w lemma="anima" pos="N:gen">animae</cc:w>
+            <cc:w lemma="ita" pos="ADV">ita</cc:w>
+            <cc:w lemma="fio" pos="V:IND">fiet</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="credo" pos="V:SUB">credas</cc:w>
+          </cc:s> Si de tuis
+litteris dubitas, neque Deus, neque natura mentitur:
+ut et naturae et Deo credas, crede animae; ita fiet, ut
+et tibi credas.<cc:s n="5" parent_pid="50:6;3">
+            <cc:w lemma="ille" pos="DIMOS">Illa</cc:w>
+            <cc:w lemma="certe" pos="ADV">certe</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="tantus" pos="ADJ">tanti</cc:w>
+            <cc:w lemma="facio" pos="V:IND">facis</cc:w>
+            <cc:w lemma="quantus" pos="PRON">quantum</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illa</cc:w>
+            <cc:w lemma="tu" pos="PRON">te</cc:w>
+            <cc:w lemma="facio" pos="V:IND">facit</cc:w>
+            <cc:w lemma="qui" pos="REL">cujus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+            <cc:w lemma="totus" pos="ADJ">totus</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="tu" pos="PRON">tibi</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnia</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="sine" pos="PREP">sine</cc:w>
+            <cc:w lemma="qui" pos="REL">qua</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="vivo" pos="V:INF">vivere</cc:w>
+            <cc:w lemma="possum|poto" pos="V:IND">potes</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="morior" pos="V:INF">mori</cc:w>
+            <cc:w lemma="propter" pos="PREP">propter</cc:w>
+            <cc:w lemma="qui" pos="REL">quam</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="negligo" pos="V:IND">negligis</cc:w>
+          </cc:s> Illa certe est, quam tanti facis, quantum
+ illa te facit: cujus es totus; quae tibi omnia
+est; sine qua nec vivere potes nec mori; propter
+quam Deum negligis.<cc:s n="6" parent_pid="50:6;3">
+            <cc:w lemma="quum" pos="CS">Quum</cc:w>
+            <cc:w lemma="enim" pos="ADV">enim</cc:w>
+            <cc:w lemma="timeo" pos="V:IND">times</cc:w>
+            <cc:w lemma="fio" pos="V:INF">fieri</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">christianus</cc:w>
+            <cc:w lemma="is" pos="DET">eam</cc:w>
+            <cc:w lemma="convenio" pos="V:IND">conveni</cc:w>
+            <cc:w lemma="cur" pos="ADV">cur</cc:w>
+            <cc:w lemma="alius" pos="PRON">alium</cc:w>
+            <cc:w lemma="colo" pos="V:PTC:nom">colens</cc:w>
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="nomino" pos="V:IND">nominat</cc:w>
+          </cc:s> Quum enim times fieri christianus,
+<pb n="0618A"/>
+eam conveni: cur alium colens, Deum nominat?<cc:s n="7" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="cum" pos="PREP">cum</cc:w>
+            <cc:w lemma="maledico" pos="V:GED">maledicendos</cc:w>
+            <cc:w lemma="spiritus" pos="N:acc">spiritus</cc:w>
+            <cc:w lemma="denoto" pos="V:IND">denotat</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:acc">daemonia</cc:w>
+            <cc:w lemma="pronuntio" pos="V:IND">pronuntiat</cc:w>
+          </cc:s>
+Cur, cum maledicendos spiritus denotat, daemonia
+pronuntiat?<cc:s n="8" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="coelum|coelus" pos="N:acc">coelum</cc:w>
+            <cc:w lemma="contestor" pos="V:IND">contestatur</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ad" pos="PREP">ad</cc:w>
+            <cc:w lemma="terra" pos="N:acc">terram</cc:w>
+            <cc:w lemma="detesto" pos="V:IND">detestatur</cc:w>
+          </cc:s> Cur ad coelum contestatur, et
+ad terram detestatur?<cc:s n="9" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="alibi" pos="ADV">alibi</cc:w>
+            <cc:w lemma="sero|servio" pos="V:IND">servit</cc:w>
+            <cc:w lemma="alibi" pos="ADV">alibi</cc:w>
+            <cc:w lemma="vindex" pos="N:acc">vindicem</cc:w>
+            <cc:w lemma="convenio" pos="V:IND">convenit</cc:w>
+          </cc:s> Cur alibi servit, alibi vindicem
+convenit?<cc:s n="10" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="mortuus" pos="ADJ">mortuis</cc:w>
+            <cc:w lemma="judico" pos="V:IND">judicat</cc:w>
+          </cc:s> Cur de mortuis judicat?<cc:s n="11" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="verbum" pos="N:nom">verba</cc:w>
+            <cc:w lemma="habeo" pos="V:IND">habet</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">Christianorum</cc:w>
+            <cc:w lemma="qui" pos="REL">quos</cc:w>
+            <cc:w lemma="ne" pos="ADV">ne</cc:w>
+            <cc:w lemma="audio" pos="V:PTC:acc">auditos</cc:w>
+            <cc:w lemma="????" pos="????">visosque</cc:w>
+            <cc:w lemma="volo" pos="V:IND">vult</cc:w>
+          </cc:s> Cur verba
+habet Christianorum, quos ne auditos visosque
+vult?<cc:s n="12" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+            <cc:w lemma="dedo|do" pos="V:IND">dedit</cc:w>
+            <cc:w lemma="is" pos="DET">ea</cc:w>
+            <cc:w lemma="verbum" pos="N:nom">verba</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="accipio" pos="V:IND">accepit</cc:w>
+            <cc:w lemma="a" pos="PREP">a</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+          </cc:s> Cur aut nobis dedit ea verba, aut accepit a
+nobis?<cc:s n="13" parent_pid="50:6;3">
+            <cc:w lemma="cur" pos="ADV">Cur</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="doceo" pos="V:IND">docuit</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="disco" pos="V:IND">didicit</cc:w>
+          </cc:s> Cur aut docuit, aut didicit?<cc:s n="14" parent_pid="50:6;3">
+            <cc:w lemma="suspectus" pos="ADJ">Suspectam</cc:w>
+            <cc:w lemma="habeo" pos="V:IMP">habe</cc:w>
+            <cc:w lemma="convenientia" pos="N:acc">convenientiam</cc:w>
+            <cc:w lemma="praedicatio" pos="N:gen">praedicationis</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tantus" pos="ADJ:abl">tanta</cc:w>
+            <cc:w lemma="disconvenio" pos="V:PTC:nom">disconvenientia</cc:w>
+            <cc:w lemma="conversatio" pos="N:gen">conversationis</cc:w>
+          </cc:s> Suspectam habe
+ convenientiam praedicationis in tanta disconvenientia
+conversationis.<cc:s n="15" parent_pid="50:6;3">
+            <cc:w lemma="vanus" pos="ADJ">Vanus</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">es</cc:w>
+            <cc:w lemma="si" pos="CS">si</cc:w>
+            <cc:w lemma="hic" pos="DIMOS">huic</cc:w>
+            <cc:w lemma="lingua" pos="N:nom">linguae</cc:w>
+            <cc:w lemma="solus" pos="ADJ">soli</cc:w>
+            <cc:w lemma="aut" pos="CC">aut</cc:w>
+            <cc:w lemma="graecus" pos="ADJ">graecae</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="propinquus" pos="ADJ">propinquae</cc:w>
+            <cc:w lemma="inter" pos="PREP">inter</cc:w>
+            <cc:w lemma="se" pos="PRON">se</cc:w>
+            <cc:w lemma="habeo" pos="V:IND">habentur</cc:w>
+            <cc:w lemma="reputo" pos="V:IND">reputabis</cc:w>
+            <cc:w lemma="ejusmodi" pos="ADV">ejusmodi</cc:w>
+            <cc:w lemma="ut" pos="CS">ut</cc:w>
+            <cc:w lemma="nego" pos="V:SUB">neges</cc:w>
+            <cc:w lemma="natura" pos="N:gen">naturae</cc:w>
+            <cc:w lemma="universitas" pos="N:acc">universitatem</cc:w>
+          </cc:s> Vanus es, si huic linguae soli
+aut graecae, quae propinquae inter se habentur,
+reputabis ejusmodi, ut neges naturae universitatem.<cc:s n="16" parent_pid="50:6;3">
+            <cc:w lemma="non" pos="ADV">Non</cc:w>
+            <cc:w lemma="Latinus" pos="ADJ">Latinis</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="Argivus" pos="ADJ">Argivis</cc:w>
+            <cc:w lemma="sol|solum" pos="N:gen">solis</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="de" pos="PREP">de</cc:w>
+            <cc:w lemma="coelum|coelus" pos="N:abl">coelo</cc:w>
+            <cc:w lemma="cado" pos="V:IND">cadit</cc:w>
+          </cc:s>
+Non Latinis nec Argivis solis anima de coelo cadit.<cc:s n="17" parent_pid="50:6;3">
+            <cc:w lemma="omnis" pos="PRON">Omnium</cc:w>
+            <cc:w lemma="gens" pos="N:gen">gentium</cc:w>
+            <cc:w lemma="unus" pos="ADJ:NUM">unus</cc:w>
+            <cc:w lemma="homo" pos="N:nom">homo</cc:w>
+            <cc:w lemma="nomen" pos="N:nom">nomen</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+          </cc:s>
+Omnium gentium unus homo nomen est.<cc:s n="18" parent_pid="50:6;3">
+            <cc:w lemma="unus" pos="ADJ:NUM">una</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="varius" pos="ADJ">varia</cc:w>
+            <cc:w lemma="vox" pos="N:nom">vox</cc:w>
+            <cc:w lemma="unus" pos="ADJ:NUM">unus</cc:w>
+            <cc:w lemma="spiritus" pos="N:nom">spiritus</cc:w>
+            <cc:w lemma="varius" pos="ADJ">varius</cc:w>
+            <cc:w lemma="sonus" pos="N:nom">sonus</cc:w>
+            <cc:w lemma="proprius" pos="ADJ">propria</cc:w>
+            <cc:w lemma="quisque" pos="INDEF">cuique</cc:w>
+            <cc:w lemma="gens" pos="N:dat">genti</cc:w>
+            <cc:w lemma="loquela" pos="N:abl">loquela</cc:w>
+            <cc:w lemma="sed" pos="CC">sed</cc:w>
+            <cc:w lemma="loquela" pos="N:gen">loquelae</cc:w>
+            <cc:w lemma="materia" pos="N:nom">materia</cc:w>
+            <cc:w lemma="communis" pos="ADJ">communis</cc:w>
+          </cc:s>, una
+anima, varia vox, unus spiritus, varius sonus; propria
+<pb n="0618B"/>
+cuique genti loquela, sed loquelae materia communis.<cc:s n="19" parent_pid="50:6;3">
+            <cc:w lemma="Deus" pos="N:nom">Deus</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="bonitas" pos="N:nom">bonitas</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:nom">daemonium</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="maledictio" pos="N:nom">maledictio</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:gen">daemonii</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="divinus" pos="ADJ">divini</cc:w>
+            <cc:w lemma="invocatio" pos="ADJ">invocatio</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="mors" pos="N:nom">mors</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="conscientia" pos="N:nom">conscientia</cc:w>
+            <cc:w lemma="mors" pos="N:gen">mortis</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="testimonium" pos="N:acc">testimonium</cc:w>
+            <cc:w lemma="ubique" pos="ADV">ubique</cc:w>
+          </cc:s>
+Deus ubique, et bonitas Dei ubique; daemonium
+ubique, et maledictio daemonii ubique,
+judicii divini invocatio ubique, mors ubique, et conscientia
+mortis ubique et testimonium ubique.<cc:s n="20" parent_pid="50:6;3">
+            <cc:w lemma="omnis" pos="PRON">Omnis</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="suus" pos="POSS">suo</cc:w>
+            <cc:w lemma="jure" pos="ADV">jure</cc:w>
+            <cc:w lemma="proclamo" pos="V:IND">proclamat</cc:w>
+            <cc:w lemma="qui" pos="REL">quae</cc:w>
+            <cc:w lemma="nos" pos="PRON">nobis</cc:w>
+            <cc:w lemma="ne" pos="ADV">ne</cc:w>
+            <cc:w lemma="????" pos="????">mutire</cc:w>
+            <cc:w lemma="concedo" pos="V:IND">conceditur</cc:w>
+          </cc:s> Omnis
+anima suo jure proclamat, quae nobis ne mutire
+conceditur.<cc:s n="21" parent_pid="50:6;3">
+            <cc:w lemma="merito" pos="ADV">Merito</cc:w>
+            <cc:w lemma="igitur" pos="CS">igitur</cc:w>
+            <cc:w lemma="omnis" pos="PRON">omnis</cc:w>
+            <cc:w lemma="anima" pos="N:nom">anima</cc:w>
+            <cc:w lemma="reus" pos="ADJ">rea</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="testa|testis|testum" pos="N:nom">testis</cc:w>
+            <cc:w lemma="sum" pos="ESSE:IND">est</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="tantus" pos="ADJ">tantum</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="reus" pos="ADJ">rea</cc:w>
+            <cc:w lemma="error" pos="N:gen">erroris</cc:w>
+            <cc:w lemma="in" pos="PREP">in</cc:w>
+            <cc:w lemma="quantus" pos="PRON">quantum</cc:w>
+            <cc:w lemma="testa|testis|testum" pos="N:acc">testis</cc:w>
+            <cc:w lemma="veritas" pos="N:gen">veritatis</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="sto" pos="V:IND">stabit</cc:w>
+            <cc:w lemma="ante" pos="PREP">ante</cc:w>
+            <cc:w lemma="aula" pos="N:acc">aulas</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="dies" pos="N:abl">die</cc:w>
+            <cc:w lemma="judicium" pos="N:gen">judicii</cc:w>
+            <cc:w lemma="nihil" pos="PRON">nihil</cc:w>
+            <cc:w lemma="habeo" pos="V:PTC:nom">habens</cc:w>
+            <cc:w lemma="dico" pos="V:INF">dicere</cc:w>
+          </cc:s> Merito igitur omnis anima rea et testis
+est, in tantum et rea erroris, in quantum testis
+veritatis; et stabit ante aulas Dei die judicii,
+nihil habens dicere.<cc:s n="22" parent_pid="50:6;3">
+            <cc:w lemma="Deus|dea" pos="N:acc">Deum</cc:w>
+            <cc:w lemma="praedico" pos="V:IND">praedicabas</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="requiro" pos="V:IND">requirebas</cc:w>
+            <cc:w lemma="daemonion|daemonium" pos="N:acc">daemonia</cc:w>
+            <cc:w lemma="abomino" pos="V:IND">abominabaris</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="ille" pos="DIMOS">illa</cc:w>
+            <cc:w lemma="adoro" pos="V:IND">adorabas</cc:w>
+            <cc:w lemma="judicium" pos="N:nom">judicium</cc:w>
+            <cc:w lemma="Deus" pos="N:gen">Dei</cc:w>
+            <cc:w lemma="appello" pos="V:IND">appellabas</cc:w>
+            <cc:w lemma="nec" pos="CC">nec</cc:w>
+            <cc:w lemma="sum" pos="ESSE:INF">esse</cc:w>
+            <cc:w lemma="credo" pos="V:IND">credebas</cc:w>
+            <cc:w lemma="infernus" pos="ADJ">inferna</cc:w>
+            <cc:w lemma="supplex" pos="ADJ">supplicia</cc:w>
+            <cc:w lemma="praesumo" pos="V:IND">praesumebas</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="non" pos="ADV">non</cc:w>
+            <cc:w lemma="praecaveo" pos="V:IND">praecavebas</cc:w>
+            <cc:w lemma="Christianus" pos="ADJ">Christianum</cc:w>
+            <cc:w lemma="nomen" pos="N:nom">nomen</cc:w>
+            <cc:w lemma="sapio" pos="V:IND">sapiebas</cc:w>
+            <cc:w lemma="et" pos="CC">et</cc:w>
+            <cc:w lemma="Christianus" pos="N:acc">Christianum</cc:w>
+            <cc:w lemma="persequor" pos="V:IND">persequebaris</cc:w>
+          </cc:s> Deum praedicabas, et non requirebas;
+daemonia abominabaris, et illa adorabas, judicium
+Dei appellabas, nec esse credebas; inferna
+supplicia praesumebas, et non praecavebas; Christianum
+nomen sapiebas et Christianum persequebaris.
+<cc:s/>
+        </p>
+</div>
+</body>
+  </text>
+</TEI>

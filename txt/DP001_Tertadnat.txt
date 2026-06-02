@@ -2,7 +2,7 @@
 **LIBER PRIMUS.**
 
 **1. **
-0559B Testimonium ignorantiae vestrae, quae iniquitatem
+Testimonium ignorantiae vestrae, quae iniquitatem
 dum defendit, revincit, in promptu est, quod omnes,
 qui vobiscum retro ignorabant et vobiscum oderant,
 simul eis contigit scire, desinunt odisse qui desinunt
@@ -15,7 +15,7 @@ dignitatem transgredi a vobis quasi detrimento
 doletis. Nec tamen hoc ipso ad aestimationem alicujus
 latentis boni animos promovetis; non licet rectius
 suspicari, non libet propius experiri; hic tantum curiositas
-0559C 
+
 humana torpescit. Amatis ignorare, quod alii
 gaudeant invenisse; mavultis nescire, quia jam odistis,
 quasi certe non odituros vos sciatis. Atquin, si
@@ -31,7 +31,7 @@ partes. Quot desertores bonae vitae? quot transfugae
 in perversum? Multi bona fide, imo jam plures
 pro extremitatibus temporum. Verum deficit adaequatio
 comparationis istius. Nam de malo ita constat
-0559D 
+
 apud omnes, ut ne ipsi quidem rei, qui ad malum
 transeunt et a vobis in perversa divertunt, defendere
 malum pro bono audeant. Turpia timori, pudori impia
@@ -39,7 +39,7 @@ habent; denique gestiunt latere, devitant apparere,
 trepidant deprehensi, negant accusati; ne torti
 quidem facile aut semper confitentur, certe damnati
 moerent; exprobrant etenim quod erant in semetipsos:
-0560B 
+
 malae mentis ab innocentia transitum vel fato imputant;
 adeo nolunt suum esse, quia malum negare
 non possunt. Christiani vero quid tale consequuntur?
@@ -55,7 +55,7 @@ malorum judicatis. Nam nocentes quidem perductos,
 si admissum negent, tormentis urgetis ad confessionem,
 Christianos vero sponte confessos tormentis
 comprimitis ad negationem. Quae tanta perversitas,
-0560C 
+
 ut confessioni repugnetis, tormentorum officia mutetis,
 gratis reum evadere, invitum compellentes negare?
 Praesides extorquendae veritatis, de solis nobis
@@ -71,7 +71,7 @@ neque recusationi spatium commodetis; soletis et
 inaccusatos et indefensos non temere damnare. Sed
 verbi gratia si de homicida confutatur, non statim
 confesso eo nomen homicidae dispuncta caussa est aut
-0560D 
+
 satiata cognitio. Quanquam confessis difficile creditis;
 verum insuper consequentia exigitis, quotiens
 caedem egerit, quibus in locis, quibus spoliis, sociis,
@@ -79,7 +79,7 @@ receptoribus, ne quid omnino mali hominis delitescat,
 aut desit aliquid instruendae ad sententiam veritati.
 Porro de nobis, quos atrocioribus ac pluribus
 criminibus deputatis, breviora ac leviora elogia conficitis.
-0561A 
+
 Credo, non vultis oneratos, quos omni opere
 perditos vultis, aut non putatis requirenda quae nostis.
 Hoc ergo perversius, si cogitis negare, de quibus certissime
@@ -95,7 +95,7 @@ porrigenda quaestio in socios consciosque.
 Perducerentur infantarii et coqui et ipsi canes
  pronubi, emendata res esset. Etiam spectaculis
 gratia aggregaretur; quanto enim studio in caveam
-0561B 
+
 conveniretur, depugnaturo aliquo, qui centum infantes
 devorasset? Sed enim tam horrenda tamque
 monstruosa de nobis deferuntur. Utique erui debuerunt,
@@ -113,12 +113,12 @@ judicantibus semper laborandam, neque exquisitionem
 digerendo damnatoribus semper consulendam:
 jam apparet, omne in nos crimen non alicujus
 sceleris sed nominis dirigi. Adeo, si de criminum
-0561C 
+
 veritate constaret, ipsa criminum nomina damnatis
 accommodarent, ut ita pronuntiaretur in nos: illum
 homicidam, vel incestum, vel quodcumque jactamur,
 duci, suffigi, ad bestias dari placet. Porro sententiae
-0562A 
+
 vestrae nihil nisi Christianum confessum notant; nullum
 criminis nomen exstat, nisi nominis crimen est:
 haec etenim est revera ratio totius odii adversus nos.
@@ -134,7 +134,7 @@ jam non cruenti, neque incesti, quia nomen
 illud amisimus. Sed dum haec ratio suo loco
 ostenditur, vos quam insequimini ad expugnationem
 nominis, edite: quod nominis crimen, quae offensa,
-0562B 
+
 quae culpa? Praescribitur enim vobis, non posse crimina
 objicere, quae neque institutum dirigit, neque
 probatio assignat, neque sententia enumerat. Quod
@@ -150,12 +150,12 @@ sicuti verborum atque sermonum barbarismus est vitium
 et solecismus et insulsior figura. Christianum
 vero nomen, quantum significatio est, de unctione
 interpretatur; etiam cum corrupte a vobis Christiani
-0562C 
+
 pronuntiamur (nam ne nominis quidem ipsius liquido
 certi estis), sic quoque de suavitate vel bonitate modulatum
 est. Detinetis igitur in hominibus innoxiis
 etiam nomen innoxium nostrum, non incommodum
-0563A 
+
  linguae, non auribus asperum, non homini
 malum, non patriae infestum, sed et graecum aliis
 et sonorum et interpretatione jucundum. Et utique
@@ -173,7 +173,7 @@ temeritate praesumeretur; prius erat cognoscere auctorem,
 ut cognosceretur secta, quam de secta inspectionem
 auctoris retinere. At nunc necessario ignorando
 sectam, qui ignoratis auctorem, aut non recensendo
-0563B 
+
 auctorem, quia nec sectam recensetis, in solum
 nomen impingitis, quasi in illo detinentes sectam et
 auctorem quos omnino non nostis. Et tamen Philosophis
@@ -189,14 +189,14 @@ autem Christiani; ideoque qui possident, magis displicent,
 quia qui affectat, illudit, qui possidet,
 defendit: denique Socrates ex ea parte damnatus est,
 quia proprius tentaverat veritatem, deos vestros destruendo:
-0563C 
+
 quanquam nondum tunc in terris nomen
 christianum, tamen veritas semper damnabatur.
 Itaque et sapientem non negabitis, cui etiam Pythius
 vester testimonium dixerat: Virorum, inquit, omnium
 Socrates sapientissimus. Vicit Apollinem
 veritas, ut ipse adversus se pronuntiaret; confessus
-0564A 
+
 est enim, se deum non esse, sed eum quoque sapientissimum
 affirmans, qui deos abnuebat; porro
 apud vos eo minus sapiens, quia deos abnuens, cum
@@ -212,7 +212,7 @@ cum sit humanius occulta manifestis adjudicare,
 quam manifesta de occulto praejudicare. Aliquos retro
 ante hoc nomen vagos, viles, improbos norant,
 emendatos repente mirantur, et tamen mirari quam
-0564B 
+
 assequi norunt. Alii tanta obstinatione certant, ut
 cum suis utilitatibus depugnent, quas de commercio
 istius nominis capere possunt. Scio maritum unum
@@ -228,14 +228,14 @@ queri desierat, exhaeredavit. Dominus servum, quem
 praeterea necessarium senserat, in ergastulum dedit.
 Simul quis intellexerit Christianum, mavult nocentem.
 Nam et ipsa per se traducitur disciplina, nec
-0564C 
+
 aliunde prodimur, quam de bono nostro. Si et mali
  de suo malo radiant, cur nos soli contra instituta
 naturae pessimi de bono denotamur? Quid enim insigne
 praeferimus, nisi primam sapientiam, qua frivola
 humanae manus opera non adoramus; abstinentiam,
 qua ab alieno temperamus; pudicitiam, quam nec
-0565A 
+
 oculis contaminamus; misericordiam, qua super indigentes
 flectimur; ipsam veritatem, qua offendimus;
 ipsam libertatem, pro qua mori novimus? Qui vult
@@ -252,7 +252,7 @@ effruticet, aut verrucula exsurgat, aut lentigo sordescat.
 Coelum ipsum nulla serenitas tam colata purgat,
 ut non alicujus nubeculae flocculo resignetur.
 Modica macula in fronte, in parte quadam exemplari
-0565B 
+
 visa, quo universitas munda est: major boni portio
 modico malo ad testimonium sui utitur. Cum tamen
 aliquos de nostris malos probatis, jam hoc ipso
@@ -269,7 +269,7 @@ philosophi dicuntur, nec tamen legem philosophiae
 adimplent? Omnes nomen de professionibus gestant;
 seducant nomen professionis praestantia, qui superficie
 vocabuli infamant veritatem. Non statim sunt, qui
-0565C 
+
 dicuntur; sed quia non sunt, frustra dicuntur, et
 fallunt eos, qui rem nomini addicunt cum de re status
 nominis competat. Et tamen ejusmodi neque congregant
@@ -286,9 +286,9 @@ qui se negare non norunt.
 quas veritas de suo suggerit, quotiens comprimitur et
 coarctatur consciencia vestra, tacitae ignorantiae
 suae testis, confugitis aestuantes ad arulam quamdam,
-0565D 
+
 id est, legum auctoritatem, quod utique non plecterent
-0566A 
+
 sectam istam, nisi de meritis apud conditores
 legum constitisset. Quid ergo prohibuit apud executores
 quoque legum proinde constare, cum de caeteris
@@ -304,7 +304,7 @@ prohibetur, adempta diligentia cavendi per defectum
 agnoscendi quid observes. Nulla sibi lex debet conscientiam
 justitiae suae, sed eis a quibus captat obsequium.
 Caeterum suspecta lex est, si probari se non
-0566B 
+
 vult. Merito igitur tamdiu justae in Christianos et reverendae
 et observandae censentur, quamdiu ignoratur
 quod persequuntur; merito, post agnitionem iniquissimae
@@ -321,7 +321,7 @@ legum? Quis, oro, sponsor aut illis tunc aut
 exinde vobis de fide? Fama est. Nonne haec est:
 Fama malum, quo non aliud velocius ullum.(Virg. Aeneid. IV, 174.) 
 Cur malum, si vera semper sit, non mendacio
-0566C 
+
 plurimum? quae ne tum quidem cum vera defert,
 a libidine mendacii cessat, ut non falsa veris intexat
 adjiciens, detrahens, varietate confundens. Quid,
@@ -337,9 +337,9 @@ incertus, quia nemo sit fama, sed conscientia certus;
 nemo famae credit, nisi stultus, quia sapiens non
 credit incerto. Fama, quantacumque ambitione diffusa
 est, ab uno aliquando ore exorta sit necesse est,
-0566D 
+
 exinde in traduces quodammodo linguarum et aurium
-0567A 
+
 serpit et modicum originum vitium rumores obscurat,
 ut nemo recogitet, ne primum illud os mendacia
 seminaverit, quod saepe fit aut aemulationis ingenio,
@@ -355,7 +355,7 @@ nomen hoc ortum est, Tiberio disciplina ejus illuxit,
 sub Nerone damnatio invaluit, ut jam hinc de persona
 persecutoris ponderetis: si pius ille princeps,
 impii Christiani, si justus, si castus, injusti et incesti
-0567B 
+
 Christiani, si non hostis publicus, nos publici
 hostes; quales simus damnator ipse demonstravit,
 utique aemula sibi puniens. Et tamen permansit erasis
@@ -370,7 +370,7 @@ de vitio ingenii humani, felicius in acerbis atrocibusque
 mentitur; quanto enim proni ad malitiam,
 tanto ad mali fidem opportuni estis, facilius denique
 falso malo, quam vero bono creditur. Si quem tamen
-0567C 
+
 apud vos prudentiae locum iniquitas reliquisset,
 ad explorandam famae fidem, utique justitia poscebat
 dispicere, a quibus potuisset fama in vulgus, et ita
@@ -381,7 +381,7 @@ quae prodita non evitarent interim humana animadversione
 praesentaneum supplicium? Si ergo
 non ipsi proditores sui, sequitur ut extranei. Oro
 vos, extraneis unde notitia, cum etiam justa et
-0568A 
+
 licita mysteria omnem arbitrii extraneum caveant?
 nisi inclita minus spernunt. Atquin extrancis tam
 honorare quam confingere magis competit . . . domesticorum
@@ -397,7 +397,7 @@ et videre curavit; siquidem par fructus est et delatoris,
 si quod detulit probet, et auditoris, si quod
 audit etiam sibi credat. Tunc, inquitis, primo delatum
 et exhibitum est, auditum et inspectum est,
-0568B 
+
 atque exinde famae commendatum. Hoc quidem superscendit
 omnem admirationem, si semel deprehensum
 est quod semper admittitur, nisi desivimus jam
@@ -412,7 +412,7 @@ et in ipsis arcanis congregationibus detinemur. Quis
 unquam tamen semeso puero supervenit? quis
 in cruentato pane vestigia dentium deprehendit? quis
 tenebris repentino lumine irruptis immunda aliqua,
-0568C 
+
 ne dixerim incesta, indicia, recognovit? Si praemio
 impetramus, ne tales in publicum extrahamur, quare
 et opprimimur? Possumus et omnino non extrahi;
@@ -423,7 +423,7 @@ quae non ab ipsis nobis cum maxima vociferatione
 publicentur, aut statim audita, si prius demonstrantur,
 aut postea reperta, si interim celentur?
 Sine dubio enim initiatum volentibus mos est prius
-0569A 
+
 ad magistrum sacrorum vel patrem adire. Tum ille
 dicet: Infans tibi qui adhuc vagit necessarius, qui
 immoletur, et panis aliquantum, qui in sanguine
@@ -439,7 +439,7 @@ Christianis mysteriis audierunt. Tamen postea cognoscant
 necesse est vel aliis quos inducunt praeministranda.
 Caeterum quam vanum est profanos scire
 quod nesciat sacerdos? Tacent igitur, et accepto
-0569B 
+
 ferunt, et nihil tragoediae Thyestae vel Oedipodis
 erumpunt, et non protrahunt ad populum, fide in
 ministros et magistris et de ipsis potiores morsus
@@ -455,7 +455,7 @@ resurrectio praedicatur. Viderimus de fide istorum,
 dum suo loco digeruntur; interim credite, quemadmodum
 nos. Volo enim scire, si per talia scelera
 adire parati estis, quemadmodum nos? Veni, si quis
-0569C 
+
 es, demerge ferrum in infantem; vel si alterius officium
 est, tum modo specta morientem animam, antequam
 vixit, certe excipe rudem sanguinem in quo
@@ -471,9 +471,9 @@ jam si velles, nego te posse. Cur autem alii possint,
 si vos non potestis? cur non possitis, si alii possunt?
 Impunitatem, aeternitatem quanto constare vultis?
 An hae nobis omni modo redimendae videntur? an
-0569D 
+
 alii ordines dentium Christianorum, specus
-0570A 
+
 facium, et alii ad incesti libidinem nervi? Non,
 opinior; satis enim est nobis sola veritate a vestra
 positione discerni. Tertium genus dicimur, cynopennae
@@ -490,7 +490,7 @@ alendos tradidisse nutrici, quam et ipsam propterea
 elinguaverat, ut in totum exsules vocis humanae
 non auditu formarent loquelam, sed suo promentes
 eam primam nationem designarent, cujus
-0570B 
+
 sonum natura dictasset. Prima vox Bekkos
 renuntiata est; interpretatio ejus Panis apud Phrygas
 nomen est; Phryges primi genus exinde habentur.
@@ -506,7 +506,7 @@ alimentis, vitam nutrici perdurasse? Age nunc, perseveraverit
 Philomelae medicamentis . . . . quam et ipsam
 prudentiores, non linguae caede, sed pudoris
 rubore mutam interpretantur. Si ergo vixit, potuit
-0570C 
+
 effutire aliquid obtusum et exarticulatum sonum tinnitumque,
 sine modulatu labellorum, expanso ore,
 lingua stupente, de solis faucibus cogi licet: id fors
@@ -522,9 +522,9 @@ Christiana. Ridicula dementia, novissimos dicitis et
 tertios nominatis. Sed de superstitione tertium genus
 deputamur, non de ratione, ut sint Romani, Judaei,
 dehinc Christiani. Ubi autem Graeci? vel si in Romanorum
-0570D 
+
 superstitionibus censentur, quandoquidem
-0571A 
+
  etiam deos Graeciae ( c 6) Roma sollicitavit, ubi saltem
 Aegyptii, et ipsi, quod sciam, privatae curiosaeque
 religionis? Porro, si tam monstruosi, qui tertii
@@ -541,7 +541,7 @@ vultis. Si Tiberis redundaverit, si Nilus non redundavit,
 si coelum stetit, si terra movit . . . . tiva vastavit,
 si fames afflixit, statim omnium vox: Christi . . . .
 tum. Quasi modicum habeant aut aliud metuere!
-0571B 
+
 Quid igitur? Opinor, ut contemptores deorum vestrorum
 haec jacula eorum provocamus. Ut supra edidimus,
 aetatis nostrae nondum anni trecenti,
@@ -557,7 +557,7 @@ vel quam Plato memorat majorem Asiam
 aut Africam in Atlantico mari mersam; cum Vulsinios
 de coelo, Tarpeios de suo monte perfudit ignis,
 cum terrae motu mare Corinthium ereptum est, cum
-0571C 
+
 totum orbem cataclysmus abolevit? Ubi tunc, non
 dicam contemptores deorum Christiani, sed ipsi dei
 vestri, quos clade illa posteriores loca, oppida approbant,
@@ -571,7 +571,7 @@ cultores suos laedunt; tunc enim vosmetipsos errare
 probatis, si deos traditis, qui vos a meritis profanorum
 non discernunt. Quod si, ut unus atque alius . . . . .
 mus ait, idcirco vobis quoque irascuntur, quoniam de
-0572A 
+
  nostra eradicatione negligitis, absolutum est de infirmitate
 et mediocritate eorum: nam non irascerentur
 vobis in animadversione cessantibus, si ipsi exsequi
@@ -589,7 +589,7 @@ retorquebo, eadem vulnera criminum in vobis defossa
 monstrabo, quo machaeris vestris admentationibusque
  cadatis. Jam primo, quod in nos generali accusatione
 dirigitis, divortium ab institutis majorum,
-0572B 
+
 considerate etiam atque etiam, ne vobiscum communicemus
 crimen istud. Ecce enim per omnia vitae ac
 disciplinae corruptam, imo delatam in vobis antiquitatem
@@ -605,7 +605,7 @@ Sane, quod vobis magis probro est, laudatis semper
 vetustates, et nihilominus recusatis. Qua perversitate
 tant . . . . . . majorum apud vos permanere probari
 debuerunt, cum ea quae probatis recusetis? Sed et
-0572C 
+
 ipsum quod videmini a majoribus traditum fidelissime
 custodire et defendere, vel quo maxime reos non
 transgressionis postulatis, de quo totum odium christiani
@@ -619,7 +619,7 @@ patiatur necesse esse, Quo magis oneramini, credentes
 esse et contemnentes, colentes et despuentes, honorantes
 et lacessentes! Licet etiam hinc recognoscere,
 inprimis, cum alii alios deos colitis, eos quos non colitis,
-0573A 
+
 utique contemnitis; praelatio alterius sine alterius contumelia
 esse non potest, nec ulla electio non reprobatione
 componitur. Qui de pluribus suscipit aliquem,
@@ -635,7 +635,7 @@ vovisset, prius dedicasset quam senatus probasset,
 ut contigit M. Aemilio, qui voverat Alburno deo.
 Utique enim impiisimum, imo contumeliosissimum
 admissum est, in arbitrio et libidine sententiae humanae
-0573B 
+
 locare honorem divinitatis, ut deus non sit, nisi
 cui esse permiserit senatus. Saepe censores inconsulto
 populo adsolaverunt; certe Liberum patrem cum
@@ -651,7 +651,7 @@ potiorem habuit senatus censuram, quam impetum
 vulgi, et aras institui prohibuit. Habetis igitur in majoribus
 vestris, etsi non nomen, attamen sectam
 christianam, quae deos negligit. Horum, si vos saltem
-0573C 
+
 integrum honoribus vestris rei esse laesae religionis:
 sed invenio conspirasse a vobis tam superstitionis
 quam impietatis profectum. Quanto enim irreligiosiores
@@ -664,7 +664,7 @@ jam contumeliosiora, quod modica. Sed aliquo solatio
 privatorum et domesticorum deorum querelae juvantur,
 quod publicos turpius contumeliosiusque tractetis.
 Jam primum, quos in hastarium regessistis,
-0574A 
+
 publicanis subd . . . tis, omni quinquennio inter
 vectigalia vestra proscriptos addicitis. Sic Serapeum,
 sic Capitolium petitur, addicitur, conducitur. . . . .
@@ -680,7 +680,7 @@ sacri, pro stipitibus, pro ostiis; venditis totam divinitatem,
 non licet eam gratis coli; plus denique publicanis
 reficitur, quam sacerdotibus. Non suffecerat
 vectigalium deorum contumelia, de contemptu scilicet
-0574B 
+
 aestimanda, nec contenti estis deis honorem non habuisse,
 nisi etiam, quemcumque habetis, depretietis
 aliqua indignitate. Quid enim omnino ad honorandos
@@ -696,7 +696,7 @@ easdem mortuis, quas et deis caeditis, eosdemque
 odores crematis. Quis istam contumeliam excuset,
 quae ut aut mortuos cum deis deputet? Regibus
 quidem etiam sacerdotia adscripta sunt, sacrique apparatus,
-0574C 
+
 ut tensae et currus et solisternia et lectisternia . . . .
 tie et ludi. Plane, quoniam illis coelum
 patet, hoc quoque non sine contumelia deorum:
@@ -709,7 +709,7 @@ qui ei pejerare permittant; consentiunt enim ipsi nihil
 esse quod dejerant, imo insuper et praemio afficiunt,
 quia publice contempserit perjurii vindices;
 quanquam perjurii apud vos unusquisque purus
-0575A 
+
 est. Imo jam per deos dejerandi periculum
 evanuit, potiore habita religione per Caesarem dejerandi,
 quod et ipsum ad offuscationem pertinet deorum
@@ -725,7 +725,7 @@ quales sitis in sacrificando, quod enecta et tabida
 quaeque mactatis; de opimis autem et integris supervacua
  esui capitula et ungulas et plumarum setarumque
 praevulsa, et si quid domi quoque habituri
-0575B 
+
 non fuissetis. Omitto quae vulgae aut sacrilegae gulae
 videbuntur majorum prope religionem convenire;
 atquin doctissimi gravissimi, quatenus gravitas atque
@@ -741,14 +741,14 @@ humana conditione tractavit, casibus et passionibus
 humanis deos imbuens, qui de illis favore
 diversis gladiatoria quodammodo paria commisit: Venerem
 sauciat sagitta humana, Martem tredecim mensibus
-0575C 
+
 in vinculis detinet fortasse periturum, eadem Jovem
 poene perpessum a coelitum plebe traducit, aut
 lacrymas ejus super Sarpedonem excutit, aut luxuriantem
 cum Junone foendissime inducit, commendato
 libidinis desiderio per commemorationem amicarum.
 Exinde quis non poetarum ex auctoritate principis
-0576A 
+
 sui in deos insolens, aut vera prodendo aut falsa
 fingendo? Et tragici quidem aut comici pepercerunt,
 ut non aerumnas ac poenas dei praefarentur? Taceo
@@ -764,7 +764,7 @@ in illo, quod nunc reprobatur in nobis. Sed et Diogenes
 nescio quid in Herculem lusit, et Romani stili
 Diogenes, Varro trecentos Joves, seu Jupiteres
 dicendum est, sine capitibus inducit. Caetera lasciviae
-0576B 
+
 ingenia etiam voluptates vestras per dedecus deorum
 administrant. Dispicite apud vos Lentulorum et
 Hostiorum sacrilegas venustates, utrum mimos an
@@ -780,14 +780,14 @@ Plane religiosiores estis in gladiatorum cavea,
 ubi super sanguinem humanum, super inquinamenta
 poenarum, proinde saltant dei vestri, argumenta et
 historias nocentibus erogandis, aut in ipsis dei nocentes
-0576C 
+
 puniuntur. Vidimus saepe castratum Attin
 deum a Pessinunte, et qui vivus cremabatur Herculem
 induerat. Risimus et meridiani ludi de deis lusum,
 quo Dis Pater, Jovis frater, gladiatorum exsequias
 cum malleo deducit, quo Mercurius, in calvitio pennatulus,
 in caduceo ignitulus, corpora exanimata
-0577A 
+
 jam mortemve simulantia e cauterio probat.
 Singula ista quaeque adhuc investigare quis possit?
 Si honorem inquietant divinitatis, si majestatis fastigium
@@ -805,7 +805,7 @@ religionis, sed superductae monstruosae superstitionis.
 Nam, ut quidam, somniastis caput asinium
 esse deum nostrum. Hanc Cornelius Tacitus suspicionem
 fecit. Is enim in quarta historiarum suarum,
-0577B 
+
 ubi de bello judaico digerit, ab origine gentis exorsus
 et tam de ipsa origine quam de nomine religionis ut
 voluit argumentatus, Judaeos refert in expeditione
@@ -822,7 +822,7 @@ adisse et perscrutatum nihil simulacri reperisse. Ubi
 ergo is deus fuerit? utique nusquam magis quam in
 templo tam memorabili, praesertim omnibus praeter
 sacerdotibus clauso, quo non vererentur extraneum.
-0577C 
+
 Sed quid ego defendam, professus interim confessionem
 temporalem omnium in vobis ex pari transferendorum?
 Credatur deus noster asinina aliqua
@@ -839,9 +839,9 @@ consecraneus erit noster.
 materia colitis penes vos cum effigie; quanquam sicut
 vestrum humana figura est, ita et nostrum propria.
 Viderint nunc liniamenta, dum una sit qualitas; viderit
-0577D 
+
 forma, dum ipsum sit dei corpus. Quod si de
-0578A 
+
 hoc differentia intercedit, quanto distinguitur a
 crucis stipite Pallas Attica et Ceres Pharia, quae sine
 forma rudi palo et solo staticulo ligni informis repraesentatur?
@@ -857,7 +857,7 @@ istam deis vestris de isto patibulo provenisse.
 Nam omne simulacrum, seu ligno seu lapide desculpitur,
 seu aere defunditur, seu qua cumque alia locupletiore
 materia producitur, plasticae manus praecedent
-0578B 
+
 necesse est; plasta autem lignum crucis in primo
 statuit, quoniam ipsi quoque corpori nostro tacita et
 secreta linea crucis situs est. Quod caput emicat,
@@ -874,7 +874,7 @@ crux in deum per argillam. Crucem igitur consecratis
 a qua incipitur consecratus. Exempli gratia dictum
 erit, nempe de olivae nucleo et nuce persici et grano
 piperis sub terra temperato arbor exsurgit in ramos,
-0578C 
+
 in comam, in speciem sui generis. Eam si transferas,
 vel de brachiis ejus in aliam subolem utaris, cui deputabitur
 quod de traduce provenit? non illi grano
@@ -889,9 +889,9 @@ crucum originem colitis, hic erit nucleus et
 granum primordiale, ex quibus apud vos simulacrorum
 silvae propagantur. Ad manifesta jam: Victorias
 ut numina, et quidem augustiora quanto laetiora,
-0578D 
+
 veneramini. Con. . . . . . . . one quid melius extollant,
-0579A 
+
 cruces erunt intestina quodammodo tropaeorum.
 Itaque in Victoriis et cruces colit castrensis religio,
 signa adorat, signa dejerat, signa ipsi Jovi praefert.
@@ -910,7 +910,7 @@ adorandi aliquando etiam coelestia ad solis initium
 labra vibratis? Vos certe estis, qui etiam in laterculum
 septem dierum solem recepistis, et ex diebus ipsum
 praelegistis, quo die lavacrum substrahatis, aut in
-0579B 
+
 vesperam differatis, aut otium et prandium curetis.
 Quod quidem facitis exorbitantes et ipsi a vestris ad
 alienas religiones. Judaei enim festi, sabbata et
@@ -931,7 +931,7 @@ cum incedit, picturam in nos proposuit sub ista proscriptione: ONOKOITHZ.
 Is erat auribus canteriorum,
 et in toga, cum libro, altero pede ungulato.
 Et credidit vulgus judaeo. Quod enim aliud genus
-0579C 
+
 seminarium est infamiae nostrae? Itaque in tota civitate ὀνοκοίτης
  praedicatur. Sed et hoc tamque externum et
 auctoritate temporis destitutum etqualitate auctoris
@@ -939,7 +939,7 @@ infirmum, libenter excipiam studio retorquendi.
 Videamus igitur, an hic quoque nobiscum deprehendamini.
 Neque enim interest qua forma, dum deformia
 simulacra curemus? Sunt penes vos et canino
-0580A 
+
 capite et leonino et de bove et de ariete et hirco
 cornuti dii, caprigenae vel anguini et alites plantmerleta,
 fronte et tergo Quid itaque nostrum unicum
@@ -958,7 +958,7 @@ Interim, ut dixi, ex alia parte non deest
 adaequatio. Nam etsi nos aliter, amen non aliter
 vos quoque infanticidae, qui infantes editos enecantes
 legibus quidem prohibemini, sed nullae magis
-0580B 
+
 leges tam impune, tam secure sub omnium conscientiae
 unius ae . . . . . . . tabellis eluduntur. Sed nec eo
 distant, si vos non ritu sacri, neque deo necatis.
@@ -979,7 +979,7 @@ qua semper saevitia cum impudicitia concordat.
 facitis? parum scilicet humanis visceribus inhiatis,
 quia vivos et puberes devoratis? parum humanum
 sanguinem lambitis, quoniam futurum sanguinem
-0580C 
+
 elicitis? parum infante vescimini, quia infantem
 totum praecoquum perhauritis? Ventum est ad horam
 lucernarum et caninum ministerium et ingenia tenebrarum.
@@ -987,7 +987,7 @@ Quo in loco metuo ne cedam. Quid enim
 tale in vobis detinebo? Verum jam laudate consilium
 incesti verecundi, quod adulteram noctem commenti
 sumus, ne aut lucem, aut veram noctem contaminaremus,
-0581A 
+
 quod etiam luminibus terrenis parcendum existimavimus,
 quod nostram quoque conscientiam
 ludimus; quodcumque enim facimus, si volumus, suspicamur.
@@ -1004,7 +1004,7 @@ Oedipus intravit trucidatus oculos, risu ac derisu
 exceperunt; tragaedus consternatus retracta persona:
 Numquid, ait, domini, displicui vobis? responderunt
 Macedones: Imo tu quidem pulchre. Aut scriptor
-0581B 
+
 vanissimus si finxit, aut Oedipus dementissimus si
 ita fecit; atque exinde alter ad alterum, ἤλαυνε dicebat εἰς τὴν μητέρα.
 Sed una vel alia gens quantula
@@ -1019,13 +1019,13 @@ remota est, ut neque ignorantiae neque errori neque
 casui opposita sit, ea erit quae sola Christianis respondere
 constantius possit. Respicite igitur luxuriam
 inter errores et ventos fluctuantem, si desunt populi,
-0581C 
+
 quos ad hoc sceleris incursent lata vada et aspera
 erroris. Imprimis cum infantes vestros alienae misericordiae
 exponitis aut in adoptionem melioribus parentibus,
 obliviscimini, quanta materia incesti, subministratur,
 quanta occasio casibus aperitur? Plane
-0582A 
+
 ex aliqua disciplina severiores aut certo respectu
 ejusmodi eventuum a libidine temperatis quocumque
 loco domi aut peregre, ut non dispersio seminum et
@@ -1042,7 +1042,7 @@ praefecto urbi, judicata punitione reatus, fortuita negligentia
 comitata ultra januam progressus iter, praetereuntibus
 tractus domo excidit. Graeculus vel a limine
 Graeculo more captaverat intrans, inde mutatus
-0582B 
+
 Asiae aetate Romam in venalicio refertur. Emit
 imprudens pater et utitur Graeco. Dehinc, ut vestra,
 adolescentem dominus in agrum et vincula legat. Illic
@@ -1057,13 +1057,13 @@ tempora cum aetate respondent, aliquid et oculi de
 lineamentis recordantur, proprietates nonnullae in
 corpore recensentur. Dominos, imo jam parentes
 tantum prolatae inquisitionis diligentia impellit. Investigatur
-0582C 
+
 venaliciarius, infeliciter invenitur.
 Revelato scelere, parentes sibi laqueo medentur.
 Bona filio male superstiti praefectus adscribit, non
 ad haereditatem, sed ad stipendium stupri et incesti.
 Satis erat unum istud exemplum publicae erubescentiae
-0583A 
+
 ejusmodi scelerum delitescentium in vobis. Nihil
 semel evenit in rebus humanis, semel plane erui
 potest. De sacramentis nostrae religionis opinor intentatis,
@@ -1081,7 +1081,7 @@ ex vobis nationibus quotidie Caesares, et Parthici, et
 Medici, et Germanici. Hoc loco Romana gens viderit,
 in quibus indomitae et extraneae nationes. Vos tamen
 de nostris adversus nostros conspiratis. Agnoscimus
-0583B 
+
 sane romanam in Caesares fidem. Nulla unquam
 conjuratio erupit, nullus in senatu vel in palatiis ipsis
 sanguis Caesaris notam fixit; nulla in provinciis
@@ -1096,7 +1096,7 @@ quae circi sonant. Si non armis, saltem lingua semper
 rebelles estis. Sed aliud, opinor, est, non jurare
 per genium Caesaris. Dubitatur enim de perjuris jure,
 cum ne per deos quidem vestros ex fide dejeretis.
-0583C 
+
 Sed non dicimus deum imperatorem; super hoc enim,
 quod vulgo aiunt, sannam facimus.
 **18.**
@@ -1105,7 +1105,7 @@ quod vulgo aiunt, sannam facimus.
 dicendo quod non est, et male dicitis, quia non vult
 esse quod dicitis; mavult enim vivere, quam deus
 fieri. Reliquum obstinationis in illo capitulo collocatis,
-0584A 
+
 quod neque gladios neque cruces neque bestias
 vestras, non ignem, non tormenta, ob duritatem ac
 contemptum mortis, animo recusemus. At enim haec
@@ -1121,7 +1121,7 @@ tormenta mulier Attica fatigavit tyranno negans, postremo,
 ne cederet corpus et sexus, linguam suam
 pastam exspuit, totum eradicatae confessionis ministerium.
 Sed vestris ista ad gloriam, nostris ad
-0584B 
+
 duritiam deputatis. Destruite nunc gloriam majorum,
 quo nos quoque destruatis. Contenti estote detrahere
 etiam laudi parentum ad praesens, ne nobis locum
@@ -1137,14 +1137,14 @@ scilicet mortis gladius de majoribus fabulas fecit, utique
 non vitae amore gladio vos ad lanistas auctoratis,
 sed mortis nomen militiae datis. Si feminae alicui
 de bestiis famosa mors est, medio quotidie pacis
-0584C 
+
 sponte libera ad bestias itis. Si crucem, configendi
 corporis machinam, nullus adhuc ex vobis Regulus
 pepigit, attamen jam ignis contemptus evasit, ex
 quo se quidam proxime vestiendum incendiali tunica
 ad certum usquequaque locum auctoravit. Si flagris
 mulier insultavit, hoc quoque proxime inter venatorios
-0585A 
+
  ordine transcurso remensus est, ut taceam de
 Laconica gloria.
 **19.**
@@ -1162,7 +1162,7 @@ delete litteras interim vestras, quae similiter asseverant
 animas in corpora redituras. Attamen quanto
 acceptabilior nostra praesumptio est, quae in eadem
 corpora redituras defendit? vobis autem quanto
-0585B 
+
 vanius traditum est, hominis spiritum in cane vel
 mulo aut pavone rediturum? Item judicium annuntiamus
 a Deo pro cujusque meritis post interitum destinatum.
@@ -1178,11 +1178,11 @@ usque, iniquissimae nationes, non agnoscitis, imo
 insuper exsecramini vestros, si nihil inter vos diversitas
 habet, si unum et eidem sumus; quia non
 odistis quod estis: date dextras potius, compingite
-0585C 
+
 oscula, miscete complexus, cruenti cum cruentis,
 incesti cum incestis, conjurati cum conjuratis, obstinati
 et vani cum aequalibus. Pariter deorum numina
-0586A 
+
 laesimus, pariter indignationem eorum provocamus.
 Habetis et vos tertium genus, etsi non de tertio ritu,
 attamen de tertio sexu. Illud aptius de viro et
@@ -1198,7 +1198,7 @@ et consilium inspirat et judicium gubernat. Vestra
 denique sententia est, ne caussam quis judicet,
 nisi duobus auditis. Quod in nobis solis negligitis,
 naturae vitio satisfacitis, ut quae in nobis non refutetis,
-0586B 
+
 in aliis . . . . tis, aut quorum reatum in vobis memineritis,
 ea in alios jactetis . . . . opere occupatiores eritis,
 in extraneos casti, in vosmetipsos incesti, exsertiores
@@ -1214,26 +1214,26 @@ quid in vobis non accusetis, et accusabitis. Patet
 etiam hinc vobis, quantum aperire potuerimus (e
 paucis istis libellulis), erroris inspectio et veritatis
 recognitio. Damnate veritatem, sed inspectam si potestis,
-0586C 
+
 et probate errorem, sed repertum si putatis.
 Quodsi praescribitur vobis errorem amare et odisse
 veritatem; cur quod amatis et odistis, non noveritis?
 
 **LIBER SECUNDUS.**
-0585 
+
 **1. **
-0585D Nunc de deis vestris, miserandae nationes, congredi
+Nunc de deis vestris, miserandae nationes, congredi
 vobiscum defensio nostra desiderat, provocans
 ipsam conscientiam vestram, ad censendum, an vere
 dei, ut vultis, an falso, ut scire non vultis. Haec enim
 materia est erroris humani per artificem ejus, ne
-0586D 
+
 ignorantia erroris. . . . quo magis rei sitis. Patent
 oculi, nec vident; hiant aures, nec audiunt: cor
 stupet saliens, nescit animus quod agnoscit. Denique,
 si tantam perversitatem una praescriptione
 discuti liceret, in expedito esset nuntiatio, cum omnes
-0587A 
+
 istos deos ab hominibus institutos, non . . . . hinc
 excidere fidem verae divinitatis, quo nihil utique
 aliquando coeptum divinum videri jure possit. Sed
@@ -1250,7 +1250,7 @@ vetustatem, consuetudinem, necessitatem; adversus
 exempla, prodigia, miracula, quae omnia adulterinam
 istam divinitatem corroboraverunt. Quare secundum
 vestros commentarios, quos ex omni theologiae genere
-0587B 
+
 cepistis, gradum conferens, quoniam major in
 hujusmodi penes, vos auctoritas litterarum, quam
 rerum est, elegi ad compendium Varronis opera,
@@ -1265,7 +1265,7 @@ populi sibi quique adoptaverunt. Igitur cum philosophi
 physicum conjecturis concinnarint, poetae mythicum
 de fabulis traxerint, populi gentile ultro praesumpserint,
 ubinam veritas collocanda? in conjecturis?
-0587C 
+
 sed incerta conceptio est; in fabulis? sed foeda
 relatio est; in adoptionibus? sed passiva et muncipalis
 adoptatio est. Denique apud philosophos incerta,
@@ -1275,7 +1275,7 @@ divinitas, si veram retractes, ea definitione est, ut
 istud neque argumentationibus incertis colligatur,
 neque fabulis indignis contaminetur, neque adoptionibus
 passivis judicetur; haberi enim debet, sicut
-0588A 
+
 est, certa, integra, communis, quia scilicet omnium.
 Caeterum quem Deum credam? quem suspicio aestimavit,
 quem historia jactavit, quem civitas voluit? Dignius
@@ -1293,7 +1293,7 @@ deum ignoret? . . . . divina alias enuntiatio Salomonis (Prov. IX. 10; Ps. XI. 1
 Initium, inquit, sapientiae
 metus in Deum. Porro timoris origo notitia est;
 quis enim timebitquod ignorat? Ita qui Deum timuerit,
-0588B 
+
 omnium notitiam et veritatem assecutus, plenam atque
 perfectam sapientiam obtinebit. Hoc autem philosophiae
 non liquido successit. Licet enim per curiositatem
@@ -1309,7 +1309,7 @@ inundatio de stillicidio uno atque alio
 veritatis; invento enim solummodo eo, non ut invenerant,
 exposuerunt, ut de qualitate ejus et de
 natura et jam de sede disceptent: Platonici quidem
-0588C 
+
 curantem rerum et arbitrum et judicem; Epicurei
 otiosum et inexercitum, et ut ita dixerim, neminem;
 positum vero extra mundum, Stoici; intra mundum,
@@ -1319,7 +1319,7 @@ exorbitantes scilicet ab initio sapientiae, id est, metu
 in Deum. Exstant testimonia tam ignoratae quam dubitatae
 inter philosophos Divinitatis. Diogenes consultus,
 quid in coelis agatur: Nunquam, inquit, ascendi.
-0589A 
+
 Item, an dei essent? Nescio, inquit, nisi ut sint expedire.
 Thales Milesius, Croeso sciscitanti, quid de
 deis arbitraretur, post aliquot deliberandi commeatus,
@@ -1335,7 +1335,7 @@ dividat, unam vult speciem, quae in promptu sit, ut
 solem, lunam . . . . . aliam, quae non compareat, ut
 Neptunum, reliquam, quae de hominibus ad divinitatem
 transisse dicitur, ut Herculem, Amphiaram.
-0589B 
+
 Aeque Arcesilaüs trinam formam divinitatis ducit,
 Olympios, Astra, Titaneos; de Coelo et Terra, ex
 his, Saturno et Ope, Neptunum, Jovem et Orcum et
@@ -1353,7 +1353,7 @@ fulgura proficiscitur, mundus emoritur.
 **3.**
 
  His ita expeditis, videmus physicum istud ad
-0589C 
+
 hoc subornatum, ut deos elementa contendat, cum
 his etiam alios deos natos alleget; Dei enim nonnisi
 de deis nascerentur. Quos quoniam in mythico apud
@@ -1368,7 +1368,7 @@ orta deos non esse, ad illam agnatorum
 speciem praestruemus recte non esse defendi, quorum
 parentes, id est elementia dei non sunt. Scitum,
 deum e deo nasci, quemadmodum de non deo non
-0589D 
+
 deum. Igitur quod elementa contineat mundus iste,
 ut summaliter tractem de universitate, partibus ejus
 praeministrans; nam quae conditio ejus, eadem utique
@@ -1378,7 +1378,7 @@ a nullo qua Epicuri duritia. Et si institutus est, habendo
 initium habebit et finem, ita quod aliquando
 non fuit ante initium, et quandoque non erit post
 finem: non capit utique videri deus carens substantia
-0590A 
+
 divinitatis, id est aeternitate, quae sine initio et fine
 censetur. Si vero institutus omnino non est ac propterea
 deus habendus, quod ut Deus neque initium
@@ -1394,7 +1394,7 @@ proposuit Varro. Et qui Varro indicaverat animalia
 esse coelum et astra. Quod si ita est, etiam mortalia
 sint necesse est, secundum animalis formam; nam
 etsi immortalem constat animam, ipsi hoc soli licebit,
-0590B 
+
 non etiam illi cui adnectitur, id est corpori. Nemo
 autem negabit mortale corpus esse, cum et contingamus
 ea et contingamur ab eis, certa corpora ex illis
@@ -1410,7 +1410,7 @@ minatore, sicut apparet, qui rotam compellit, et
 plaustra volvit, et machinam temperat. Igitur nisi
 animalia, non mobilia per se. Porro allegans, quid
 non appareat, ostendit quid quaesisse debuerat, id
-0590C 
+
 est, artificem et arbitrum motus; neque enim statim
 non est, quod, quia non videmus, non credimus
 esse. Imo eo altius investigandum est, quod non videatur,
@@ -1425,7 +1425,7 @@ quia non per alium; tamen illa non statim Dei, quia
 animalia, ita nec ideo, quia per se mobilia; aut
 quid vetat universa animalia, ut mobilia per se, deos
 haberi? . . . . . lia sane vanitate Aegyptiis licet.
-0590D 
+
 **4. **
 
 Aiunt quidam propterea deos fuisse appellatos,
@@ -1437,7 +1437,7 @@ Deus quem colimus, θεὸς cognominetur, nec tamen
 aut motus ullus aut cursus ejus appareat, quia nec
 visibilis cuiquam sit, palam est, ut vocabulum istud.
 . . . . . . sumptum propriumque, quia se nativum,
-0591A 
+
 divinitatis inventum. . . . . . . . interpretationis
 ejus astutia, verisimilius est non a cursu et motu θεοὺς
  dictos, sed de appellatione veri dei mutuatum,
@@ -1453,7 +1453,7 @@ in illo deo reprehensum, in caetera,
 quae deos vultis, docete etiam qualitatis inter illos
 esse consortium, ut jure consistat collegium nominis
 communione substantiae. Porro ΘΕΟΣ ille jam hoc solo,
-0591B 
+
 quod non sit in promptu, vacat a comparatione eorum,
 quae in promptu sunt et visui et sensui; sed
 sensui satis, quod est testimonii ad diversitatem
@@ -1468,7 +1468,7 @@ mel per favos transisse dicit. Itaque materia et Deus
 duo vocabula, duae res. Pro discrimine vocabulorum
 etiam res separantur, etiam materiae conditio vocabulum
 sequitur. Quod si materia non est, quia sic et
-0591C 
+
 appellatio praescribit, quomodo quae sunt in materia,
 id est elementa, dei habebuntur, cum membra a
 corpore alig. . . . esse non possint? Sed quid ego
@@ -1485,7 +1485,7 @@ etiam sol aciem suam extendit, ita illum orbem majorem
 peripatetici denotaverunt. Oro vos, quid sapit
 conjecturarum libido? Quid probat tanta praesumptione
 asseverationis otium affectatae morositatis eloquii
-0592A 
+
 artificio adornatum? Merito ergo Milesius Thales
  dum totum coelum examinat et ambulat oculis, in
 puteum cecidit. . . . . . r, multum irrisus Aegyptio
@@ -1503,7 +1503,7 @@ meminit ejus, creditam praeterea dicens elementorum
 divinitatem, quod nihil omnino sine suffragio illorum
 gigni, ali, provehi possit ad vitae humanae et terrae
 sationem, quando ne ipsa quidem corpora aut animas
-0592B 
+
 sufficere licuisset sine elementorum temperamento,
 quo hahitatio ista mundi circulorum conditionibus
 foederata praestatur, nisi quod hominum incolatui
@@ -1519,7 +1519,7 @@ conspirat. Nec tantum beneficiis fidem divinitatis
 elementis convenire, sed etiam de diversis,
 quae tanquam de ira et offensa eorum incidere soleant,
 ut fulmina, ut grandines, ut ardores, ut aurae
-0592C 
+
 pestilentes, item diluvia, item hiatus motusque
 terrarum. Et jure credi deos, quorum natura honoranda
 sit in secundis, metuenda sit in adversis, domina
@@ -1535,7 +1535,7 @@ male est, non lanis nec antidotis aut malagmatis
 ipsis gratiam meministis, sed medicis, quorum
 opera atque prudentia remedia proveniunt. Item in
 adversis qui ferro sociantur, non gladium ipsum aut
-0593A 
+
 lanceam accusant, sed hostem vel latronem. Et quos.
 . . tegulas aut imbrices arguunt, sed vetustatem;
 sicut et naufragi non petris et fluctibus imputant, sed
@@ -1551,7 +1551,7 @@ auferendo summum gradum auctoris et quae
 fiunt, non a quo fieri. . . ita credere contingit elementorum
 potestates et ar . . . esse, quae sunt servitutes
 et officia. Non in ista investigatione ali. . . . us
-0593B 
+
 artificis intus et domini, servitutis autem non tendimus
 elementorum . . . . operis eorum quas facis potestatis.
 Sed Dei non serviunt; ea igitur, quae serviunt,
@@ -1567,7 +1567,7 @@ suarum et fide operum et instantia. . . . . . . . et cura
 demutationum, memoria reciprocatorum, aliquam
 dominationem sibi praeesse persuadeant vobis, cui
 apparere videatur universa negotiatio mundialis perveniens
-0593C 
+
 ad humani generis utilitatem et . . . . . onem?
  Non enim potest dicere, ea sibi agere ista ac sibi
 curare nec quicquam hominum caussa disponere,
@@ -1582,7 +1582,7 @@ neque minui neque intercipi neque corrumpi debere.
 Caeterum abiit omnis felicitas ejus, si quid patitur unquam.
 Ecce autem et astra intercidunt, et intercicidisse
 se attestantur. Confitetur et luna, quantum
-0594A 
+
 amiserit, cum resumit. Jam majora ejus detrimenta
 soletis in aquae speculo considerare, ut nihil
 amplius ullam. . . . . credam quod magi norunt. Ipse
@@ -1600,7 +1600,7 @@ utique dicet elementa ista ab aliquo regi, quam ultro . . .
 igitur non deos, quae sub aliquo. At si in isto
 erratur, melius est simpliciter, quam ut physici, diligenter.
 Sed enim si ad mythic . . . tes, melius jam
-0594B 
+
 in physico mortalitas errat, eis divinitatem adscribendo,
 quae super hominem putat situ et vi et magnitudine
 et divinitate sentiri; quod enim super hominem,
@@ -1616,7 +1616,7 @@ ergo contendimus? Si addicenda mortuis divinitas
 erat, non utique talibus? Ecce vos cum eadem licentia
 praesumptionis sepulcris regum vestrorum coelum
 infamatis, nonne probatos quosque justitia, virtute,
-0594C 
+
 pietate et omni bono ejusmodi consecrationis solatio
 honestatis contenti pro talibus etiam irrideri pejerantes.
 At e contrario impios, turpes etiam pristinis
@@ -1629,7 +1629,7 @@ justitiae hominibus licebit in distribuendis divinitatibus
 sapere? Mundiores erunt regum et principum
 comites quam summi Dei? Atquin horretis et aversamini,
 vagos, exsules, . . . . . . debiles, sordide natos,
-0595A 
+
 inhoneste institutos; contra incestos, adulteros, raptores,
 parricidas etiam legibus exserendis. Ridendum
 an irascendum sit, tales deos credi, quales homines
@@ -1646,7 +1646,7 @@ deorum poetas eliminari Plato censuit, ipsum
 Homerum sane coronatum civitate pellendum. At cum
 excipiatis illos et retineatis, cur non credatis talia retexentibus
 de deis vestris? Igitur si creditis poetis,
-0595B 
+
 cur laudem mendacibus fertis, nec cavetis ne offendatis
 eos, quorum detrectatores honoratis? Sane fides
 a poetis non exigenda. Nonne qui dicitis deos post
@@ -1661,7 +1661,7 @@ masculus amputatur, si nullus illi fastidiosior adolescens
 libidinis frustatae dolore castratus est? Cur
 Herculeum polluctum mulieres Lanuvinae non
 gustant, si non mulierum caussa p . . . . . . Mentiuntur
-0595C 
+
 sane poetae! sed non ideo quod talia gesserint . . . homines
 quas defuerint nec quod divinas adscripserint
 fo . . . . divinitatis, cum interim vobis credibilius visum
@@ -1675,7 +1675,7 @@ docet privata notitia. Deum ergo existimo ubique
 notum, ubique praesentem, ubique dominantem, omnibus
 colendum, omnibus demerendum. At enim cum
 illi quoque, quos totus orbis communiter colit, excidant
-0596A 
+
 probationi verae divinitatis, quanto magis isti,
 quos ne ipsi quidem municipes sui norunt? Nam quae
 idonea auctoritas praecucurrit ejusmodi theologiae,
@@ -1692,7 +1692,7 @@ cujusque municipii, quibus honor intra muros
 suos determinatur. Haec libertas adoptandorum deorum
 quousque profecerit, Aegyptiorum superstitiones
 docent, qui etiam bestias privatas colunt, p . . . . crocodilos
-0596B 
+
 et anguem suum. Parum est si etiam hominem
 consecrarunt. Illum dico, quem non jam Aegyptus
 aut Graecia, verum totus orbis . . . . . . Afri jurant;
@@ -1707,7 +1707,7 @@ sed quia non obsequebatur, e contrario ab eadem delatus,
 a rege in carcerem datur. Illic somnia quibusdam
 non perperam interpretatus, vim spiritus sui
 ostendit. Interea rex quoque somnia terribilia quaedam
-0596C 
+
 illi, detractis quos convocaverat, voluit exponere.
 Joseph expedimenta de carcere edocuit, somnium
 regi aperit: illos boves septem opimissimos,
@@ -1719,7 +1719,7 @@ priore, credidit rex; exitus rerum et prudêntem et
 sanctum semper necessarium probavit. Itaque Pharao
 universae Aegypto et frumentandae et exinde curandae
 eum praefecit. Hunc Serapidem ex suggestu,
-0597A 
+
 quo caput ejus ornatum, vocaverunt, cujus suggestus
 modialis figura frumentationis memoriam obsignat,
 et curam frugum super caput ejus fuisse, ipsis spicis,
@@ -1736,7 +1736,7 @@ naturae conditionisque suae potius argumenta videri
 posset consecrasse gens rixosa, suis regibus recontrans,
 in extraneis dejecta, sane et gula et spurcitia . . . . . .
 etiam servi ipsa.
-0597B 
+
 **9. **
 
 Haec secundum tripertitam dispositionem . . . .
@@ -1752,7 +1752,7 @@ conceptis superstitionum seminibus vitii pueritiam
 obumbravit. Sed et Romanorum deos Varro bifariam
 disposuit incertos et electos. Tantam vanitatem! Quid
 enim erat illis cum incertis, si certos habebant? nisi
-0598A 
+
 si Atticos stupores recipere voluerunt. Nam et Athenis
 ara est inscripta: Ignotis deis. Colit ergo quis
 quod ignorat? Tum si certos habebant, contenti esse
@@ -1769,7 +1769,7 @@ in mythico comprehendantur, actum est jam de istis
 speciebus. De propriis dicere . . . . et. De Romanis stupeamus,
 tertium illud genus hostilium deorum . . . .
 eo quod nulla gens alia tantum sibi superstitionis invenerit
-0598B .
+.
 . . . duas species dirigimus, alios de hominibus
 assumptos, alios inde conceptos. Igitur quoniam
 idem illis color suppetit consecrationis mortuorum,
@@ -1783,7 +1783,7 @@ tam Aeneas, quam Antenor. Ac si hoc verum
 nolunt, Aeneas certe patria flagrante dereliquit socios
 foeminae Punicae subjiciendus, quae maritum Hasdrubalem
 Aeneae timiditate supplicantem hosti non
-0599A 
+
 non comitata, raptis secum filiis, formam et patrem
 sibi habere non in fugam sapit, sed in ignes ardentis
 Carthaginis ut in amplexus patriae pereuntis incubuit.
@@ -1800,7 +1800,7 @@ cur non magis dea, quae magis pia, illa filia patris
 in carcere fame defecti uberibus suis educatrix?
 Quid aliud Aeneae gloriosum, nisi quod praelio laurentino
 nusquam comparuit? Rursus forsitan solito
-0599B 
+
 more quasi desertor e praelio fugerit. Romulus aeque
 post mortem deus, si quia urbem condidit deus, usque
 in foeminas, urbium auctores. Sane Romulus et
@@ -1815,7 +1815,7 @@ conversaretur quidem inter viros, aut barbaria aut
 conscientia deformitatis aut rubore insaniae paternae,
 quanto dignior bona dea Penelopa, quae inter utilissimos
 amatores diversata, obsessam castitatem tenere
-0599C 
+
 protexit? Est et sanctus, propter hospitalitatem a
 rege Plotio fanum consecutus: potuit et Ulixes de
 humanissimo Alcinoo unum amplius deum vobis contulisse.
@@ -1831,10 +1831,10 @@ quem non habebat, repraesentaret, una manu
 Herculis nomine, alia ex sua persona lusum inisse,
 si ipse vicisset, coenulam et scortulum ex stipitibus
 Herculis sumeret; si vero Hercules, id est manus
-0599D 
+
 altera, eadem Herculi exhiberet. Vicit manus Herculis
 (quoque potuit duodecim titulis ejus adscribi).
-0600A 
+
 Aeditus coenam Herculi dependit, scortum Larentinam
 conducit: coenat ignis, qui Sol, et ipsius Herculis
 co . . . . . . . nia ara consumpsit. Larentina in aede
@@ -1851,7 +1851,7 @@ ut ipsas h . . . . . . . . . . . . . . . . . . . . . dium a Larentiniana Romanor
 numina digni . . . . . . . . . . . sola de tot uxoribus
 Herculi cara, sola enim dives . . . . . . . . . . or Cerere quae
 mortuo placuit. Tot exemplis et vo . . . . . . . . . . . . quis non
-0600B 
+
 deus affirmari potuit? Quis denique Antinoo controversiam
 divinitatis agitavit, quod decorior Ganymedes
  aut carior suo amatori . . . .? Apud vos mortuis
@@ -1866,7 +1866,7 @@ efflagitant deosque sanciunt, dividentes omnem
 statum hominis singulis potestatibus ab ipso quidem
 uteri conceptu, ut si deus Consevius quidam, qui
 consationibus concubitalibus praesit, et Fluviona,
-0600C 
+
 quae infantem in utero . . . . . . . hinc Vitumnus, et Sentinus,
 per quem viviscat infans et sentiat . . . . . : dehinc
 Diespiter, qui puerum perducat ad partum. Cum
@@ -1881,10 +1881,10 @@ Potina et Eluda, et statuendi infantis sta . . . . . . . . . do,
 Abeona, et Domiducam, et habent Edeam . . . . . . . ae et
 malam. Item voluntatis, Volumnum, Voletam . . . . . . . . .
 Paventinam, Pavoris, Spei, Venilliam; voluptatis, Volupiam . . . . . ntiae,
-0600D 
+
 Praestitiam; aeque ab actu, Peragenorem:
 a consiliis Consum; juventam, novorum togatorum;
-0601A 
+
 virorum jam, fortuna barbata . . . . . . . nuptialibus
 disseram. Afferenda est ab afferendis dotibus
 ordinata . . . . . . . dor, et Mutunus et Tutunus, et
@@ -1902,7 +1902,7 @@ mares, an et foeminas? caelibes, an et le,.
 . . . . ? artifices, an et inertes? rusticos, an et urbanos?
 cives, an et peregrinos. Tot enim familiae, tot nationes
 sensus bona fide quaerunt, ut dispici et distingui
-0601B 
+
 describique non possint, ut quanto diffusa res est,
 tanto substringenda nobis erit. Et ideo, quis in ista
 specie unum tuemur propositum demonstrandi, illos
@@ -1918,7 +1918,7 @@ Saturno; de Coelo enim et Terra Saturnus. Et tamen
 Coeli et Terrae originem omitto. Erant inde caelibes
 diu et orbi, antequam mariti et parentes. Longo scilicet
 aevo crescendum illis fuit ad tantam proceritatem.
-0601C 
+
 Denique simul coepit et Coelo vox insolescere et ubera
 terrae lapilliscere, faciunt nuptias inter se. Credo,
 aut Coelum descendit ad sponsam, aut Terra ascendit
@@ -1934,10 +1934,10 @@ Nondum enim Vulcanus artifex ferri. Terra vero orbata
 distulit, etsi adhuc juvenili aetate, alii nubere.
 Sed nec habebat Coelum . . . . . tamen nisi illam Mare
 amplectitur, sed olet salsuginem . . . . aquis assueta. Ita
-0601D 
+
 Saturnus unicus masculus Coeli atque Terrae. Sed ipse
 pubescens sorori suae jungitur. Nondum leges, quae
-0602A 
+
 incesta prohiberent, nec quae parricidium plecterent.
 Itaque filios virili sexu devorabat; melius ipse, quam
 lupi, si exponeret; timebat scilicet, ne quis illorum
@@ -1953,7 +1953,7 @@ esse, et ideo Coelum et Terram parentes, ut et ipsos
 origini nullos, et ideo falcatum, quia tempore omnia
 dirimantur, et ideo voratorem suorum, quod omnia
 ex se edita in se ipsum consumat. Nominis quoque
-0602B 
+
 testimonium compellant: Cronium dictum graece, ut
 Chronon; aeque latini vocabuli a sationibus rationem.
 . . . . ut, qui eum procreatorem conjectantur, per eum
@@ -1969,7 +1969,7 @@ in tempo . . . . Quid sibi vult intellectio ista, nisi foedas
 materias mentitis argumentationibus colorare? Saturnum
 neque ideo qui . . d . . . . tempus, aut dum eum
 tempus facis, jam nec hominem vis fuisse. Pla . . . . s
-0602C 
+
 omnino Saturnus in terris humanae qualitatis apud
 veteres memorias recensetur. Potest incorporaliter
 fingi quodvis, quod non fuerit omnino; vacat fingendi
@@ -1985,10 +1985,10 @@ quam in ipsa Italia signata sunt. Nam post plurimas
 tetras et Attica hospitia Italiae, vel, ut tunc vocabatur,
 Oenotriae, consedit, exceptus ab Jano sive Jane,
 ut Salii vocant. Mons, quem coluerat, Saturnius
-0602D 
+
 dictus; urbs, quam depalaverat, Saturnia usque nunc
 est; tota denique Italia de Saturno vocabatur:
-0603A 
+
 tali teste terram, quae nunc dominatur orbi etiamsi
 de origine Saturni dubitatur, de actu tamen constat
 hominem illum fuisse. Ita si homo Saturnus, procul
@@ -2004,7 +2004,7 @@ dici. Nam et vulgo generis incertos terrae filios
 jactitamus. Nihil allego de statu antiquitatis, qua . . .
 rudes tunc agebantur et oculi et mentes hominum,
 ut cujuslibet novi viri aspectu quasi divino commoverentur,
-0603B 
+
 nedum et regis, et quidem primi. Adhuc de
 Saturno immorabor, quod et caeteris compendium
 praestruam, satiata primordiorum disputatione; nec
@@ -2020,7 +2020,7 @@ et Titan et Jamfetus, Terrae et Coeli fortissimi filii.
 Si qua ergo, vel vestris . . . . oribus litteris vestris superioribus,
 sed idcirco magis proximis . . . . in illius
 aetatis, fides adjacet.
-0603C 
+
 **13. **
 
 Satis de Saturno et Prosapia ejus . . . . um est,
@@ -2037,12 +2037,12 @@ affirmando illos post mortem deos factos, ut
 Varro, et qui cum eo somniaverunt. Hic igitur consisto . . . . .
 alle . . . . . in hoc nomen et numen, ut in ordinem
 senatorium, . . . . . vestra . . . . . cedatis jam necesse
-0603D 
+
 est, aliquem summum dominatorem . . . . . allegendi
 potestatem, et quasi Caesarem; neque quisquam
 aliis praestare potest, qui non ipse dominetur. Caeterum
 si potuerunt deos sese facere post mortem, a . . . .
-0604A 
+
 deterioris conditionis ab initio esse voluerunt; aut
 si nemo est, qui deos fecerit, quomodo facti dicentur,
 qui non nisi ab alio fieri potuissent? Ita nullus datur
@@ -2058,7 +2058,7 @@ caussa facit. Sed neque . . . . . . . petere numini
 inest tanta et potestas, ut scilicet . . . . . faciat, si tanta
 humanitas irrogetur, qui egeat opera vel adjumento
 quorumdam, et quidem mortuorum, quo mirum magis,
-0604B 
+
 cum alios sibi immortales instituere potuisset.
 Nec diutius de . . . . . . tus conquiret, qui humana divinis
 comparavit. Sa . . . . . rior opinio est, discuti debet, si
@@ -2074,7 +2074,7 @@ meritoque incre . . . . . . . . tam mala manebant.
 Adultus denique qualemcumque genitorem, . . . . . . licissimum,
 regem aurei scilicet seculi, sub quo laboris
 inopiae . . . . . . ac pax quiescebat sub quo nulli
-0604C 
+
 subigebant arva coloni, . . . . . . . . tellus nullo poscente
 ferebat. Sed oderat patrem incestum ejus . . . . castratorem.
 . . . . Ecce autem et ipse cum sorore miscetur,
@@ -2090,11 +2090,11 @@ aut pretium bovis pensaverit, et imbrem pergulis.
 . . . aditum pecunia ruperit? modo in similitudines
 actuum ip . . . . . . . im, qiu rapuit, cycnum, qui cantaverat.
 Adeo non fabulae istae sunt de fa . . . . . . . . sit an
-0604D 
+
 non lasciv . . . . . . . . . . na hominum, quos . . . . . . . . emissa
 jam pridem a fide per incr . . . . . . . non est nobis extensius
 agendum. Si enim et re . . . . . . . . pibus et proseminatoribus
-0605A 
+
 suis morata plebs eadem q . . . . . . natura,
 alibi auctoritas exigebat similitudinem morum . . . . . . . .
 quanto deterior, qui non melior? privato enim titulo
@@ -2112,7 +2112,7 @@ ma responsionis, an dignus coelo et divinitate, sic
 enim pro va . . . . meritis addicunt divinitatem? Si ob
 virtutem, quod feras constan . . . rit, quid tam memorabile?
 nonne ludo puniti, vel etiam ad . . . arenariae vilitatis
-0605B 
+
 plurimas in unum, et quidem studiosiores . . . .
 ciunt. Si ob peragratum orbem, quantis ad locupletibus
 dulcis . . . . tas, aut philosophis famulatoria mendicitas
@@ -2128,7 +2128,7 @@ tituli Hercula . . . . . . . rum, uxorum, et foetas Omfales,
 et ob decori pueri amissio . . . desertam militiam Argonautarum.
 Adjicite ad gloriam post turpi . . . . am,
 etiam furias ejus; auctorate sagittas, quae filios et
-0605C 
+
 uxorem . . . . erunt; qui tunc dignius rogo sese irrogasset
 prae dolore parti . . . . . . . Qui uxoris ob lasciviam
 venenis circumventus magis metu . . . honesta morte
@@ -2144,14 +2144,14 @@ impius in nepotem, invidus in artificem. Sed enim pin . ..
 . . . . um ejus non occultavit, cupiditatem et avaritiam lucri.
 . . atam, qua quidem ille vivos ad mortem, non mortu.
 . . . praevaricatione venalis medicinae agebat. Dicitur
-0605D 
+
 etiam mater ejus eodem casu obisse; merito . . . sam m . . .
 bestiam ediderat iisdem quasi scalis ad coelum erupisse.
 Et tamen Athenienses scient ejusmodi deis
 sacrificare. Nam Aesculapio et matri inter mortuos
 parentant, quasi non et ipsi Thesea suum adorent:
 Mer . . . . deum, qui nisi conservatricem suam in littore
-0606A 
+
 peregrino deliquit, eadem oblivione, imo amentia,
 quae patri caussa mortis fuit.
 **15.**
@@ -2169,7 +2169,7 @@ Caeculus, qui oculos sensu exani . . . . Orbana, quae in
 orbitatem semina exstinguat, et ipsius Mortis . . . . Ut
 caetera transvolem, etiam locorum urbis, vel loca,
 deos ar . . . . patrem, et diva Arquis et Lana et montium
-0606B 
+
 Septemontium. . . . illi faciunt, qui in iisdem
 locis aras vel aedes habent, praeterea . . . . in alieno
 loco aut mercedibus habitant. Taceo Ascensum . . . .
@@ -2185,7 +2185,7 @@ deputentur, quos supra signavimus, nec facile foris
 cogniti, quomodo ea omnia illos praeesse voluerunt
 in omni genere humano, et in omni gente proveniunt;
 ubi praedes eorum, non modo honore, sed
-0606C 
+
 ipsa quoque notitia carent. Sed enim quidam fructus
 et necessaria victui demonstraverunt?
 **16.**
@@ -2203,14 +2203,14 @@ cui sub . . . . semper instabat exprimeret. Cerasum Cn.
 Pompeius de Ponto. . . . Italiae provulgavit. Potuerunt
 mihi novorum apud Romanos pomorum . . . .
 ruisse praeconium divinitatis. Tam vanum hoc, quam
-0606D 
+
 etiam . . . . commenta deos haberi; quibus si comparentur
 nostrae aetatis . . . . o dignius posteris, quam
 prioribus consecratio competisset . . . . on in omnibus
 jam artificiis antiquitas exolevit, usu quotidiano instruente
 novitatem; atque adeo quos ob artes sanctifi . . .
 in ipsis artibus et provocatis in aemulis insuperatos.
-0607A 
+
 **17. **
 
 Denique . . . . toribus suis non negatis omnibus
@@ -2227,7 +2227,7 @@ posthabita Samo dilecta, et utique Aeneadarum
 ignibus adoleri . . . . 
 Hic illius arma,Hic currus fuit, hoc regnum dea gentibus esse,Si qua fata sinant, jam tunc tenditque fovetque. 
 Misera adversus fata non valuit. Nec tamen tantum
-0607B 
+
 honoris Romani satis decreverint, ut dedentibus
 Carthaginem sibi, quantum Larentinae. Si dei isti
 conferendi in pote . . . . uit enim Jupiter Cretae et Saturnus
@@ -2242,9 +2242,9 @@ praestitisse valuerunt, cur Athenas a Xerxe Minerva
 non defendit? vel cur Delfos de manu Pyrrhi Apollo
 non eruit? Servarint urbem Romam, qui sua perdiderunt!
 Si hoc religiositas Romana meruit; atqui, non
-0607C 
+
 post summum imperium auctis jam rebus superstitio
-0608A 
+
 quaesita est? etsi a Numa sacra introducta sunt, nondum
 tamen aut simulacris, aut templis res vestras divina
 frustrabant. 28 Frugi religio et paupertina superstitio,
@@ -2260,7 +2260,7 @@ caedes et civium et sacerdotum, eaedem rapinae profanorum
 et sacrorum. Tot sacrilegia Romanorum,
 quot trophaea; tot de deis quot de gentibus triumphi.
 Manent et simulacra captiva, et utique senti . . . . . . . . . .
-0608B 
+
 os non amant. Sed quia nihil sentiunt, impune laeduntur.
 . . . . . . . . laeduntur, frustra adorantur. Itaque
 quorum fastigium . . . . . . . . . . adultum est, non possunt

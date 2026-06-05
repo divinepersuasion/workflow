@@ -21,5 +21,12 @@
 </xsl:text>
     </xsl:template>
     
+    <xsl:template match="app"/>
+    
+    <xsl:template match="l">
+        <xsl:apply-templates/>
+        <xsl:text>
+</xsl:text>
+    </xsl:template>
     
 </xsl:stylesheet>
